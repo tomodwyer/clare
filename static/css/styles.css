@@ -1,0 +1,58 @@
+body {
+  font-family: "Josefin Sans";
+  font-weight: 300;
+  text-align: justify;
+}
+
+ul {
+  list-style-type: none;
+}
+
+nav {
+  font-weight: 400;
+}
+
+.navbar {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.navbar-brand {
+  font-weight: 300;
+  font-size: 2.5rem;
+}
+
+.nav-link {
+  color: rgba(0, 0, 0, 1) !important;
+}
+
+img {
+  display: block;
+}
+
+.main-image {
+  position: sticky;
+  top: 134px;
+}
+
+#home {
+  position: relative;
+  display: inline-block;
+}
+
+.news {
+  position: absolute;
+  top: 0%;
+  left: 70%;
+  text-align: right;
+  color: white;
+  font-size: 1.2rem;
+}
+
+.news a {
+  color: white;
+  font-weight: 400;
+}
+
+.composer-name {
+  font-weight: 400;
+}
