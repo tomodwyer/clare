@@ -59,7 +59,9 @@ sqlparse==0.4.2
 toml==0.10.2
     # via pre-commit
 tomli==1.2.2
-    # via black
+    # via
+    #   -r requirements.in
+    #   black
 typing-extensions==3.10.0.2
     # via black
 virtualenv==20.9.0
