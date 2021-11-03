@@ -1,3 +1,5 @@
+import csv
+
 import tomli
 from django.shortcuts import render
 from django.utils.safestring import mark_safe
@@ -28,6 +30,18 @@ def concerts(request):
             ]
     ctx = {"concerts": concerts}
     return render("request", "concerts.html", ctx)
+
+
+def repertoire(request, category):
+    records = []
+    with open(f"pages/repertoire/{category}.tsv") as f:
+        for r in csv.reader(f, delimiter="\t"):
+            if records and r[0] == records[-1][0]:
+                records.append(["", r[1]])
+            else:
+                records.append(r)
+    ctx = {"records": records, "title": f"{category.title()} Repertoire"}
+    return render("request", "repertoire.html", ctx)
 
 
 def _load_markdown(path):

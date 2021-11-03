@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<div class="container">
+  {% include "nav.html" %}
+
+  <div id="{{ page_id }}" class="row pt-5">
+    <div class="col-6 pr-5">
+      <div class="main-image">
+        <img src="{% static 'img/Clare Hammond4923b.jpg' %}" class="w-100" />
+      </div>
+    </div>
+
+    <div class="col-6 pl-5">
+      <h2>{{ title }}</h2>
+      <table>
+        {% for record in records %}
+          <tr><td>{{ record.0 }}</td><td>{{ record.1 }}</td></tr>
+        {% endfor %}
+      </table>
+    </div>
+  </div>
+</div>
+{% endblock %}
