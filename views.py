@@ -15,7 +15,7 @@ def home(request):
 def biography(request):
     content = _load_markdown("pages/biography.md")
     ctx = {"page_id": "biography", "content": content}
-    return render(request, "page.html", ctx)
+    return render(request, "biography.html", ctx)
 
 
 def concerts(request):
