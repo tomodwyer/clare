@@ -1,0 +1,62 @@
+title: "Variations"
+---
+type: text
+
+For her fifth release with [BIS Records][1], Clare Hammond has constructed an adventurous programme of twentieth and twenty-first-century variations for piano. From the imposing *Chaconne* by Sofia Gubaidulina, to the tender grief of Paul Hindemith’s *Variations* or Aaron Copland’s bold and uncompromising proclamation, the album presents a fresh perspective on the genre.
+
+Hammond opens with Karol Szymanowski’s *Variations on a Polish Theme* from 1904, a virtuosic and intensely Romantic outpouring that contrasts strikingly with the wit and irreverence of Helmut Lachenmann’s set on a theme by Schubert. The most recent works in the programme are Harrison Birtwistle’s mercurial elegy and its polar opposite *I Still Play*, a lyrical waltz composed in 2017 by John Adams.
+
+The disc is available from [BIS Records][1], [eClassical][2], [Presto Classical][3], [Amazon][4] and on [digital platforms][5]. 'Variations' was selected as one of Apple Music's [10 Classical Albums you must hear][6] in March 2021.
+
+* Read international press reviews [here][7] and listen to features on [RTS Espace 2][8] and the [Thoroughly Good podcast][9] with Jon Jacob.
+* Download information on an accompanying series of school and prison recitals [here][10].
+
+[1]: https://bis.se/performers/hammond-clare/variations-clare-hammond
+[2]: https://www.eclassical.com/hammond-clare/variations-clare-hammond.html
+[3]: https://www.prestomusic.com/classical/products/8863813--variations
+[4]: https://www.amazon.com/dp/B08R3MTHLD
+[5]: https://naxos.lnk.to/HammondVariationsEL
+[6]: https://music.apple.com/gb/playlist/classical-you-must-hear-this-month/pl.c709cdc139444d95b84d64ab25cbcac9
+[7]: /reviews/
+[8]: /espace2variations/
+[9]: https://audioboom.com/channels/4941520
+[10]: /resources/school-prison-concerts.pdf
+
+---
+type: video
+subtitle: Trailer
+
+- link: https://www.youtube.com/embed/kGcWIoDAz4Q
+
+---
+type: gallery
+subtitle: Press Photos
+
+- title: Album Cover
+  details: Design ©Sveta Yavorsky
+  image: variations_cover.jpg
+- title: Clare Hammond
+  details: ©Julie Kim
+  image: clare-hammond-2.jpg
+- title: Clare Hammond
+  details: ©Julie Kim
+  image: clare-hammond-1.jpg
+
+
+---
+type: text
+
+This disc was only possible thanks to the generous support of [Arts Council England][1], The John S Cohen Foundation, [Fidelio Charitable Trust][2], [Golsoncott Foundation][3], [Scops Arts Trust][4], [Stradivari Trust][5], Penny Wright and Andrew Neubauer.
+
+[1]: https://www.artscouncil.org.uk/projectgrants
+[2]: http://www.fideliocharitabletrust.org.uk/
+[3]: http://www.golsoncott.org.uk/
+[4]: https://www.scopsartstrust.org.uk/
+[5]: https://stradivaritrust.org/
+
+---
+type: sponsor-logos
+
+- name: Arts Council England
+  url: https://www.artscouncil.org.uk/projectgrants
+  logo: logos/arts-council-england.jpg
