@@ -9,13 +9,13 @@ from markdown import markdown
 def home(request):
     content = _load_markdown("pages/home.md")
     ctx = {"content": content}
-    return render("request", "home.html", ctx)
+    return render(request, "home.html", ctx)
 
 
 def biography(request):
     content = _load_markdown("pages/biography.md")
     ctx = {"page_id": "biography", "content": content}
-    return render("request", "page.html", ctx)
+    return render(request, "page.html", ctx)
 
 
 def concerts(request):
@@ -29,7 +29,7 @@ def concerts(request):
                 mark_safe(markdown(detail)) for detail in concert["details"]
             ]
     ctx = {"concerts": concerts}
-    return render("request", "concerts.html", ctx)
+    return render(request, "concerts.html", ctx)
 
 
 def repertoire(request, category):
@@ -41,7 +41,7 @@ def repertoire(request, category):
             else:
                 records.append(r)
     ctx = {"records": records, "title": f"{category.title()} Repertoire"}
-    return render("request", "repertoire.html", ctx)
+    return render(request, "repertoire.html", ctx)
 
 
 def _load_markdown(path):
