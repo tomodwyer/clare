@@ -6,19 +6,21 @@
   {% include "nav.html" %}
 
   <div id="{{ page_id }}" class="row pt-5">
-    <div class="col-12">
-            <h1>{{ title }}</h1>
+    {% if main_image %}
+      <div class="col-6 pr-5">
+        <div class="main-image">
+          <img src="{% static main_image %}" class="w-100" />
+        </div>
+      </div>
 
-            {% for section in sections %}
-            <div class="py-3">
-                    {% if section.subtitle %}
-                    <h2>{{ section.subtitle }}</h2>
-                    {% endif %}
-
-                    {% include section.template %}
-            </div>
-            {% endfor %}
-    </div>
+      <div class="col-6 pl-5">
+        {% include "_sections.html" %}
+      </div>
+    {% else %}
+      <div class="col-12">
+        {% include "_sections.html" %}
+      </div>
+    {% endif %}
   </div>
 </div>
 {% endblock %}

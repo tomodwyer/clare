@@ -1,3 +1,8 @@
+title: Performances in 2021
+main_image: philip-gatward/Clare Hammond4923b.jpg
+---
+type: concerts
+
 [[concert]]
 date = 2021-08-20
 location = "Winchelsea, Sussex"

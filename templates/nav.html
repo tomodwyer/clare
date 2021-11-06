@@ -3,10 +3,10 @@
 
   <ul class="navbar-nav ml-auto">
     <li class="nav-item mx-2">
-      <a class="nav-link" href="{% url 'biography' %}">BIOGRAPHY</a>
+      <a class="nav-link" href="{% url 'page' 'biography' %}">BIOGRAPHY</a>
     </li>
     <li class="nav-item mx-2">
-      <a class="nav-link" href="{% url 'concerts' %}">CONCERTS</a>
+      <a class="nav-link" href="{% url 'page' 'concerts' %}">CONCERTS</a>
     </li>
     <li class="nav-item dropdown mx-2">
       <a
@@ -21,7 +21,7 @@
       </a>
       <div class="dropdown-menu">
         <a class="dropdown-item" href="#">Concerto</a>
-        <a class="dropdown-item" href="{% url 'repertoire' 'solo' %}">Solo</a>
+        <a class="dropdown-item" href="{% url 'page' 'repertoire/solo' %}">Solo</a>
         <a class="dropdown-item" href="#">Chamber</a>
         <a class="dropdown-item" href="#">Contemporary</a>
         <a class="dropdown-item" href="#">Sample programmes</a>

@@ -1,0 +1,13 @@
+{% if title %}
+  <h1>{{ title }}</h1>
+{% endif %}
+
+{% for section in sections %}
+  <div class="py-3">
+    {% if section.subtitle %}
+      <h2>{{ section.subtitle }}</h2>
+    {% endif %}
+
+    {% include section.template %}
+  </div>
+{% endfor %}

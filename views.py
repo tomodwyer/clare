@@ -15,39 +15,6 @@ def home(request):
     return render(request, "home.html", ctx)
 
 
-def biography(request):
-    with open("pages/biography.md") as f:
-        content = _load_markdown(f.read())
-    ctx = {"page_id": "biography", "content": content}
-    return render(request, "biography.html", ctx)
-
-
-def concerts(request):
-    with open("pages/concerts.toml") as f:
-        concerts = tomli.load(f)["concert"]
-    for concert in concerts:
-        if "summary" in concert:
-            concert["summary"] = mark_safe(markdown(concert["summary"]))
-        if "details" in concert:
-            concert["details"] = [
-                mark_safe(markdown(detail)) for detail in concert["details"]
-            ]
-    ctx = {"concerts": concerts}
-    return render(request, "concerts.html", ctx)
-
-
-def repertoire(request, category):
-    records = []
-    with open(f"pages/repertoire/{category}.tsv") as f:
-        for r in csv.reader(f, delimiter="\t"):
-            if records and r[0] == records[-1][0]:
-                records.append(["", r[1]])
-            else:
-                records.append(r)
-    ctx = {"records": records, "title": f"{category.title()} Repertoire"}
-    return render(request, "repertoire.html", ctx)
-
-
 def page(request, path):
     with open(f"pages/{path}.txt") as f:
         data = f.read()
@@ -59,7 +26,10 @@ def page(request, path):
 
         if ix == 0:
             page_metadata = _load_yaml(section)
-            ctx["title"] = page_metadata["title"]
+            ctx["title"] = page_metadata.get("title")
+            main_image = page_metadata.get("main_image")
+            if main_image is not None:
+                ctx["main_image"] = f"img/{main_image}"
         else:
             section_metadata, section_data = section.split("\n\n", 1)
             section_metadata = _load_yaml(section_metadata)
@@ -99,15 +69,36 @@ def page(request, path):
                             "url": logo["url"],
                         }
                     )
-                    print(path)
+            elif section_type == "concerts":
+                concerts = _load_tomli(section_data)["concert"]
+                for concert in concerts:
+                    if "summary" in concert:
+                        concert["summary"] = mark_safe(markdown(concert["summary"]))
+                    if "details" in concert:
+                        concert["details"] = [
+                            mark_safe(markdown(detail)) for detail in concert["details"]
+                        ]
+                section_ctx["concerts"] = concerts
+            elif section_type == "repertoire":
+                records = []
+                for r in csv.reader(section_data.splitlines(), delimiter="\t"):
+                    if records and r[0] == records[-1][0]:
+                        records.append(["", r[1]])
+                    else:
+                        records.append(r)
+                section_ctx["records"] = records
 
             ctx["sections"].append(section_ctx)
 
     return render(request, "page.html", ctx)
 
 
+def _load_tomli(s):
+    return tomli.loads(s)
+
+
 def _load_yaml(s):
-    return yaml.load(s, yaml.SafeLoader)
+    return yaml.load(s, yaml.SafeLoader) or {}
 
 
 def _load_markdown(s):
