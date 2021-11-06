@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<div class="container">
+  {% include "nav.html" %}
+
+  <div id="{{ page_id }}" class="row pt-5">
+    <div class="col-12">
+            <h1>{{ title }}</h1>
+
+            {% for section in sections %}
+            <div class="py-3">
+                    {% if section.subtitle %}
+                    <h2>{{ section.subtitle }}</h2>
+                    {% endif %}
+
+                    {% include section.template %}
+            </div>
+            {% endfor %}
+    </div>
+  </div>
+</div>
+{% endblock %}

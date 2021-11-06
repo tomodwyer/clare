@@ -1,0 +1,21 @@
+{% load static %}
+
+<div class="row">
+  {% for image in section.images %}
+  <div class="col-2">
+    <a href="{% static image.path %}" target="_blank">
+      <img
+        src="{% static image.thumb_path %}"
+        title="{{ image.description }}"
+        alt="{{ image.title }}"
+        class="w-100 img-thumbnail"
+      />
+    </a>
+
+    <p class="my-1">
+      <a href="{% static image.path %}" target="_blank">{{ image.title }}</a>
+    </p>
+    <p class="small">{{ image.details }}</p>
+  </div>
+  {% endfor %}
+</div>

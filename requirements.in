@@ -1,5 +1,6 @@
 django
 markdown
+pyyaml
 tomli
 
 black

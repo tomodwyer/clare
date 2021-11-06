@@ -26,25 +26,29 @@ The disc is available from [BIS Records][1], [eClassical][2], [Presto Classical]
 type: video
 subtitle: Trailer
 
-- link: https://www.youtube.com/embed/kGcWIoDAz4Q
+- url: https://www.youtube.com/embed/kGcWIoDAz4Q
 
 ---
 type: gallery
 subtitle: Press Photos
 
 - title: Album Cover
+  description: Cover of Variations CD
   details: Design ©Sveta Yavorsky
-  image: variations_cover.jpg
+  path: album-covers/variations.jpg
 - title: Clare Hammond
+  description: Clare Hammond publicity photo
   details: ©Julie Kim
-  image: clare-hammond-2.jpg
+  path: julie-kim/clare-hammond-2.jpg
 - title: Clare Hammond
+  description: Clare Hammond publicity photo
   details: ©Julie Kim
-  image: clare-hammond-1.jpg
+  path: julie-kim/clare-hammond-1.jpg
 
 
 ---
 type: text
+subtitle: Acknowledgements
 
 This disc was only possible thanks to the generous support of [Arts Council England][1], The John S Cohen Foundation, [Fidelio Charitable Trust][2], [Golsoncott Foundation][3], [Scops Arts Trust][4], [Stradivari Trust][5], Penny Wright and Andrew Neubauer.
 
@@ -59,4 +63,13 @@ type: sponsor-logos
 
 - name: Arts Council England
   url: https://www.artscouncil.org.uk/projectgrants
-  logo: logos/arts-council-england.jpg
+  path: arts-council-england.jpg
+- name: Golsoncott Foundation
+  url: http://www.golsoncott.org.uk/
+  path: golsoncott-foundation.jpg
+- name: Stradivari Trust
+  url: https://stradivaritrust.org/
+  path: stradivari-trust.jpg
+- name: Scops Arts Trus
+  url: https://www.scopsartstrust.org.uk/
+  path: scops-arts-trust.jpg

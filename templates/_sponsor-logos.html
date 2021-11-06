@@ -1,0 +1,16 @@
+{% load static %}
+
+<div class="row">
+  {% for logo in section.logos %}
+  <div class="col-3">
+    <a href="{{ logo.url }}" target="_blank">
+      <img
+        src="{% static logo.path %}"
+        title="{{ logo.name }}"
+        alt="{{ logo.name }}"
+        class="w-100"
+      />
+    </a>
+  </div>
+  {% endfor %}
+</div>
