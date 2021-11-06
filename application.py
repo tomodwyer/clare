@@ -1,11 +1,44 @@
+#!/usr/bin/env python
 import csv
 import os
+import sys
+from pathlib import Path
 
 import tomli
 import yaml
+from django.core.management import execute_from_command_line
+from django.core.wsgi import get_wsgi_application
 from django.shortcuts import render
+from django.urls import path
 from django.utils.safestring import mark_safe
 from markdown import markdown
+
+# settings.py
+
+BASE_DIR = Path(__file__).resolve().parent
+
+SECRET_KEY = "not-secret"
+DEBUG = True
+ALLOWED_HOSTS = ["*"]
+
+ROOT_URLCONF = "application"
+WSGI_APPLICATION = "application.application"
+
+INSTALLED_APPS = [
+    "django.contrib.staticfiles",
+]
+
+TEMPLATES = [
+    {
+        "BACKEND": "django.template.backends.django.DjangoTemplates",
+        "DIRS": [BASE_DIR / "templates"],
+    },
+]
+
+STATIC_URL = "/static/"
+STATICFILES_DIRS = [BASE_DIR / "static"]
+
+# views.py
 
 
 def home(request):
@@ -106,3 +139,22 @@ def _load_markdown(s):
     # There's probably a better way of doing this via a markdown extension...
     html = raw_html.replace("<p>!", '<p class="lead">')
     return mark_safe(html)
+
+
+# urls.py
+
+urlpatterns = [
+    path("", home, name="home"),
+    path("<path:path>/", page, name="page"),
+]
+
+# wsgi.py
+
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "application")
+application = get_wsgi_application()
+
+
+# manage.py
+
+if __name__ == "__main__":
+    execute_from_command_line(sys.argv)
