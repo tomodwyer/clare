@@ -123,6 +123,7 @@ def project_listing_ctx(data):
                 "title": item["title"],
                 "page_path": item["page_path"] + "/",
                 "image_path": f"img/{item['image_path']}",
+                "details": load_markdown(item.get("details", "")),
             }
         )
     return {"items": items}

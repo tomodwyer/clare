@@ -16,6 +16,9 @@
     <h2>
       <a href="{{ item.page_path }}">{{ item.title }}</a>
     </h2>
+    {% if item.details %}
+    {{ item.details }}
+    {% endif %}
   </div>
 </div>
 {% endfor %}
