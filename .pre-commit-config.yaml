@@ -22,7 +22,6 @@ repos:
     hooks:
     - id: check-case-conflict
     - id: check-merge-conflict
-    - id: check-toml
     - id: debug-statements
     - id: fix-byte-order-marker
     - id: end-of-file-fixer
