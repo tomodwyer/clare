@@ -14,7 +14,6 @@ from django.utils.safestring import mark_safe
 from markdown import markdown
 
 # settings.py
-
 BASE_DIR = Path(__file__).resolve().parent
 
 SECRET_KEY = "not-secret"
@@ -38,12 +37,11 @@ TEMPLATES = [
 STATIC_URL = "/static/"
 STATICFILES_DIRS = [BASE_DIR / "static"]
 
+
 # views.py
-
-
 def home(request):
     with open("pages/home.md") as f:
-        content = _load_markdown(f.read())
+        content = load_markdown(f.read())
     ctx = {"content": content}
     return render(request, "home.html", ctx)
 
@@ -58,103 +56,126 @@ def page(request, path):
         section = section.strip()
 
         if ix == 0:
-            page_metadata = _load_yaml(section)
+            page_metadata = load_yaml(section)
             ctx["title"] = page_metadata.get("title")
             main_image = page_metadata.get("main_image")
             if main_image is not None:
                 ctx["main_image"] = f"img/{main_image}"
         else:
             section_metadata, section_data = section.split("\n\n", 1)
-            section_metadata = _load_yaml(section_metadata)
+            section_metadata = load_yaml(section_metadata)
             section_type = section_metadata["type"]
-            section_ctx = {"template": f"_{section_type}.html"}
 
+            section_ctx = {
+                "concerts": concerts_ctx,
+                "gallery": gallery_ctx,
+                "repertoire": repertoire_ctx,
+                "sponsor-logos": sponsor_logos_ctx,
+                "text": text_ctx,
+                "video": video_ctx,
+            }[section_type](section_data)
+
+            section_ctx["template"] = f"_{section_type}.html"
             if "subtitle" in section_metadata:
                 section_ctx["subtitle"] = section_metadata["subtitle"]
-
-            if section_type == "text":
-                section_ctx["text"] = _load_markdown(section_data)
-            elif section_type == "video":
-                section_ctx["videos"] = _load_yaml(section_data)
-            elif section_type == "gallery":
-                section_ctx["images"] = []
-                for image in _load_yaml(section_data):
-                    path = f"img/{image['path']}"
-                    base, ext = os.path.splitext(path)
-                    thumb_path = f"{base}-thumb{ext}"
-                    section_ctx["images"].append(
-                        {
-                            "title": image["title"],
-                            "description": image.get("description", image["title"]),
-                            "details": image.get("details", ""),
-                            "path": path,
-                            "thumb_path": thumb_path,
-                        }
-                    )
-            elif section_type == "sponsor-logos":
-                section_ctx["logos"] = []
-                for logo in _load_yaml(section_data):
-                    path = f"img/logos/{logo['path']}"
-                    section_ctx["logos"].append(
-                        {
-                            "name": logo["name"],
-                            "path": path,
-                            "url": logo["url"],
-                        }
-                    )
-            elif section_type == "concerts":
-                concerts = _load_tomli(section_data)["concert"]
-                for concert in concerts:
-                    if "summary" in concert:
-                        concert["summary"] = mark_safe(markdown(concert["summary"]))
-                    if "details" in concert:
-                        concert["details"] = [
-                            mark_safe(markdown(detail)) for detail in concert["details"]
-                        ]
-                section_ctx["concerts"] = concerts
-            elif section_type == "repertoire":
-                records = []
-                for r in csv.reader(section_data.splitlines(), delimiter="\t"):
-                    if records and r[0] == records[-1][0]:
-                        records.append(["", r[1]])
-                    else:
-                        records.append(r)
-                section_ctx["records"] = records
 
             ctx["sections"].append(section_ctx)
 
     return render(request, "page.html", ctx)
 
 
-def _load_tomli(s):
-    return tomli.loads(s)
+def concerts_ctx(data):
+    concerts = load_tomli(data)["concert"]
+    for concert in concerts:
+        if "summary" in concert:
+            concert["summary"] = mark_safe(markdown(concert["summary"]))
+        if "details" in concert:
+            concert["details"] = [
+                mark_safe(markdown(detail)) for detail in concert["details"]
+            ]
+    return {"concerts": concerts}
 
 
-def _load_yaml(s):
-    return yaml.load(s, yaml.SafeLoader) or {}
+def gallery_ctx(data):
+    images = []
+    for image in load_yaml(data):
+        path = f"img/{image['path']}"
+        base, ext = os.path.splitext(path)
+        thumb_path = f"{base}-thumb{ext}"
+        images.append(
+            {
+                "title": image["title"],
+                "description": image.get("description", image["title"]),
+                "details": image.get("details", ""),
+                "path": path,
+                "thumb_path": thumb_path,
+            }
+        )
+    return {"images": images}
 
 
-def _load_markdown(s):
+def repertoire_ctx(data):
+    records = []
+    for r in load_tsv(data):
+        if records and r[0] == records[-1][0]:
+            records.append(["", r[1]])
+        else:
+            records.append(r)
+    return {"records": records}
+
+
+def sponsor_logos_ctx(data):
+    logos = []
+    for logo in load_yaml(data):
+        path = f"img/logos/{logo['path']}"
+        logos.append(
+            {
+                "name": logo["name"],
+                "path": path,
+                "url": logo["url"],
+            }
+        )
+    return {"logos": logos}
+
+
+def text_ctx(data):
+    return {"text": load_markdown(data)}
+
+
+def video_ctx(data):
+    return {"videos": load_yaml(data)}
+
+
+def load_markdown(s):
     raw_html = markdown(s)
     # There's probably a better way of doing this via a markdown extension...
     html = raw_html.replace("<p>!", '<p class="lead">')
     return mark_safe(html)
 
 
-# urls.py
+def load_tomli(s):
+    return tomli.loads(s)
 
+
+def load_tsv(s):
+    return list(csv.reader(s.splitlines(), delimiter="\t"))
+
+
+def load_yaml(s):
+    return yaml.load(s, yaml.SafeLoader) or {}
+
+
+# urls.py
 urlpatterns = [
     path("", home, name="home"),
     path("<path:path>/", page, name="page"),
 ]
 
 # wsgi.py
-
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "application")
 application = get_wsgi_application()
 
 
 # manage.py
-
 if __name__ == "__main__":
     execute_from_command_line(sys.argv)
