@@ -69,6 +69,7 @@ def page(request, path):
             section_ctx = {
                 "concerts": concerts_ctx,
                 "gallery": gallery_ctx,
+                "project-listing": project_listing_ctx,
                 "repertoire": repertoire_ctx,
                 "sponsor-logos": sponsor_logos_ctx,
                 "text": text_ctx,
@@ -112,6 +113,19 @@ def gallery_ctx(data):
             }
         )
     return {"images": images}
+
+
+def project_listing_ctx(data):
+    items = []
+    for item in load_yaml(data):
+        items.append(
+            {
+                "title": item["title"],
+                "page_path": item["page_path"] + "/",
+                "image_path": f"img/{item['image_path']}",
+            }
+        )
+    return {"items": items}
 
 
 def repertoire_ctx(data):

@@ -1,0 +1,44 @@
+title: "Discography"
+---
+type: project-listing
+
+- title: "Variations"
+  page_path: variations
+  image_path: album-covers/variations-thumb.jpg
+  details: "An adventurous programme of twentieth and twenty-first-century variations for piano.  From the imposing *Chaconne* by Sofia Gubaidulina, to the tender grief of Paul Hindemith’s *Variations* or Aaron Copland’s bold and uncompromising proclamation, the album presents a fresh perspective on the genre."
+
+- title: "Josef Myslivecek: Complete Keyboard Works"
+  page_path: myslivecek-complete-keyboard-works
+  image_path: album-covers/myslivecek-complete-keyboard-works-thumb.jpg
+
+- title: "Kenneth Hesketh: Horae (pro clara)"
+  page_path: hesketh-horae
+  image_path: album-covers/hesketh-horae-thumb.jpg
+
+- title: "Etude"
+  page_path: etude
+  image_path: album-covers/etude-thumb.jpg
+
+- title: "Roman Palester: Concertinos"
+  page_path: palester-concertinos
+  image_path: album-covers/palester-concertinos-thumb.jpg
+
+- title: "Robert Saxton: Piano Music"
+  page_path: saxton-piano-music
+  image_path: album-covers/saxton-piano-music-thumb.jpg
+
+- title: "Reflections"
+  page_path: panufnik-reflections
+  image_path: album-covers/panufnik-reflections-thumb.jpg
+
+- title: "Piano Polyptic"
+  page_path: piano-polyptic
+  image_path: album-covers/piano-polyptic-thumb.jpg
+
+- title: "The Art of Dancing"
+  page_path: the-art-of-dancing
+  image_path: album-covers/the-art-of-dancing-thumb.jpg
+
+- title: "The Lady in the Van"
+  page_path: the-lady-in-the-van
+  image_path: album-covers/the-lady-in-the-van-thumb.jpg
