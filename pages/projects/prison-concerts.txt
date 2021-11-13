@@ -1,0 +1,14 @@
+title: Prison Concerts
+---
+type: text
+
+Over the past few years, Clare has started taking her Yamaha electronic piano into prisons to give recitals. Presenting a wide range of repertoire, from Baroque to contemporary, she explains the stories behind the pieces, what the composers were going through at the time, and shows how music can inspire, console and broaden our horizons.  Clare has also worked with the wonderful charity [Changing Tunes][1] who, among other things, gave her the opportunity to play in a band for the first time (at the tender age of 34...).
+
+You can read Jailhouse Moose's article ('How Many Keys Does it Take to Escape Prison'), describing a recital at HMP Erlestoke, [here][2].  Clare has also recently written an article for Classical Music Magazine about her experiences with postnatal depression, performing in prisons, and the healing power of music. You can read the article [here][3] and listen to a related podcast for the magazine's MusicPlus series [here][4].
+
+[![Classical Music Magazine](/static/img/projects/prison-concerts/classical-music-magazine.jpg)][3]
+
+[1]: https://www.changingtunes.org.uk/
+[2]: https://jailhousemoose.wordpress.com/2019/05/10/how-many-keys-does-it-take-to-escape-prison/
+[3]: /static/2019/05/classical-music-magazine.pdf
+[4]: https://www.rhinegold.co.uk/podcasts/musicplus/musicplus-clare-hammond/

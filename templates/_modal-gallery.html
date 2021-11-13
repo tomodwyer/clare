@@ -1,0 +1,19 @@
+{% load static %}
+
+<div class="row">
+  {% for image in section.images %}
+  <div class="col-2">
+    <a href="{% static image.path %}" target="_blank">
+      <img
+        src="{% static image.thumb_path %}"
+        {% if image.description %}title="{{ image.description }}"{% endif %}
+        {% if image.title %}alt="{{ image.title }}"{% endif %}
+        class="w-100 img-thumbnail"
+      />
+    </a>
+
+    {% if image.title %}<p class="my-1">{{ image.title }}</p>{% endif %}
+    {% if image.details %}<p class="small">{{ image.details }}</p>{% endif %}
+  </div>
+  {% endfor %}
+</div>

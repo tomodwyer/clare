@@ -58,6 +58,7 @@ def page(request, path):
         if ix == 0:
             page_metadata = load_yaml(section)
             ctx["title"] = page_metadata.get("title")
+            ctx["subtitle"] = page_metadata.get("subtitle")
             main_image = page_metadata.get("main_image")
             if main_image is not None:
                 ctx["main_image"] = f"img/{main_image}"
@@ -67,8 +68,10 @@ def page(request, path):
             section_type = section_metadata["type"]
 
             section_ctx = {
+                "audio": audio_ctx,
                 "concerts": concerts_ctx,
                 "gallery": gallery_ctx,
+                "modal-gallery": gallery_ctx,
                 "project-listing": project_listing_ctx,
                 "repertoire": repertoire_ctx,
                 "sponsor-logos": sponsor_logos_ctx,
@@ -77,12 +80,20 @@ def page(request, path):
             }[section_type](section_data)
 
             section_ctx["template"] = f"_{section_type}.html"
-            if "subtitle" in section_metadata:
-                section_ctx["subtitle"] = section_metadata["subtitle"]
+            section_ctx["subtitle"] = section_metadata.get("subtitle")
+            section_ctx["header"] = load_markdown(section_metadata.get("header", ""))
+            section_ctx["footer"] = load_markdown(section_metadata.get("footer", ""))
 
             ctx["sections"].append(section_ctx)
 
     return render(request, "page.html", ctx)
+
+
+def audio_ctx(data):
+    audios = load_yaml(data)
+    for audio in audios:
+        audio["path"] = f"audio/{audio['path']}"
+    return {"audios": audios}
 
 
 def concerts_ctx(data):
@@ -105,8 +116,8 @@ def gallery_ctx(data):
         thumb_path = f"{base}-thumb{ext}"
         images.append(
             {
-                "title": image["title"],
-                "description": image.get("description", image["title"]),
+                "title": image.get("title"),
+                "description": image.get("description", image.get("title")),
                 "details": image.get("details", ""),
                 "path": path,
                 "thumb_path": thumb_path,

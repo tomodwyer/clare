@@ -1,0 +1,10 @@
+{% load static %}
+
+{% for audio in section.audios %}
+<div>
+        {% if audio.description %}
+        <p>{{ audio.description }}</p>
+        {% endif %}
+  <audio controls src="{% static audio.path %}" preload="none"></audio>
+</div>
+{% endfor %}

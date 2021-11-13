@@ -1,0 +1,39 @@
+title: Children's Concerts and Community Engagement
+---
+type: text
+
+! Community engagement forms an increasingly important part of Clare’s work. Since 2017, she has performed to over 8,100 school-children in partnership with Gloucestershire Music and Wye Valley Music in Schools. She frequently gives children’s concerts and masterclasses at festivals across the UK and France.
+
+---
+type: text
+subtitle: Feedback from schools
+
+*"It was so refreshing for the children to have access to this sort of experience. It’s been a very long time, because of the pandemic, since we did anything like this, and it is so important for them to have these enriching experiences. Every child was engaged though the session; the rapt expressions on their faces were so lovely to see and one of our budding pianists was positively bouncing with excitement. She hasn’t stopped talking about it!’*
+
+*"She turned our school piano into a thing of magic and many of the children have said that they wish to write about her playing and add it to our ‘awe and wonder’ board. Thank you again for providing this high quality musical experience to our tiny school and inspiring our pupils."*
+
+*"Clare was amazing – we were all blown away by her skill and fantastic playing. She also had such a wonderfully calm yet engaging manner with the children – she was truly inspirational."*
+
+*"I just wanted to say thank you for the amazing piano recital that you organised. Our children absolutely loved it and we had messages from parents that very evening to say how what a huge impact it had made! Clare Hammond is such a gifted performer and she had the children rapt with interest as she talked about the pieces - as well as during her beautiful playing."*
+
+*"We had a great time when Miss Hammond came. She is a very good player and I liked the Fairy Knoll best. We had to close our eyes and imagine being in a forest. I could see lots of fairies flying round in my head and it was very peaceful. I liked the echo of the piano in the hall when the music was really loud."*
+
+*"I was so excited ‘cos I am learning piano. I’m not very good yet but Miss Hammond was brilliant. She played so fast ….. she used all the piano and stretched her hands really wide in the very difficult piece by the composer from Korea. I don’t know how she remembers all that. I want her to come again - and I am going to try to practise more!"*
+
+---
+type: modal-gallery
+subtitle: Children's concerts
+header: "Photos from Clearwell Church of England Primary School for Wye Valley Music, and with Nicholas Steel from Gloucestershire Music at the Tetbury Goods Shed."
+
+- path: projects/community-engagement/cw_1.jpg
+- path: projects/community-engagement/cw_2.jpg
+- path: projects/community-engagement/gm_1.jpg
+- path: projects/community-engagement/gm_2.jpg
+- path: projects/community-engagement/gm_3.jpg
+
+---
+type: video
+subtitle: A masterclass
+header: Produced for [Tido](/projects/tido-music-app/).
+
+- url: https://www.youtube.com/embed/HwH-sqQ4Yik
