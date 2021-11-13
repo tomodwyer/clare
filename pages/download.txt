@@ -1,0 +1,24 @@
+title: Download
+---
+type: text
+
+* [Long biography][1] / [Short biography][2]
+* [Lange Biographie][3] / [Kurze Biographie][4] (auf Deutsch, September 20)
+* [Biographie complète][5] / [Biographie courte][6] (en français, novembre 20)
+
+
+[1]: /static/pdf/biography/clare-hammond.pdf
+[2]: /static/pdf/biography/clare-hammond-short.pdf
+[3]: /static/pdf/biography/clare-hammond-de.pdf
+[4]: /static/pdf/biography/clare-hammond-de-short.pdf
+[5]: /static/pdf/biography/clare-hammond-fr.pdf
+[6]: /static/pdf/biography/clare-hammond-fr-short.pdf
+
+---
+type: gallery
+header: "For high-resolution publicity photos, click [here](/gallery/downloads/)."
+footer: "All photographs by [Philip Gatward](http://www.philipgatward.com/)."
+
+- path: philip-gatward/clare-hammond-1.jpg
+- path: philip-gatward/clare-hammond-2.jpg
+- path: philip-gatward/clare-hammond-3.jpg
