@@ -142,11 +142,13 @@ def project_listing_ctx(data):
 
 def repertoire_ctx(data):
     records = []
+    last_composer = None
     for r in load_tsv(data):
-        if records and r[0] == records[-1][0]:
+        if last_composer is not None and r[0] == last_composer:
             records.append(["", r[1]])
         else:
             records.append(r)
+        last_composer = r[0]
     return {"records": records}
 
 
