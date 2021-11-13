@@ -131,7 +131,7 @@ def project_listing_ctx(data):
     for item in load_yaml(data):
         items.append(
             {
-                "title": item["title"],
+                "title": item.get("title"),
                 "page_path": item["page_path"] + "/",
                 "image_path": f"img/{item['image_path']}",
                 "details": load_markdown(item.get("details", "")),

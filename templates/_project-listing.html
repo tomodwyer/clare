@@ -6,16 +6,18 @@
     <a href="{{ item.page_path }}">
       <img
         src="{% static item.image_path %}"
-        title="{{ item.title }}"
-        alt="{{ item.title }}"
+        {% if item.title %}title="{{ item.title }}"{% endif %}
+        {% if item.title %}alt="{{ item.title }}"{% endif %}
         class="w-100 img-thumbnail"
       />
     </a>
         </div>
   <div class="col-8">
+    {% if item.title %}
     <h2>
       <a href="{{ item.page_path }}">{{ item.title }}</a>
     </h2>
+    {% endif %}
     {% if item.details %}
     {{ item.details }}
     {% endif %}
