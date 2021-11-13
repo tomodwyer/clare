@@ -113,6 +113,8 @@ def gallery_ctx(data):
     for image in load_yaml(data):
         path = f"img/{image['path']}"
         base, ext = os.path.splitext(path)
+        if base.endswith("-medium"):
+            base = base.removesuffix("-medium")
         thumb_path = f"{base}-thumb{ext}"
         images.append(
             {

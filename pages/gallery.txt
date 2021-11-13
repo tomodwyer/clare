@@ -1,0 +1,15 @@
+title: Gallery
+---
+type: modal-gallery
+header: "For high-resolution publicity photos, click [here](/gallery/downloads/)."
+footer: "All photographs by [Philip Gatward](http://www.philipgatward.com/)."
+
+- path: philip-gatward/clare-hammond-1-medium.jpg
+- path: philip-gatward/clare-hammond-2-medium.jpg
+- path: philip-gatward/clare-hammond-3-medium.jpg
+- path: philip-gatward/clare-hammond-4-medium.jpg
+- path: philip-gatward/clare-hammond-5-medium.jpg
+- path: philip-gatward/clare-hammond-6-medium.jpg
+- path: philip-gatward/clare-hammond-7-medium.jpg
+- path: philip-gatward/clare-hammond-8-medium.jpg
+- path: philip-gatward/clare-hammond-9-medium.jpg

@@ -1,0 +1,15 @@
+title: Gallery
+---
+type: gallery
+header: "Please click on the thumbnails to download high resolution publicity photos."
+footer: "All photographs by [Philip Gatward](http://www.philipgatward.com/)."
+
+- path: philip-gatward/clare-hammond-1.jpg
+- path: philip-gatward/clare-hammond-2.jpg
+- path: philip-gatward/clare-hammond-3.jpg
+- path: philip-gatward/clare-hammond-4.jpg
+- path: philip-gatward/clare-hammond-5.jpg
+- path: philip-gatward/clare-hammond-6.jpg
+- path: philip-gatward/clare-hammond-7.jpg
+- path: philip-gatward/clare-hammond-8.jpg
+- path: philip-gatward/clare-hammond-9.jpg
