@@ -1,5 +1,5 @@
 title: Solo Repertoire
-main_image: philip-gatward/Clare Hammond4923b.jpg
+main_image: philip-gatward/clare-hammond-6-medium.jpg
 ---
 type: repertoire
 

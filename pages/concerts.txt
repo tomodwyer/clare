@@ -1,5 +1,5 @@
 title: Performances in 2021
-main_image: philip-gatward/Clare Hammond4923b.jpg
+main_image: philip-gatward/clare-hammond-5-medium.jpg
 ---
 type: concerts
 

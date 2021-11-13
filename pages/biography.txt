@@ -1,4 +1,4 @@
-main_image: philip-gatward/Clare Hammond4923b.jpg
+main_image: philip-gatward/clare-hammond-2-medium.jpg
 ---
 type: text
 
