@@ -20,8 +20,8 @@ SECRET_KEY = "not-secret"
 DEBUG = True
 ALLOWED_HOSTS = ["*"]
 
-ROOT_URLCONF = "application"
-WSGI_APPLICATION = "application.application"
+ROOT_URLCONF = "serve"
+WSGI_APPLICATION = "serve.application"
 
 INSTALLED_APPS = [
     "django.contrib.staticfiles",
@@ -220,7 +220,7 @@ urlpatterns = [
 ]
 
 # wsgi.py
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "application")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "serve")
 application = get_wsgi_application()
 
 
