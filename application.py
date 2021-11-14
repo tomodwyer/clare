@@ -71,6 +71,7 @@ def page(request, path):
             section_ctx = {
                 "audio": audio_ctx,
                 "concerts": concerts_ctx,
+                "custom": custom_ctx,
                 "gallery": gallery_ctx,
                 "modal-gallery": gallery_ctx,
                 "project-listing": project_listing_ctx,
@@ -107,6 +108,10 @@ def concerts_ctx(data):
                 mark_safe(markdown(detail)) for detail in concert["details"]
             ]
     return {"concerts": concerts}
+
+
+def custom_ctx(data):
+    return {"template_name": f"custom/{data}"}
 
 
 def gallery_ctx(data):
