@@ -4,8 +4,9 @@ body {
   text-align: justify;
 }
 
-h2 a {
+a {
   color: black;
+  font-weight: 400;
 }
 
 ul {
