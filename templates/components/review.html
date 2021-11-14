@@ -1,0 +1,11 @@
+<h2>{{ section.publication }}, {{ section.reviewed }}</h2>
+
+<p class="lead">
+  <em>"{{ section.quote }}"</em>
+  {% if section.reviewer %}<span class="small"> — {{ section.reviewer }}</span>{% endif %}
+</p>
+
+<details>
+        <summary>Read more</summary>
+        {{ section.review }}
+</details>

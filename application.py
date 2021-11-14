@@ -86,6 +86,7 @@ def page(request, path):
                 "modal-gallery": gallery_ctx,
                 "project-listing": project_listing_ctx,
                 "repertoire": repertoire_ctx,
+                "review": review_ctx,
                 "sponsor-logos": sponsor_logos_ctx,
                 "text": text_ctx,
                 "video": video_ctx,
@@ -164,6 +165,11 @@ def repertoire_ctx(metadata, data):
             records.append(r)
         last_composer = r[0]
     return {"records": records}
+
+
+def review_ctx(metadata, data):
+    metadata["review"] = load_markdown(data)
+    return metadata
 
 
 def sponsor_logos_ctx(metadata, data):
