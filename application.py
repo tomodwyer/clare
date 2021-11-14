@@ -80,7 +80,7 @@ def page(request, path):
                 "video": video_ctx,
             }[section_type](section_data)
 
-            section_ctx["template"] = f"_{section_type}.html"
+            section_ctx["template"] = f"components/{section_type}.html"
             section_ctx["subtitle"] = section_metadata.get("subtitle")
             section_ctx["header"] = load_markdown(section_metadata.get("header", ""))
             section_ctx["footer"] = load_markdown(section_metadata.get("footer", ""))
