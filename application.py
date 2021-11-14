@@ -64,11 +64,21 @@ def page(request, path):
             if "main_image" in page_metadata:
                 ctx["main_image"] = f"img/{page_metadata['main_image']}"
         else:
-            section_metadata, section_data = section.split("\n\n", 1)
-            section_metadata = load_yaml(section_metadata)
-            section_type = section_metadata["type"]
+            try:
+                section_metadata, section_data = section.split("\n\n", 1)
+            except ValueError:
+                section_metadata, section_data = section, ""
+            section_ctx = load_yaml(section_metadata)
+            section_type = section_ctx["type"]
 
-            section_ctx = {
+            if "template" not in section_ctx:
+                section_ctx["template"] = f"components/{section_type}.html"
+            if "header" in section_ctx:
+                section_ctx["header"] = load_markdown(section_ctx["header"])
+            if "footer" in section_ctx:
+                section_ctx["footer"] = load_markdown(section_ctx["footer"])
+
+            extra_ctx_fn = {
                 "audio": audio_ctx,
                 "concerts": concerts_ctx,
                 "custom": custom_ctx,
@@ -79,26 +89,22 @@ def page(request, path):
                 "sponsor-logos": sponsor_logos_ctx,
                 "text": text_ctx,
                 "video": video_ctx,
-            }[section_type](section_data)
-
-            section_ctx["template"] = f"components/{section_type}.html"
-            section_ctx["subtitle"] = section_metadata.get("subtitle")
-            section_ctx["header"] = load_markdown(section_metadata.get("header", ""))
-            section_ctx["footer"] = load_markdown(section_metadata.get("footer", ""))
+            }[section_type]
+            section_ctx.update(extra_ctx_fn(section_ctx, section_data))
 
             ctx["sections"].append(section_ctx)
 
     return render(request, template_name, ctx)
 
 
-def audio_ctx(data):
+def audio_ctx(metadata, data):
     audios = load_yaml(data)
     for audio in audios:
         audio["path"] = f"audio/{audio['path']}"
     return {"audios": audios}
 
 
-def concerts_ctx(data):
+def concerts_ctx(metadata, data):
     concerts = load_tomli(data)["concert"]
     for concert in concerts:
         if "summary" in concert:
@@ -110,11 +116,11 @@ def concerts_ctx(data):
     return {"concerts": concerts}
 
 
-def custom_ctx(data):
-    return {"template_name": f"custom/{data}"}
+def custom_ctx(metadata, data):
+    return {}
 
 
-def gallery_ctx(data):
+def gallery_ctx(metadata, data):
     images = []
     for image in load_yaml(data):
         path = f"img/{image['path']}"
@@ -134,7 +140,7 @@ def gallery_ctx(data):
     return {"images": images}
 
 
-def project_listing_ctx(data):
+def project_listing_ctx(metadata, data):
     items = []
     for item in load_yaml(data):
         items.append(
@@ -148,7 +154,7 @@ def project_listing_ctx(data):
     return {"items": items}
 
 
-def repertoire_ctx(data):
+def repertoire_ctx(metadata, data):
     records = []
     last_composer = None
     for r in load_tsv(data):
@@ -160,7 +166,7 @@ def repertoire_ctx(data):
     return {"records": records}
 
 
-def sponsor_logos_ctx(data):
+def sponsor_logos_ctx(metadata, data):
     logos = []
     for logo in load_yaml(data):
         path = f"img/logos/{logo['path']}"
@@ -174,11 +180,11 @@ def sponsor_logos_ctx(data):
     return {"logos": logos}
 
 
-def text_ctx(data):
+def text_ctx(metadata, data):
     return {"text": load_markdown(data)}
 
 
-def video_ctx(data):
+def video_ctx(metadata, data):
     return {"videos": load_yaml(data)}
 
 

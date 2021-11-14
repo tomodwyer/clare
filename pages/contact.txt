@@ -19,5 +19,4 @@ Contact Clare directly by [email](info@clarehammond.com), on [Facebook](http://w
 
 ---
 type: custom
-
-contact.html
+template: custom/contact.html
