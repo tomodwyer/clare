@@ -71,6 +71,7 @@ def page(request, path):
             section_ctx = load_yaml(section_metadata)
             section_type = section_ctx["type"]
 
+            section_ctx["section_id"] = f"section-{ix}"
             if "template" not in section_ctx:
                 section_ctx["template"] = f"components/{section_type}.html"
             if "header" in section_ctx:
