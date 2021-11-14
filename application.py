@@ -9,7 +9,7 @@ import yaml
 from django.core.management import execute_from_command_line
 from django.core.wsgi import get_wsgi_application
 from django.shortcuts import render
-from django.urls import re_path
+from django.urls import path
 from django.utils.safestring import mark_safe
 from markdown import markdown
 
@@ -203,7 +203,8 @@ def load_yaml(s):
 
 # urls.py
 urlpatterns = [
-    re_path("(?P<path>.*/?)", page, name="page"),
+    path("", page, {"path": ""}),
+    path("<path:path>/", page),
 ]
 
 # wsgi.py
