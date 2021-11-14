@@ -5,10 +5,10 @@
 <div class="container-fluid px-5">
   {% include "nav.html" %}
 
-  <div id="home" class="w-100">
-    <img src="{% static 'img/philip-gatward/clare-hammond-index.jpg' %}" class="w-100" />
-    <div class="news pt-5 pr-5">
-      {{ content }}
+  <div id="{{ page_id}}" class="w-100">
+    <img src="{% static main_image %}" class="w-100" />
+    <div class="news pt-3 pr-5">
+      {% include "_content.html" %}
     </div>
   </div>
 </div>

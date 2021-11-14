@@ -1,0 +1,26 @@
+template: home.html
+main_image: philip-gatward/clare-hammond-index.jpg
+---
+type: text
+
+Clare is delighted to announce that she has just signed with agency [Rayfield Allied][ra] for general management.
+
+This autumn, Clare performs Montgeroult at the [Palazzetto Bru Zane][pbz] in Venice, appears at the [Lichfield Festival][lf], and revisits [Ghosts & Whispers][gaw]. Find more live concerts [here][concerts].
+
+Watch Clare at the [Wigmore Hall][wh] in May and listen out for her performance of [Samy Moussa][sm]'s Orpheus with the [BBC Symphony Orchestra][bbcso] and [Geoffrey Paterson][gp] on Radio 3 soon!
+
+Variations has been praised as "dazzling" ([The Observer][obs]) and "of immense power" ([The Times][times]).  Clare's associated tour of [schools][schools] and [prisons][prisons] is currently underway.
+
+[ra]: https://www.rayfieldallied.com/artists/clare-hammond
+[pbz]: https://bru-zane.com/en/evento/la-marchesa-del-pianoforte/
+[lf]: https://lichfieldfestival.org/event/clare-hammond-piano/
+[gaw]: /projects/ghosts-and-whispers
+[concerts]: /concerts
+[wh]: https://www.youtube.com/watch?v=kMK5drwmAuQ
+[sm]: https://www.harrisonparrott.com/artists/samy-moussa
+[bbcso]: https://www.bbc.co.uk/symphonyorchestra
+[gp]: https://www.geoffreypaterson.co.uk/
+[obs]: https://www.theguardian.com/music/2021/feb/27/rachmaninov-symphony-no-1-symphonic-dances-philadelphia-orchestra-nezet-seguin-review-clare-hammond-variations-sco-listen-lunchtime-scottish-chamber
+[times]: https://www.thetimes.co.uk/article/clare-hammond-variations-review-formidable-technique-68kccbtz0
+[schools]: /projects/community-engagement
+[prisons]: /projects/prison-concerts

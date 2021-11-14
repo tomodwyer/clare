@@ -9,7 +9,7 @@ import yaml
 from django.core.management import execute_from_command_line
 from django.core.wsgi import get_wsgi_application
 from django.shortcuts import render
-from django.urls import path
+from django.urls import re_path
 from django.utils.safestring import mark_safe
 from markdown import markdown
 
@@ -39,29 +39,30 @@ STATICFILES_DIRS = [BASE_DIR / "static"]
 
 
 # views.py
-def home(request):
-    with open("pages/home.md") as f:
-        content = load_markdown(f.read())
-    ctx = {"content": content}
-    return render(request, "home.html", ctx)
-
-
 def page(request, path):
+    if not path:
+        path = "home"
+
     with open(f"pages/{path}.txt") as f:
         data = f.read()
 
-    ctx = {"sections": []}
+    template_name = "page.html"
+    ctx = {
+        "page_id": path.replace("/", "-"),
+        "sections": [],
+    }
 
     for ix, section in enumerate(data.split("---")):
         section = section.strip()
 
         if ix == 0:
             page_metadata = load_yaml(section)
+            if "template" in page_metadata:
+                template_name = page_metadata["template"]
             ctx["title"] = page_metadata.get("title")
             ctx["subtitle"] = page_metadata.get("subtitle")
-            main_image = page_metadata.get("main_image")
-            if main_image is not None:
-                ctx["main_image"] = f"img/{main_image}"
+            if "main_image" in page_metadata:
+                ctx["main_image"] = f"img/{page_metadata['main_image']}"
         else:
             section_metadata, section_data = section.split("\n\n", 1)
             section_metadata = load_yaml(section_metadata)
@@ -86,7 +87,7 @@ def page(request, path):
 
             ctx["sections"].append(section_ctx)
 
-    return render(request, "page.html", ctx)
+    return render(request, template_name, ctx)
 
 
 def audio_ctx(data):
@@ -197,8 +198,7 @@ def load_yaml(s):
 
 # urls.py
 urlpatterns = [
-    path("", home, name="home"),
-    path("<path:path>/", page, name="page"),
+    re_path("(?P<path>.*/?)", page, name="page"),
 ]
 
 # wsgi.py

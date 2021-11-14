@@ -1,3 +1,12 @@
+{% if title %}
+<h1>
+        {{ title }}
+        {% if subtitle %}
+        <small>{{ subtitle }}</small>
+        {% endif %}
+</h1>
+{% endif %}
+
 {% for section in sections %}
   <div class="py-3">
     {% if section.subtitle %}
