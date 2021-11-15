@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 import csv
 import os
-import sys
+import shutil
+from argparse import ArgumentParser
 from pathlib import Path
 
 import tomli
@@ -13,15 +14,21 @@ from django.urls import path
 from django.utils.safestring import mark_safe
 from markdown import markdown
 
-# settings.py
+MODULE_NAME = Path(__file__).with_suffix("").name
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", MODULE_NAME)
+
+PAGES = "pages"
+STATIC = "static"
+TEMPLATES = "templates"
+
 BASE_DIR = Path(__file__).resolve().parent
 
 SECRET_KEY = "not-secret"
 DEBUG = True
 ALLOWED_HOSTS = ["*"]
 
-ROOT_URLCONF = "serve"
-WSGI_APPLICATION = "serve.application"
+ROOT_URLCONF = MODULE_NAME
+WSGI_APPLICATION = f"{MODULE_NAME}.application"
 
 INSTALLED_APPS = [
     "django.contrib.staticfiles",
@@ -30,20 +37,19 @@ INSTALLED_APPS = [
 TEMPLATES = [
     {
         "BACKEND": "django.template.backends.django.DjangoTemplates",
-        "DIRS": [BASE_DIR / "templates"],
+        "DIRS": [BASE_DIR / TEMPLATES],
     },
 ]
 
-STATIC_URL = "/static/"
-STATICFILES_DIRS = [BASE_DIR / "static"]
+STATIC_URL = f"/{STATIC}/"
+STATICFILES_DIRS = [BASE_DIR / STATIC]
 
 
-# views.py
 def page(request, path):
     if not path:
         path = "home"
 
-    with open(f"pages/{path}.txt") as f:
+    with open(f"{PAGES}/{path}.txt") as f:
         data = f.read()
 
     template_name = "page.html"
@@ -214,17 +220,45 @@ def load_yaml(s):
     return yaml.load(s, yaml.SafeLoader) or {}
 
 
-# urls.py
 urlpatterns = [
     path("", page, {"path": ""}),
     path("<path:path>/", page),
 ]
 
-# wsgi.py
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "serve")
 application = get_wsgi_application()
 
 
-# manage.py
+def build(base_output_dir):
+    assert base_output_dir.name not in [PAGES, STATIC, TEMPLATES]
+    shutil.rmtree(base_output_dir, ignore_errors=True)
+    base_output_dir.mkdir()
+    shutil.copytree(STATIC, base_output_dir / STATIC)
+    for root, dirs, files in os.walk(PAGES):
+        for file in files:
+            assert file.endswith(".txt")
+            path = os.path.join(root, file)[len(PAGES) + 1 : -4]
+            if path == "home":
+                path = ""
+            output_dir = base_output_dir / path
+            output_dir.mkdir(parents=True, exist_ok=True)
+            output_path = output_dir / "index.html"
+            print(output_path)
+            output_path.write_bytes(page(None, path).content)
+
+
 if __name__ == "__main__":
-    execute_from_command_line(["manage.py", "runserver"] + sys.argv[1:])
+    parser = ArgumentParser()
+    subparsers = parser.add_subparsers()
+    serve_parser = subparsers.add_parser("serve", help="Serve site")
+    serve_parser.set_defaults(which="serve")
+    serve_parser.add_argument("--port", type=int, default=8000)
+    build_parser = subparsers.add_parser("build", help="Build site")
+    build_parser.set_defaults(which="build")
+    build_parser.add_argument("--output-dir", type=Path, default="output")
+    options = parser.parse_args()
+    if options.which == "serve":
+        execute_from_command_line(["manage.py", "runserver", str(options.port)])
+    elif options.which == "build":
+        build(options.output_dir)
+    else:
+        assert False
