@@ -4,15 +4,15 @@
 
 * Install Python 3.10
 * Create and activate a virtual environment
-* Install development dependencies: `pip install -r requirements.txt`
+* Install dependencies: `pip install -r requirements.txt`
 
 ## Serving the site locally
 
-Run: `./serve.py`
+Run `./run.py serve [port]`
 
 ## Building
 
-TODO
+Run `./run.py build [output-dir]`
 
 ## Deploying
 
