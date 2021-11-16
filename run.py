@@ -235,7 +235,8 @@ def build(base_output_dir):
     shutil.copytree(STATIC, base_output_dir / STATIC)
     for root, dirs, files in os.walk(PAGES):
         for file in files:
-            assert file.endswith(".txt")
+            if not file.endswith(".txt"):
+                continue
             path = os.path.join(root, file)[len(PAGES) + 1 : -4]
             if path == "home":
                 path = ""
