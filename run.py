@@ -248,6 +248,7 @@ def build(base_output_dir):
 
 if __name__ == "__main__":
     parser = ArgumentParser()
+    parser.set_defaults(which="print_help")
     subparsers = parser.add_subparsers()
     serve_parser = subparsers.add_parser("serve", help="Serve site")
     serve_parser.set_defaults(which="serve")
@@ -261,4 +262,4 @@ if __name__ == "__main__":
     elif options.which == "build":
         build(options.output_dir)
     else:
-        assert False
+        parser.print_help()
