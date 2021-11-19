@@ -134,7 +134,7 @@ def gallery_ctx(metadata, data):
         path = f"img/{image['path']}"
         base, ext = os.path.splitext(path)
         if base.endswith("-medium"):
-            base = base.removesuffix("-medium")
+            base = base[: -len("-medium")]
         thumb_path = f"{base}-thumb{ext}"
         images.append(
             {
