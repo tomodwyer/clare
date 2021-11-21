@@ -2,7 +2,7 @@
 
 ## Setting up a development environment
 
-* Install Python 3.10
+* Install Python 3.7 (required for Cloudflare Pages)
 * Create and activate a virtual environment
 * Install dependencies: `pip install -r requirements.txt`
 
@@ -16,4 +16,4 @@ Run `./run.py build [output-dir]`
 
 ## Deploying
 
-TODO
+Deployed to Cloudflare Pages, accessible at https://clare.pages.dev/.
