@@ -16,4 +16,6 @@ Run `./run.py build [output-dir]`
 
 ## Deploying
 
-Deployed to Cloudflare Pages, accessible at https://clare.pages.dev/.
+Deployed to Cloudflare Pages after pushing/merging to main branch on GitHub.
+
+The site is accessible at https://clare.pages.dev/.
