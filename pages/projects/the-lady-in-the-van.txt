@@ -2,4 +2,23 @@ title: The Lady in the Van
 ---
 type: text
 
-TODO
+! Clare plays the younger version of Dame Maggie Smith's character, Miss Shepherd, in *The Lady in the Van*. 
+
+Her recordings of Schubert and Chopin, with the Philharmonia and BBC Concert Orchestra (George Fenton), are featured throughout the film and on the soundtrack for [Sony Records](https://music.apple.com/gb/album/the-lady-in-the-van-original-motion-picture-soundtrack/1049035643?uo=4&app=music). Released in cinemas in 2015, the film is based on Alan Bennett's play of the same name and is directed by Nick Hytner.
+
+---
+type: modal-gallery
+subtitle: Photos
+
+- path: projects/the-lady-in-the-van/the-lady-in-the-van_1.jpg
+- path: projects/the-lady-in-the-van/the-lady-in-the-van_2.jpg
+- path: projects/the-lady-in-the-van/the-lady-in-the-van_3.jpg
+- path: projects/the-lady-in-the-van/the-lady-in-the-van_4.jpg
+- path: projects/the-lady-in-the-van/the-lady-in-the-van_5.jpg
+
+
+---
+type: video
+subtitle: Trailer
+
+- url: https://www.youtube.com/embed/47T0HORY9gs

@@ -6,6 +6,15 @@ type: text
 
 Ideal for a haunted or derelict space, this programme for piano and film is staged with dimmed lights in a hushed acoustic. The audience is immersed in an unpredictable and unsettling succession of differing sound worlds, perpetually disorientated by a succession of shadows, illusions and broken promises that gradually slides into darkness, erasure and death.
 
-The programme is performed alongside images from the Quay Brothers, specially conceived for the project, and lasts an hour. It has been performed at festivals across the UK and in Lisbon.
+The programme is performed alongside images from the [Quay Brothers](https://en.wikipedia.org/wiki/Brothers_Quay), specially conceived for the project, and lasts an hour. It has been featured at festivals across the UK and in Lisbon, and praised for its "deliciously disorientating effect" and "magical conclusion" by Paul Conway in *Musical Opinion*.
 
-View a pdf proposal, a complete list of repertoire, Paul Conway's review for Musical Opinion, and see the trailer and images from the premiere at the Samuel Worth Chapel in Sheffield Cemetery in 2018 below.
+View a [pdf proposal](/static/pdf/projects/ghosts-and-whispers/gw_proposal.pdf), a complete list of [repertoire](/static/pdf/projects/ghosts-and-whispers/gw_booklet.pdf), and see the trailer below:
+
+
+---
+type: video
+subtitle: Trailer
+
+- url: https://www.youtube.com/embed/e0Oz8ZACxc4
+
+

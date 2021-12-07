@@ -5,79 +5,63 @@ type: project-listing
 - title: "Hélène de Montgeroult"
   page_path: montgeroult
   image_path: projects/montgeroult/montgeroult.jpg
-  details: "Hélène de Montgeroult (1764-1836) was a French composer and pianist who lived an extraordinary life. Clare will record a disc of her etudes for BIS Records, due for release in 2022."
+  details: "Hélène de Montgeroult (1764-1836) was a French composer whose music was decades ahead of its time. Clare will record a disc of her etudes for BIS Records, for release in autumn 2022."
 
 - title: "Poesis - Concert Plays"
   page_path: poesis
   image_path: projects/poesis/byron.jpg
-  details: "Fusing words and music to explore the motivations, struggles and desires of some of our greatest cultural figures."
+  details: "A collaboration with actor Tama Matheson: fusing words and music to explore the motivations, struggles and desires of some of our greatest cultural figures."
 
 - title: "Prison Concerts"
   page_path: prison-concerts
   image_path: projects/prison-concerts/prison-concert.jpg
-  details: "Over the past few years, Clare has started taking her Yamaha electronic piano into prisons to give recitals."
-
-- title: "Uncoiling the River"
-  page_path: uncoiling-the-river
-  image_path: projects/uncoiling-the-river/uncoiling-the-river-score.jpg
-  details: "Uncoiling the River is a work by [Kenneth Hesketh](http://www.kennethhesketh.co.uk/) for piano and orchestra, co-commissioned by BBC Radio 3 and the Royal Liverpool Philharmonic Orchestra with support from the RVW Trust. Clare gave the world premiere with the BBC National Orchestra of Wales and Martyn Brabbins in Jan 2019 at the Hoddinott Hall in Cardiff, and performed it again with the RLPO and Vasily Petrenko in Liverpool in Jan 2020. BBC Radio 3 broadcast the first performance on the New Music Show in Feb 2020."
-
-- title: "Children's Concerts and Community Engagement"
-  page_path: community-engagement
-  image_path: projects/community-engagement/piano-lesson.jpg
-  details: "Community engagement forms an increasingly important part of Clare’s work. Since 2017, she has performed to over 8,100 school-children in partnership with Gloucestershire Music and Wye Valley Music in Schools. She frequently gives children’s concerts and masterclasses at festivals across the UK and France."
+  details: "Clare regularly performs in prisons across the UK, telling the stories behind the pieces to show how music can inspire, console and heal."
 
 - title: "Ghosts and Whispers"
   page_path: ghosts-and-whispers
   image_path: projects/ghosts-and-whispers/ghosts-and-whispers-still-1.jpg
-  details: TODO
+  details: "A collaboration with composer John Woolrich and animators, the Quay Brothers: this unsettling work for piano and film presents fragments by composers from Mozart, Jacquet de la Guerre and Schubert, to Janacek and Stravinsky."
 
 - title: "Equinox with Henning Kraggerud"
   page_path: equinox
   image_path: projects/equinox/equinox.jpg
-  details: TODO
+  details: "An exploration of time, space, identity, memory and loss in a work for violin, piano and narrator, accompanied by texts from Norwegian author, Jostein Gaarder."
 
-- title: "Myslivecek Concertos"
-  page_path: myslivecek-concertos
-  image_path: projects/myslivecek-concertos/myslivecek.jpg
-  details: TODO
+- title: "Children's Concerts and Community Engagement"
+  page_path: community-engagement
+  image_path: projects/community-engagement/piano-lesson.jpg
+  details: "Since 2017, Clare has played to over 8,100 school-children across Gloucestershire and Monmouthshire, in performances designed to engage and inspire the next generation of musicians."
 
-- title: "Clavichord"
-  page_path: clavichord
-  image_path: projects/clavichord/clare-at-the-clavichord.jpg
-  details: TODO
+- title: "Uncoiling the River"
+  page_path: uncoiling-the-river
+  image_path: projects/uncoiling-the-river/uncoiling-the-river-score.jpg
+  details: "A work for piano and orchestra, written for Clare by Kenneth Hesketh. This piece explores how we perceive and experience time, and was performed with BBC NOW (Martyn Brabbins) and the RLPO (Vasily Petrenko) in 2019 and 2020."
+
+- title: "Myslivecek Complete Keyboard Works"
+  page_path: myslivecek-complete-keyboard-works
+  image_path: projects/myslivecek-complete-keyboard-works/myslivecek.jpg
+  details: "Clare's disc of music by Josef Myslivecek (1737-1781) with the Swedish Chamber Orchestra (Nicholas McGegan) includes the world premiere recording of his second keyboard concerto and is the first to present his keyboard works in their entirety."
 
 - title: "The Lady in the Van"
   page_path: the-lady-in-the-van
   image_path: projects/the-lady-in-the-van/clare-on-set-1.jpg
-  details: TODO
+  details: "Clare plays the younger version of Dame Maggie Smith's character, Miss Shepherd, in *The Lady in the Van*. Her recordings of Schubert and Chopin, with the BBC Concert Orchestra (George Fenton), are featured throughout the film and on the soundtrack for Sony Records."
 
 - title: "Contemporary Music"
   page_path: contemporary-music
   image_path: projects/contemporary-music/horae-score.jpg
-  details: TODO
+  details: Contemporary music forms a major part of Clare's work. To date, she has given over 50 world premieres by composers including Kenneth Hesketh, Edmund Finnis, Ninfea Cruttwell-Reade, Roxanna Panufnik,  Benjamin Attahir, Arlene Sierra and Edwin Roxburgh.
 
-- title: "Music for Piano and Film"
-  page_path: music-for-piano-and-film
-  image_path: projects/music-for-piano-and-film/haende-still.jpg
-  details: TODO
-
-- title: "Tido Music App"
-  page_path: tido-music-app
-  image_path: projects/tido-music-app/tido.png
-  details: TODO
-
-- title: "Polish Piano Music"
-  page_path: polish-piano-music
-  image_path: projects/polish-piano-music/clare-in-concert.jpg
-  details: TODO
-
-- title: "Panufnik 100"
-  page_path: panufnik-100
-  image_path: projects/panufnik-100/poster-square.jpg
-  details: TODO
+- title: "Panufnik 100 and Poland"
+  page_path: panufnik-100-poland
+  image_path: projects/panufnik-100-poland/poster-square.jpg
+  details: "Clare was heavily involved with Andrzej Panufnik's centenary in 2014, performing his music at the Chopin and his Europe Festival, and releasing a disc of his complete piano works for BIS. She has since performed with the Warsaw Philharmonic (Jacek Kaspszyk) and regularly visits Poland."
 
 - title: "Left-hand Piano Music"
   page_path: left-hand-piano-music
   image_path: projects/left-hand-piano-music/clare-at-the-piano.jpg
-  details: TODO
+  details: "Clare completed a doctorate on twentieth-century left-hand piano concertos at City University and the GSMD in 2012, and performed solo left-hand works by Scriabin, Saxton, Bach-Brahms, Lipatti and Saint-Saëns at festivals across Europe."
+
+
+
+

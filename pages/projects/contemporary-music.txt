@@ -2,4 +2,23 @@ title: Contemporary Music
 ---
 type: text
 
-TODO
+! Clare frequently performs and commissions solo, chamber and concerto works from living composers and is a keen advocate of contemporary music. To date, she has given over 50 world premieres by composers including Kenneth Hesketh, Edmund Finnis, Ninfea Cruttwell-Reade, Roxanna Panufnik, Benjamin Attahir, Arlene Sierra, Marta Ptaszyńska and Edwin Roxburgh.
+
+Clare's [discography](/discography/) features 20 world premiere recordings, which have been [internationally acclaimed](/reviews/), while Fiona Maddocks, in *The Observer*, described her as a "star interpreter of contemporary music". View Clare's repertoire lists of [solo contemporary music](/repertoire/contemporary/) and [concertos](/repertoire/concerto/).
+
+---
+type: modal-gallery
+subtitle: Photos
+
+- path: projects/contemporary-music/contemporary_1.jpg
+- path: projects/contemporary-music/contemporary_2.jpg
+- path: projects/contemporary-music/contemporary_3.jpg
+- path: projects/contemporary-music/contemporary_4.jpg
+- path: projects/contemporary-music/contemporary_5.jpg
+- path: projects/contemporary-music/contemporary_6.jpg
+- path: projects/contemporary-music/contemporary_7.jpg
+- path: projects/contemporary-music/contemporary_8.jpg
+- path: projects/contemporary-music/contemporary_9.jpg
+- path: projects/contemporary-music/contemporary_10.jpg
+- path: projects/contemporary-music/contemporary_11.jpg
+- path: projects/contemporary-music/contemporary_12.jpg

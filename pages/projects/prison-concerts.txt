@@ -2,13 +2,16 @@ title: Prison Concerts
 ---
 type: text
 
-Over the past few years, Clare has started taking her Yamaha electronic piano into prisons to give recitals. Presenting a wide range of repertoire, from Baroque to contemporary, she explains the stories behind the pieces, what the composers were going through at the time, and shows how music can inspire, console and broaden our horizons.  Clare has also worked with the wonderful charity [Changing Tunes][1] who, among other things, gave her the opportunity to play in a band for the first time (at the tender age of 34...).
+! Clare regularly performs in prisons across the UK, recounting stories behind the pieces and what the composers were going through at the time. By relating the challenges they faced, and by drawing on her own experience, Clare shows how music can inspire, console and heal. 
 
-You can read Jailhouse Moose's article ('How Many Keys Does it Take to Escape Prison'), describing a recital at HMP Erlestoke, [here][2].  Clare has also recently written an article for Classical Music Magazine about her experiences with postnatal depression, performing in prisons, and the healing power of music. You can read the article [here][3] and listen to a related podcast for the magazine's MusicPlus series [here][4].
+Read Jailhouse Moose's article describing a [recital at HMP Erlestoke](https://jailhousemoose.wordpress.com/2019/05/10/how-many-keys-does-it-take-to-escape-prison/), Clare's own account of her postnatal depression and prison performances in [*Classical Music Magazine*](/static/pdf/projects/prison-concerts/classical-music-magazine.pdf), and listen to a related podcast for the [MusicPlus series](https://www.rhinegold.co.uk/podcasts/musicplus/musicplus-clare-hammond/). 
 
-[![Classical Music Magazine](/static/img/projects/prison-concerts/classical-music-magazine.jpg)][3]
+Clare is grateful to [Arts Council England](https://www.artscouncil.org.uk/) and the [Scops Arts Trust](https://www.scopsartstrust.org.uk/) for supporting this work, and to [Changing Tunes](https://www.changingtunes.org.uk/) for their help and encouragement. 
 
-[1]: https://www.changingtunes.org.uk/
-[2]: https://jailhousemoose.wordpress.com/2019/05/10/how-many-keys-does-it-take-to-escape-prison/
-[3]: /static/2019/05/classical-music-magazine.pdf
-[4]: https://www.rhinegold.co.uk/podcasts/musicplus/musicplus-clare-hammond/
+(/static/pdf/projects/prison-concerts/classical-music-magazine.pdf)
+
+
+![Classical Music Magazine](/static/img/projects/prison-concerts/classical-music-magazine.jpg)
+
+
+

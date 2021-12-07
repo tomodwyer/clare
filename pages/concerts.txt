@@ -1,280 +1,198 @@
-title: Performances in 2021
+title: Performances in 2022
 main_image: philip-gatward/clare-hammond-5-medium.jpg
 ---
 type: concerts
 
 [[concert]]
-date = 2021-08-20
-location = "Winchelsea, Sussex"
-type = "Solo recital"
+date = 2022-01-30
+location = "Copenhagen, Denmark"
+type = "Children's concert"
 repertoire = [
-  ["Montgeroult", "Selection from Etudes"],
-  ["Brahms", "6 Piano Pieces, Op. 118"],
-  ["Gorb", "Selection from Preludes (World Premiere)"],
-  ["WG Still", "Bells (i. Phantom Chapel, ii. Fairy Knoll)"],
-  ["Szymanowski", "Variations on a Polish Theme, Op. 10"],
-]
-time = 19:30:00
-address = "St Thomas the Martyr, Monks Walk, Winchelsea TN36 4AB"
-details = [
-  "For the Brickwall Music and Arts Society.",
-  "Tickets £16 for non-members available on stilleralexander@hotmail.com or 01797 225822.",
-]
-
-[[concert]]
-date = 2021-09-01
-location = "Alnwick"
-type = "Solo recital"
-repertoire = [
-  ["Montgeroult", "Selection from Etudes"],
-  ["Piazzolla (arr. Davies)", "Suite from A Midsummer Night's Dream"],
-  ["Brahms", "6 Piano Pieces, Op. 118"],
-  ["Casken", "Six Wooded Pieces"],
-  ["WG Still", "Bells (i. Phantom Chapel, ii. Fairy Knoll)"],
-  ["Szymanowski", "Variations on a Polish Theme, Op. 10"],
-]
-time = 19:30:00
-address = "Alnwick Playhouse, Bondgate Without, Alnwick NE66 1PQ"
-details = [
-  "For Alnwick Music.",
-  "Tickets £17 available [online](https://www.alnwickmusicsociety.co.uk/clare-hammond-01-09-2021/).",
-]
-
-[[concert]]
-date = 2021-09-02
-location = "Kelso"
-type = "Solo recital"
-repertoire = [
-  ["Montgeroult", "Selection from Etudes"],
-  ["Brahms", "6 Piano Pieces, Op. 118"],
-  ["WG Still", "Bells (i. Phantom Chapel, ii. Fairy Knoll)"],
-  ["Szymanowski", "Variations on a Polish Theme, Op. 10"],
-]
-time = 19:30:00
-address = "Old Parish Church, Kelso TD5 7BA"
-details = [
-  "Tickets £15. Limited ticket availability due to social-distancing. To reserve seats, please call 07970 804802.",
-]
-
-[[concert]]
-date = 2021-09-04
-location = "Ardrishaig"
-type = "Solo recital"
-repertoire = [
-  ["Montgeroult", "Selection from Etudes"],
-  ["Brahms", "6 Piano Pieces, Op. 118"],
-  ["WG Still", "Bells (i. Phantom Chapel, ii. Fairy Knoll)"],
-  ["Szymanowski", "Variations on a Polish Theme, Op. 10"],
-]
-time_details = "Clare will play the same programme twice, at 12pm and 2pm."
-address = "Christ Church, The Scottish Episcopal Church, Bishopton Road, Lochgilphead PA31 8PY"
-details = [
-  "Tickets tbc. More information will be available [online](https://www.facebook.com/MidArgyllArtsAssociation/).",
-  "For the Mid-Argyll Arts Association.",
-]
-
-[[concert]]
-date = 2021-09-04
-location = "Oban"
-type = "Solo recital"
-repertoire = [
-  ["Montgeroult", "Selection from Etudes"],
-  ["Piazzolla (arr. Davies)", "Suite from A Midsummer Night's Dream"],
-  ["Brahms", "6 Piano Pieces, Op. 118"],
-  ["Barnard", "Neanderthal Ballads (world premiere)"],
-  ["WG Still", "Bells (i. Phantom Chapel, ii. Fairy Knoll)"],
-  ["Szymanowski", "Variations on a Polish Theme, Op. 10"],
-]
-time_details = "7pm (note revised start time)."
-address = "St John's Cathedral, 120 George St, Oban PA34 5NT"
-details = [
-  "For the Oban Music Society.",
-  "Tickets £10, available [online](https://www.obanmusicsociety.com/membership/)."
-]
-
-[[concert]]
-date = 2021-09-05
-location = "Peebles"
-type = "Solo recital"
-repertoire = [
-  ["Montgeroult", "Selection from Etudes"],
-  ["Piazzolla (arr. Davies)", "Suite from A Midsummer Night's Dream"],
-  ["Brahms", "6 Piano Pieces, Op. 118"],
-  ["Barnard", "Neanderthal Ballads (world premiere)"],
-  ["WG Still", "Bells (i. Phantom Chapel, ii. Fairy Knoll)"],
-  ["Szymanowski", "Variations on a Polish Theme, Op. 10"],
-]
-time = 19:30:00
-address = "Eastgate Theatre, Eastgate, Peebles, EH45 8AD"
-details = [
-  "For the Oban Music Society.",
-  "For Music in Peebles.",
-  "Tickets £15 / £7 discounted / free for under 25s, available [online](https://musicinpeebles.org.uk/concert/clare-hammond-piano/)."
-]
-
-[[concert]]
-date = 2021-09-20
-location = "Lammermuir Festival, Musselburgh"
-type = "Two-piano concert with Rick Uttley"
-repertoire = [
-  ["Bach", "Sheep may Safely Graze (arr. Bartlett & Robertson)"],
-  ["Debussy", "En blanc et noir"],
-  ["Bax", "The Poisoned Fountain"],
-  ["Rachmaninov", "Suite No. 2, Op. 17"],
-  ["Granados", "The Lover and the Nightingale (arr. Bartlett & Robertson)"],
-  ["de Falla", "La Vida Breve - Spanish Dance No. 1 (arr. Bartlett & Robertson)"],
-]
-details = [
-  "*N.B.: This concert has been postponed and will not take place in 2021.*",
-]
-
-[[concert]]
-date = 2021-09-22
-location = "Crieff, near Perth"
-type = "Solo recital"
-repertoire = [
-  ["Montgeroult", "Selection from Etudes"],
-  ["Piazzolla (arr. Davies)", "Suite from A Midsummer Night's Dream"],
-  ["Brahms", "6 Piano Pieces, Op. 118"],
-  ["Barnard", "Neanderthal Ballads (world premiere)"],
-  ["WG Still", "Bells (i. Phantom Chapel, ii. Fairy Knoll)"],
-  ["Szymanowski", "Variations on a Polish Theme, Op. 10"],
-]
-time = 19:30:00
-address = "St Andrew's Hall, Strathearn Terrace, Crieff, PH7 3BZ"
-details = [
-  "For the Strathearn Music Society",
-  "Tickets £13, released to members first.",
-  "If there is spare capacity, tickets will be available on Eventbrite and at the Strathearn Arts Box Office in Crieff.",
-]
-
-[[concert]]
-date = 2021-09-23
-location = "Hargrave Music Festival"
-type = "Solo recital"
-repertoire = [
-  ["Montgeroult", "Selection from Etudes"],
-  ["Piazzolla (arr. Davies)", "Suite from A Midsummer Night's Dream"],
-  ["Brahms", "6 Piano Pieces, Op. 118"],
-  ["Barnard", "Neanderthal Ballads (world premiere)"],
-  ["WG Still", "Bells (i. Phantom Chapel, ii. Fairy Knoll)"],
-  ["Szymanowski", "Variations on a Polish Theme, Op. 10"],
-]
-time = 19:30:00
-address = "All Hallows, Church Road, Hargrave, Wellingborough NN9 6BW"
-details = [
-  "For Hargrave Music Festival",
-  "Tickets £20 / £15 / £10 / £5, available [online](http://www.hargravemusicfestival.com/?page_id=1379).",
-]
-
-[[concert]]
-date = 2021-09-28
-location = "Caledonian Club, London"
-type = "Solo recital"
-repertoire = [
-  ["Montgeroult", "Selection from Etudes"],
-  ["Brahms", "6 Piano Pieces, Op. 118"],
-  ["Piazzolla (arr. Davies)", "Suite from A Midsummer Night's Dream"],
-  ["Szymanowski", "Variations on a Polish Theme, Op. 10"],
-]
-time = 19:15:00
-address = "Caledonian Club, 9 Halkin Street, London SW1X 7DR"
-details = [
-  "Concert open to members only.",
-]
-
-[[concert]]
-date = 2021-10-08
-location = "Palazzetto Bru Zane, Venice"
-type = "Solo recital"
-repertoire = [
-  ["Montgeroult", "Selection from Etudes"],
-]
-time = 19:30:00
-address = "Palazzetto Bru Zane, San Polo, 2368, 30125 Venezia VE Italy"
-details = [
-  "Tickets 6-19€. More information available [online](https://bru-zane.com/en/evento/la-marchesa-del-pianoforte/#).",
-]
-
-[[concert]]
-date = 2021-10-15
-location = "Lichfield Festival"
-type = "Solo recital"
-repertoire = [
-  ["Montgeroult", "Selection from Etudes"],
-  ["Piazzolla (arr. Davies)", "Suite from A Midsummer Night's Dream"],
-  ["Brahms", "6 Piano Pieces, Op. 118"],
-  ["Gorb", "Selection from Preludes (World Premiere)"],
-  ["WG Still", "Bells (i. Phantom Chapel, ii. Fairy Knoll)"],
-  ["Szymanowski", "Variations on a Polish Theme, Op. 10"],
-]
-time = 20:00:00
-address = "The Hub at St Mary's, Market Square, Lichfield WS13 6LG"
-details = [
-  "Tickets £18, available [online](https://lichfieldfestival.org/event/clare-hammond-piano/).",
-]
-
-[[concert]]
-date = 2021-10-16
-location = "Lichfield Festival"
-type = "Musical explorers - children's concert"
-summary = "Clare presents a programme of captivating short pieces and tells the stories that lie behind the music, ask the audience to solve puzzles, and play musical games."
-time = "10.30-11.30am"
-address = "The Hub at St Mary's, Market Square, Lichfield WS13 6LG"
-details = [
-  "Tickets £5, available [online](https://lichfieldfestival.org/event/musical-explorers-childrens-concert-with-clare-hammond/).",
-]
-
-[[concert]]
-date = 2021-10-18
-location = "BBC Radio 3"
-type = "Afternoon concert"
-summary = "Clare's recording of Bells by W G Still will be broadcast as part of 'Afternoon Concert'."
-details = [
-  "From 3pm on [BBC Radio 3](https://www.bbc.co.uk/sounds/play/live:bbc_radio_three).",
-]
-
-[[concert]]
-date = 2021-10-19
-date_details = "19-21 October"
-location = "Wyastone Hall, near Monmouth"
-type = "CD recording"
-summary = "Clare will record 24 Preludes and Velocity by Adam Gorb for [Toccata Classics](https://toccataclassics.com/)."
-
-[[concert]]
-date = 2021-10-23
-location = "Sidmouth Music, Devon"
-type = "Solo recital"
-repertoire = [
-  ["Montgeroult", "Selection from Etudes"],
-  ["Piazzolla (arr. Davies)", "Suite from A Midsummer Night's Dream"],
-  ["Brahms", "6 Piano Pieces, Op. 118"],
-  ["Gorb", "Selection from Preludes (World Premiere)"],
-  ["WG Still", "Bells (i. Phantom Chapel, ii. Fairy Knoll)"],
-  ["Szymanowski", "Variations on a Polish Theme, Op. 10"],
+  ["Music by Saint-Saëns, Olsen, Svendsen and Grieg"],
 ]
 time = 15:00:00
-address = "Sidmouth Parish Church, Church St, Sidmouth EX10 8LG"
+address = "Helleruplund Church, Bernstorffsvej 73, 2900 Hellerup"
 details = [
-  "Tickets £18, available [online](http://www.sidmouthmusic.org.uk/Tickets.html).",
+  "With Henning and Alma Kraggerud, and Mathias Hammer.",
+  "For the Hellerup Kammermusikforening. More information [online](https://www.hkmf.dk/bornekoncerter/).",
 ]
 
 [[concert]]
-date = 2021-10-31
-location = "Homerton College, Cambridge"
-type = "Ghosts & Whispers, for piano and film"
-summary = "On Halloween this year, join Clare for [Ghosts & Whispers](http://clarehammond.com/ghosts.html)."
-time = 19:00:00
-address = "North Wing Auditorium, Homerton College, Hill Rd, Cambridge CB2 8PH"
+date = 2022-01-31
+location = "Copenhagen, Denmark"
+type = "With violinist, Henning Kraggerud"
+repertoire = [
+  ["Beethoven", "Romance in G major, Op. 40 No. 1"],
+  ["Schumann, C.", "Romanzen, Op. 22, Nos. 1-2"],
+  ["Grieg", "Sonata No. 3 in C minor for violin and piano, Op. 45"],
+  ["Sarasate", "'Romanza Andaluza' from *Spanish Dances*"],
+  ["Svendsen", "GABH for solo piano (world premiere)"],
+  ["Svendsen", "Romance for violin and piano, Op. 26"],
+  ["Franck", "'Allegro' from Sonata for violin and piano in A major"],
+  ["Kreisler", "Liebesleid"],
+]
+time = 19:30:00
+address = "Helleruplund Church, Bernstorffsvej 73, 2900 Hellerup"
 details = [
-  "Tickets £1-10 available [online](https://my.homerton.cam.ac.uk/civicrm/event/info?id=6072&reset=1).",
+  "For the Hellerup Kammermusikforening. More information [online](https://www.hkmf.dk/saesonprogram/).",
 ]
 
 [[concert]]
-date = 2021-11-03
-location = "BBC Radio 3"
-type = "Lunchtime Concerts"
-summary = "Clare's recording of Schumann's Piano Quintet in E flat major Op. 44 with the Carducci Quartet will be broadcast as part of 'Lunchtime Concerts'."
-details = [
-  "Between 1 and 2pm on [BBC Radio 3](https://www.bbc.co.uk/sounds/play/live:bbc_radio_three).",
+date = 2022-02-06
+location = "Faversham, Kent"
+type = "Solo recital"
+repertoire = [
+  ["Carwithen", "Sonatina"],
+  ["WG Still", "Bells"],
+  ["Piazzolla (arr. Davies)", "Suite from A Midsummer Night's Dream"],
+  ["Medtner", "Sonata Romantica, Op. 53 No. 1"],
 ]
+time = 15:00:00
+address = "Assembly Rooms, Preston Street, Faversham ME13 8PG"
+details = [
+  "For the Faversham Music Club. Tickets £10, available [online](https://www.favershammusicclub.co.uk/).",
+]
+
+[[concert]]
+date = 2022-02-09
+location = "York"
+type = "Solo recital"
+repertoire = [
+  ["Beethoven", "Sonata in C major, Op. 2 No. 3"],
+  ["Birchall", "Abstracts"],
+  ["Brahms", "Six Piano Pieces, Op. 118"],
+  ["Carwithen", "Sonatina"],
+  ["WG Still", "Bells"],
+  ["Medtner", "Sonata Romantica, Op. 53 No. 1"],
+]
+time = 19:30:00
+address = "Sir Jack Lyons Concert Hall, Campus West, University of York"
+details = [
+  "For York Concerts. Tickets £18 / £16 / £5, available [online](https://yorkconcerts.co.uk/whats-on/2021/clare-hammond/).",
+]
+
+[[concert]]
+date = 2022-02-11
+location = "Barnes, London"
+type = "With actor Tama Matheson"
+repertoire = [
+  ["Don Juan: the brilliant irreverence of Lord Byron", "a concert play of words and music"],
+
+]
+time_details = "Time tbc."
+address = "OSO Arts Centre, 49 Station Road, Barnes, London SW13 0LF"
+details = [
+  "Tickets tbc, will be available [online](https://www.osoarts.org.uk/)."
+]
+
+[[concert]]
+date = 2022-02-12
+location = "Barnes, London"
+type = "With actor Tama Matheson"
+repertoire = [
+  ["Don Juan: the brilliant irreverence of Lord Byron", "a concert play of words and music"],
+
+]
+time_details = "Time tbc."
+address = "OSO Arts Centre, 49 Station Road, Barnes, London SW13 0LF"
+details = [
+  "Tickets tbc, will be available [online](https://www.osoarts.org.uk/)."
+]
+
+[[concert]]
+date = 2022-02-28
+location = "Hoylake"
+type = "Solo recital"
+repertoire = [
+  ["Beethoven", "Sonata in C major, Op. 2 No. 3"],
+  ["Brahms", "Six Piano Pieces, Op. 118"],
+  ["Carwithen", "Sonatina"],
+  ["WG Still", "Bells"],
+  ["Medtner", "Sonata Romantica, Op. 53 No. 1"],
+]
+time = 19:30:00
+address = "St Hildeburgh's Parish Church, 1 Stanley Road, Hoylake, Wirral CH47 1HL"
+details = [
+  "For the Hoylake Chamber Concert Society. Tickets will be available [online](https://chamberconcert.co.uk/).",
+]
+
+[[concert]]
+date = 2022-03-04
+location = "Emmanuel College, Cambridge"
+type = "Solo Recital"
+repertoire = [
+  ["Carwithen", "Sonatina"],
+  ["Birchall", "Abstracts"],
+  ["Medtner", "Sonata Romantica, Op. 53 No. 1"],
+]
+time = 18:00:00
+address = "Emmanuel College, St Andrew's Street, Cambridge CB2 3AP"
+details = [
+  "For the Burnaby Concert Series. Free entrance, no need to book.",
+]
+
+[[concert]]
+date = 2022-03-06
+location = "Perth"
+type = "Solo recital"
+repertoire = [
+  ["Beethoven", "Sonata in C major, Op. 2 No. 3"],
+  ["Brahms", "Six Piano Pieces, Op. 118"],
+  ["Carwithen", "Sonatina"],
+  ["WG Still", "Bells"],
+  ["Medtner", "Sonata Romantica, Op. 53 No. 1"],
+]
+time_details = "Time tbc."
+address = "Perth Concert Hall, Mill Street, Perth PH1 5HZ"
+details = [
+  "Tickets tbc, will be available [online](https://www.horsecross.co.uk/whats-on).",
+]
+
+[[concert]]
+date = 2022-03-09
+location = "Birmingham"
+type = "With the CBSO and Michael Seal"
+repertoire = [
+  ["Nielsen", "Helios Overture"],
+  ["Grieg", "Piano Concerto in A minor, Op. 16"],
+  ["Sibelius", "Symphony No. 1"],
+]
+time = 14:15:00
+address = "Symphony Hall, Broad Street, Birmingham B1 2EA"
+details = [
+  "Tickets £15-55, available [online](https://bmusic.co.uk/events/cbso-2021-22-wed-9-march-2022).",
+]
+
+[[concert]]
+date = 2022-03-26
+location = "Painswick, Gloucestershire"
+type = "With the Carducci Quartet"
+repertoire = [
+  ["Mendelssohn, F.", "String Quartet in E flat major"],
+  ["Shostakovich", "String Quartet No. 9"],
+  ["Schumann", "Piano Quintet in E flat major, Op. 44"],
+]
+time = 15:00:00
+address = "St Mary's Church, Painswick, GL6 6UT"
+details = [
+  "Tickets will be available [online](https://painswickmusicsoc.co.uk/).",
+]
+
+[[concert]]
+date = 2022-03-27
+location = "Worcester"
+type = "Solo recital"
+repertoire = [
+  ["Beethoven", "Sonata in C major, Op. 2 No. 3"],
+  ["Birchall", "Abstracts"],
+  ["Brahms", "Six Piano Pieces, Op. 118"],
+  ["Carwithen", "Sonatina"],
+  ["WG Still", "Bells"],
+  ["Medtner", "Sonata Romantica, Op. 53 No. 1"],
+]
+time = 15:00:00
+address = "Huntingdon Hall, Worcester WR1 2ES"
+details = [
+  "For the Worcester Concert Club. Tickets will be available [online](https://www.worcserenade.co.uk/).",
+]
+

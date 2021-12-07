@@ -1,11 +1,10 @@
 title: Uncoiling the River
-subtitle: by Kenneth Hesketh
 ---
 type: text
 
-! *Uncoiling the River* is a work by [Kenneth Hesketh](http://www.kennethhesketh.co.uk/) for piano and orchestra, co-commissioned by BBC Radio 3 and the Royal Liverpool Philharmonic Orchestra with support from the RVW Trust. Clare gave the world premiere with the BBC National Orchestra of Wales and Martyn Brabbins in Jan 2019 at the Hoddinott Hall in Cardiff, and performed it again with the RLPO and Vasily Petrenko in Liverpool in Jan 2020. BBC Radio 3 broadcast the first performance on the New Music Show in Feb 2020.
+! A work for piano and orchestra, written for Clare by Kenneth Hesketh, *Uncoiling the River* explores how we perceive and experience time. Co-commissioned by BBC Radio 3 and the Royal Liverpool Philharmonic Orchestra with support from the RVW Trust, it was performed with the BBC National Orchestra of Wales (Martyn Brabbins) and the RLPO (Vasily Petrenko) in 2019 and 2020. 
 
-The title is both poetic and descriptive, outlining the formal plan the work follows; a ‘toccata’ figure is constantly bent and reconstituted, evolving through expansion and contraction alongside a number of strata that are juxtaposed or superimposed as the work unfolds. *Uncoiling the River is 24 minutes long*. Click [here](/static/pdf/projects/uncoiling-the-river/utr_instrumentation.pdf) to view the instrumentation.
+The title is both poetic and descriptive, outlining the formal plan the work follows; a ‘toccata’ figure is constantly bent and reconstituted, evolving through expansion and contraction alongside a number of strata that are juxtaposed or superimposed as the work unfolds. *Uncoiling the River* is 26 minutes long. Read the [programme note](/static/pdf/projects/uncoiling-the-river/programme_note.pdf) and view instrumentation [here](/static/pdf/projects/uncoiling-the-river/utr_instrumentation.pdf).
 
 > “Time is the substance I am made of.<br />
 > Time is a river which sweeps me along, but I am the river;<br />
@@ -15,33 +14,26 @@ The title is both poetic and descriptive, outlining the formal plan the work fol
 
 ---
 type: audio
-subtitle: Audio
-footer: "*(With the permission of BBC Radio 3 and the RLPO.)*"
+subtitle: Audio extracts
+footer: "*With the permission of BBC Radio 3 and the RLPO.*"
 
 - path: projects/uncoiling-the-river/excerpt-bbc-now.mp3
-  description: "An extract from the world premiere with the BBC National Orchestra of Wales and Martyn Brabbins"
+  description: "World premiere with BBC NOW (Martyn Brabbins)" 
 
 - path: projects/uncoiling-the-river/excerpt-rlpo.mp3
-  description: "An extract from the performance with the Royal Liverpool Philharmonic Orchestra and Vasily Petrenko"
+  description: "With the RLPO (Vasily Petrenko)"
 
 ---
 type: modal-gallery
-subtitle: Gallery
-header: "In Cardiff, January 2019"
+subtitle: Photos
 
-- path: projects/uncoiling-the-river/cardiff-2019-01/utr_1.jpg
-- path: projects/uncoiling-the-river/cardiff-2019-01/utr_2.jpg
-- path: projects/uncoiling-the-river/cardiff-2019-01/utr_3.jpg
-- path: projects/uncoiling-the-river/cardiff-2019-01/utr_4.jpg
-- path: projects/uncoiling-the-river/cardiff-2019-01/utr_5.jpg
-- path: projects/uncoiling-the-river/cardiff-2019-01/utr_6.jpg
-- path: projects/uncoiling-the-river/cardiff-2019-01/utr_7.jpg
-- path: projects/uncoiling-the-river/cardiff-2019-01/utr_8.jpg
-
----
-type: modal-gallery
-header: "In Liverpool, January 2020"
-
-- path: projects/uncoiling-the-river/liverpool-2020-01/utr_12.jpg
-- path: projects/uncoiling-the-river/liverpool-2020-01/utr_10.jpg
-- path: projects/uncoiling-the-river/liverpool-2020-01/utr_11.jpg
+- path: projects/uncoiling-the-river/utr_1.jpg
+- path: projects/uncoiling-the-river/utr_2.jpg
+- path: projects/uncoiling-the-river/utr_3.jpg
+- path: projects/uncoiling-the-river/utr_4.jpg
+- path: projects/uncoiling-the-river/utr_5.jpg
+- path: projects/uncoiling-the-river/utr_6.jpg
+- path: projects/uncoiling-the-river/utr_7.jpg
+- path: projects/uncoiling-the-river/utr_8.jpg
+- path: projects/uncoiling-the-river/utr_9.jpg
+- path: projects/uncoiling-the-river/utr_10.jpg

@@ -2,4 +2,17 @@ title: Equinox with Henning Kraggerud
 ---
 type: text
 
-TODO
+!An exploration of time, space, identity, memory and loss in a work for violin, piano and narrator, accompanied by texts from Norwegian author, Jostein Gaarder.
+
+Since the 17th century, theorists, philosophers and composers have discussed the intrinsic properties of musical keys, and their links to time and space. These discussions and ideas inspired [Henning Kraggerud](https://www.henningkraggerud.com/) and the world-famous author of Sophie's World, [Jostein Gaarder](https://en.wikipedia.org/wiki/Jostein_Gaarder), to collaborate on *Equinox*.
+
+*Equinox* comprises four concertos - Afternoon, Evening, Night and Morning. In total, there are 25 postludes, spanning each of the 24 keys, every hour of the day, and every time zone. Gaarder has written an original accompanying 24-part narrative charting a man's journey through time from the Meridian Line in Greenwich, London. Awaiting a potentially serious medical diagnosis, the protagonist decides to make the most of his 24 hours of freedom by embarking upon a kaleidoscopic tour of the world.
+
+*Equinox* can be performed in two halves with narration (2.5 hours) or in a single span without narration (75 minutes). 
+
+* Download pdf proposals for performances in [English](/static/pdf/projects/equinox/equinox_english.pdf) and [Norwegian](/static/pdf/projects/equinox/equinox_norwegian.pdf).
+
+---
+type: video
+
+- url: https://www.youtube.com/embed/SO60gKtN79s?start=216

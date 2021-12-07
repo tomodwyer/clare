@@ -1,0 +1,26 @@
+title: Myslivecek Complete Keyboard Works
+---
+type: text
+
+!Clare released the first ever recording of the Complete Keyboard Works of Czech composer Josef Myslivecek (1737-1781) with BIS Records in 2019. Featuring two keyboard concertos, with the Swedish Chamber Orchestra (Nicholas McGegan), the *Six Easy Divertimenti* and *Six Easy Lessons for the Harpsichord*, the disc was praised for its "perfectly judged tone" (*Guardian*) and "deliciously unfussy poise and elegance" (*The Times*).
+
+Known by many simply as 'Il Boemo' ('The Bohemian'), Myslivecek  lived a life so scandalous that at times he shocked even Mozart himself. He enjoyed great success on the international stage, both as an operatic and a symphonic composer, and was well established in his career when he met the young Mozart in Bologna in 1770. Myslivecek became a mentor to Mozart and is the only composer of whom Mozart wrote with affection and respect. His influence is apparent in Mozart’s operas, violin concertos, symphonies and keyboard music from this period.  
+ 
+Myslivecek  contracted  syphilis  later  in  life  and  lost  his  nose  during  the  course  of  a  botched operation. After deceiving Mozart’s father in a business transaction, Myslivecek and the Mozart family became estranged and Myslivecek ultimately died disfigured and in poverty. His music fell out of fashion and was neglected for over two hundred years. The keyboard concertos have barely seen the light of day since Myslivecek’s death and the first has never been published. Clare created her own editions of both concerti, and toured the first in Poland in 2016. 
+
+You can read [reviews](/reviews/) online and find the disc on [BIS Records](https://bis.se/performers/hammond-clare/myslivecek-complete-music-for-keyboard), [Amazon](https://www.amazon.co.uk/Myslivecek-Complete-Keyboard-Orchestra-Nicholas/dp/B07NN4FTLH/ref=sr_1_5?ie=UTF8&qid=1551786138&sr=8-5&keywords=clare+hammond), and [eClassical](https://www.eclassical.com/hammond-clare/myslivecek-complete-music-for-keyboard.html).
+
+*“I should advise my sister to play Myslivecek’s sonatas with plenty of expression, taste and fire, and to learn them by heart. For they are sonatas which are bound to please everyone, and very effective when played with proper precision.”* (Mozart, in a letter to his father, 1777)
+
+---
+
+type: modal-gallery
+subtitle: Photos
+
+- path: projects/myslivecek-complete-keyboard-works/myslivecek_1.jpg
+- path: projects/myslivecek-complete-keyboard-works/myslivecek_2.jpg
+- path: projects/myslivecek-complete-keyboard-works/myslivecek_3.jpg
+- path: projects/myslivecek-complete-keyboard-works/myslivecek_4.jpg
+- path: projects/myslivecek-complete-keyboard-works/myslivecek_5.jpg
+- path: projects/myslivecek-complete-keyboard-works/myslivecek_6.jpg
+

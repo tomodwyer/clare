@@ -6,25 +6,9 @@ type: text
 
 Clare is collaborating with actor [Tama Matheson](https://www.tamamatheson.com/) on a series of concert-plays that combine words and music to explore and illuminate the lives of composers and writers.
 
-Their first performance was of His Quest for Peace - Andrzej Panufnik at the Barnes Music Festival in May 2021. Featuring music by Andrzej and Roxanna Panufnik, Chopin and Stravinsky, the play follows Panufnik as he struggles to find an artistic voice in a world where free speech is forbidden. Filled with funny, shocking, and tragic incidents - including confrontations with Nazi overlords, and a high-speed car-chase that would be the envy of a Hollywood blockbuster - it explores the horrors of tyranny, the power of art, and the triumph of the human spirit over tribulation.
+Their first performance was of *His Quest for Peace - Andrzej Panufnik* at the Barnes Music Festival in May 2021. Featuring music by Andrzej and Roxanna Panufnik, Chopin and Stravinsky, the play follows Panufnik as he struggles to find an artistic voice in a world where free speech is forbidden. Filled with funny, shocking, and tragic incidents - including confrontations with Nazi overlords, and a high-speed car-chase that would be the envy of a Hollywood blockbuster - it explores the horrors of tyranny, the power of art, and the triumph of the human spirit over tribulation.
 
 Future projects include plays on the lives of Bach, Britten and Byron.
 
-* Download a proposal [here](TODO).
+* Download a proposal [here](/static/pdf/projects/poesis/concert-plays.pdf).
 
----
-type: modal-gallery
-subtitle: Photos from May 2021
-
-- title: In rehearsal
-  path: projects/poesis/2021-05/poesis-1.jpg
-- title: In rehearsal
-  path: projects/poesis/2021-05/poesis-2.jpg
-- title: Lady Camilla Panufnic and Simon Callow at the performance
-  path: projects/poesis/2021-05/poesis-3.jpg
-- title: After the performance
-  path: projects/poesis/2021-05/poesis-4.jpg
-- title: With Jem Panufnik
-  path: projects/poesis/2021-05/poesis-5.jpg
-- title: With Jem Panufnik
-  path: projects/poesis/2021-05/poesis-6.jpg

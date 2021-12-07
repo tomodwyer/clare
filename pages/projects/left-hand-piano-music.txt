@@ -2,4 +2,28 @@ title: Left-hand Piano Music
 ---
 type: text
 
-TODO
+!Clare completed a doctorate on twentieth-century left-hand piano concertos, with particular reference to Britten's *Diversions* and Ravel's *Concerto pour la main gauche*, in 2012.
+
+She was awarded a full grant from the Arts and Humanities Research Council to study with Professor Rhian Samuel at City University London and Ronan O'Hora at the Guildhall School of Music & Drama. Her thesis explored discourses surrounding the body, virtuosity, and the respective roles of composer and performer, and can be downloaded [here](/static/pdf/projects/left-hand-piano-music/thesis.pdf).
+
+During her doctorate, Clare gave research presentations at universities and conservatoires across the UK, and was convenor for the RMA Study Day 'Performing Musicology' at City University London in 2011. After graduating, she supervised Performance Studies and Analysis at Cambridge University from 2011-13. 
+
+---
+
+type: text
+subtitle: Summary of thesis
+
+!To Conceal or Reveal: left-hand pianism with particular reference to Ravel's *Concerto pour la main gauche* and Britten's *Diversions*
+
+Chapter 1. Transcending Limitation: Godowsky’s transcriptions of Chopin’s Etudes
+
+Chapter 2. Concealing 'One-handedness': Ravel’s *Concerto pour la main gauche*
+
+Chapter 3. Celebrating Difference: Britten’s *Diversions*, op. 21
+
+Chapter 4. Acknowledging Wittgenstein’s Voice: the left-hand piano concerto in practice
+
+Left-hand piano music has been written to accommodate injury, to provide specialised technical exercises, for virtuosic display or as a response to compositional challenge. Leopold Godowsky’s transcriptions of Chopin’s Etudes are a cornerstone of the left-hand piano repertoire and were influential in the creation of a number of works for left-hand piano and orchestra written for the pianist Paul Wittgenstein, including Maurice Ravel’s Concerto pour la main gauche and Benjamin Britten’s Diversions, op. 21. An examination of specifically left-hand techniques and gestures developed in the transcriptions shows how much may be achieved both within and precisely because of self-imposed limitations. In these works, Godowsky posits the body as a central expressive element and it is this aspect which proves most illuminating and intriguing in subsequent composers’ approaches to works for left-hand piano.
+
+Both Ravel and Britten acknowledged that writing for the left hand posed a ‘problem’, yet their respective stances towards this and to the issue of limitation were sharply opposed. An examination of how left-hand piano techniques and gestures are deployed in their works for left-hand piano and orchestra enables us to analyse their contrasting approaches to the genre. The importance of physical gesture and of visual perception of the performer in concert by an audience is intimately linked with the musical and social meanings which these concertos convey, and was clearly understood by their dedicatee, Wittgenstein. Alterations that he made to these concertos indicate both his specific priorities as a left-hand pianist and the creative and expressive impact which disability may exert on a musical work. They reveal not only the contrasting claims of performer and composer, but also how works may be manipulated as vehicles in the formation of an artistic identity and performance persona.
+

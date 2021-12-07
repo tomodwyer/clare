@@ -1,5 +1,0 @@
-title: "Piano Polyptic"
----
-type: text
-
-TODO

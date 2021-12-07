@@ -7,7 +7,7 @@ type: project-listing
   image_path: album-covers/variations-thumb.jpg
   details: "An adventurous programme of twentieth and twenty-first-century variations for piano.  From the imposing *Chaconne* by Sofia Gubaidulina, to the tender grief of Paul Hindemith’s *Variations* or Aaron Copland’s bold and uncompromising proclamation, the album presents a fresh perspective on the genre."
 
-- title: "Josef Myslivecek: Complete Keyboard Works"
+- title: "Myslivecek: Complete Keyboard Works"
   page_path: myslivecek-complete-keyboard-works
   image_path: album-covers/myslivecek-complete-keyboard-works-thumb.jpg
 
@@ -31,9 +31,9 @@ type: project-listing
   page_path: panufnik-reflections
   image_path: album-covers/panufnik-reflections-thumb.jpg
 
-- title: "Piano Polyptic"
-  page_path: piano-polyptic
-  image_path: album-covers/piano-polyptic-thumb.jpg
+- title: "Piano Polyptych"
+  page_path: piano-polyptych
+  image_path: album-covers/piano-polyptych-thumb.jpg
 
 - title: "The Art of Dancing"
   page_path: the-art-of-dancing
