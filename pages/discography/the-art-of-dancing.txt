@@ -2,4 +2,18 @@ title: "The Art of Dancing"
 ---
 type: text
 
-TODO
+!A collaboration with trumpeter Simon Desbruslais, this programme presents three double concertos, newly commissioned for the project, alongside Deborah Pritchard's *Seven Halts on the Somme* for solo trumpet and orchestra. *BBC Music Magazine* praised this 'beautifully performed, highly original disc'.
+
+Performed with the English String Orchestra (Kenneth Woods), these concertos draw on a multiplicity of influences: modern dance music in Young's homage to the Baroque dance suite, and art by Wassily Kandinsky and Hughie O'Donohoe in the works by Gordon and Pritchard. Borenstein's concerto is more abstract in content, using complex juxtaposition of rhythms to create a multiplicity of different atmospheres. 
+
+The disc was released on [Signum Records](https://signumrecords.com/product/art-dancing-21st-century-concertos-trumpet-piano-strings/SIGCD513/) in 2017 and is available on [iTunes](https://music.apple.com/gb/album/art-dancing-21st-century-concertos-for-trumpet-piano/1262544839), [Presto Music](https://www.prestomusic.com/classical/products/8347774--the-art-of-dancing) and [Europadisc](https://www.europadisc.co.uk/classical/133301/The_Art_of_Dancing:_21st-century_Concertos_for_Trumpet,_Piano_and_Strings.htm). It features the following works:
+
+
+* Toby Young - *The Art of Dancing*º
+* Geoffrey Gordon - *Saint Blue*º
+* Deborah Pritchard - *7 Halts on the Somme*º
+* Nimrod Borenstein - Concerto for Piano, Trumpet and String Orchestra, Op. 74º
+
+º *With four world premiere recordings.*
+
+![The Art of Dancing CD Cover](/static/img/album-covers/the-art-of-dancing-thumb.jpg)

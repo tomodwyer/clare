@@ -5,7 +5,7 @@ type: project-listing
 - title: "Variations"
   page_path: variations
   image_path: album-covers/variations-thumb.jpg
-  details: "An adventurous programme of twentieth and twenty-first century variations for piano. From the majestic *Chaconne* by Sofia Gubaidulina, to the impassioned virtuosity of Szymanowski's *Variations*, this album presents a fresh perspective on the genre."
+  details: "An adventurous programme of twentieth and twenty-first century variations for piano. From the majestic *Chaconne* by Sofia Gubaidulina, to the impassioned virtuosity of Szymanowski's *Variations*, this disc presents a fresh perspective on the genre."
 
 - title: "Myslivecek: Complete Keyboard Works"
   page_path: myslivecek-complete-keyboard-works
@@ -35,7 +35,7 @@ type: project-listing
 - title: "Reflections"
   page_path: panufnik-reflections
   image_path: album-covers/panufnik-reflections-thumb.jpg
-  details: "Released in Andrzej Panufnik's centenary year, this presents the entirety of his, and daughter Roxanna's, works for piano. *BBC Music Magazine* cited Clare's 'commandingly virtuosic performance' while *International Piano* recommended this 'fascinating compendium'."
+  details: "Released in Andrzej Panufnik's centenary year, this disc presents the entirety of his, and daughter Roxanna's, works for piano. *BBC Music Magazine* cited Clare's 'commandingly virtuosic performance' while *International Piano* recommended this 'fascinating compendium'."
 
 - title: "Piano Polyptych"
   page_path: piano-polyptych

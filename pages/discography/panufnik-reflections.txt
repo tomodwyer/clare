@@ -2,4 +2,30 @@ title: "Reflections"
 ---
 type: text
 
-TODO
+!Released in Andrzej Panufnik's centenary year, this disc presents the entirety of his, and daughter Roxanna's, works for piano. *BBC Music Magazine* cited Clare's 'commandingly virtuosic performance', while *International Piano* recommended this 'fascinating compendium'.
+
+The disc was released on [BIS Records](https://bis.se/label/bis/reflections-the-solo-piano-works-of-andrzej-and-roxanna-panufnik) in 2014 and is available on [eClassical](https://www.eclassical.com/labels/bis/reflections-the-solo-piano-works-of-andrzej-and-roxanna-panufnik.html), [iTunes](https://music.apple.com/gb/album/reflections-solo-piano-works-andrzej-roxanna-panufnik/891385931), [Presto Music](https://www.prestomusic.com/classical/products/8040655--panufnik-reflections), [Europadisc](https://www.europadisc.co.uk/classical/116306/Reflections:_The_Solo_Piano_Works_of_A_and_R_Panufnik.htm) and [Amazon](https://www.amazon.co.uk/Panufnik-Reflections-Clare-Hammond-BIS2003/dp/B00JJ9GSS6/ref=sr_1_1?keywords=hammond+panufnik&qid=1638995403&sr=8-1). It features the following works:
+
+
+* Andrzej Panufnik - *12 Miniature Studies*
+* Andrzej Panufnik (arr. Roxanna Panufnik) - *Suita Polska, 'Hommage à Chopin'*º
+* Andrzej Panufnik - *Pentasonata*
+* Andrzej and Roxanna Panufnik - *Modlitwa (Prayer)*º
+* Roxanna Panufnik - *Second Home*º
+* Roxanna Panufnik - *Glo*º
+* Andrzej Panufnik - *Reflections*
+
+º *With four world premiere recordings.*
+
+This disc was generously supported by the [Polish Cultural Institute](https://instytutpolski.pl/london/) in London, [Fidelio Charitable Trust](http://www.fideliocharitabletrust.org.uk/), [Stradivari Trust](https://stradivaritrust.org/), [RVW Trust](https://rvwtrust.org.uk/) and Vernon Ellis Foundation.
+
+---
+type: modal-gallery
+subtitle: Photos
+
+- path: album-covers/panufnik-reflections.jpg
+- path: album-covers/panufnik-reflections-1.jpg
+- path: album-covers/panufnik-reflections-2.jpg
+
+
+
