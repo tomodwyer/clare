@@ -35,15 +35,17 @@ type: project-listing
 - title: "Reflections"
   page_path: panufnik-reflections
   image_path: album-covers/panufnik-reflections-thumb.jpg
-  details: "Presenting the entirety of Andrzej and Roxanna Panufnik's works for piano,
+  details: "Released in Andrzej Panufnik's centenary year, this presents the entirety of his, and daughter Roxanna's, works for piano. *BBC Music Magazine* cited Clare's 'commandingly virtuosic performance' while *International Piano* recommended this 'fascinating compendium'."
 
 - title: "Piano Polyptych"
   page_path: piano-polyptych
   image_path: album-covers/piano-polyptych-thumb.jpg
+  details: "Clare's first disc, this is a collection of contemporary British works for piano by Julian Anderson, Philip Grange, Kenneth Hesketh, Piers Hellawell and Giles Swayne."
 
 - title: "The Art of Dancing"
   page_path: the-art-of-dancing
   image_path: album-covers/the-art-of-dancing-thumb.jpg
+  details: "A collaboration with trumpeter Simon Desbruslais, this disc presents three new double concertos, written specially for the project, alongside Deborah Pritchard's *Seven Halts on the Somme* for solo trumpet and orchestra."
 
 - title: "The Lady in the Van"
   page_path: the-lady-in-the-van
