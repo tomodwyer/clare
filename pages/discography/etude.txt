@@ -2,4 +2,29 @@ title: "Etude"
 ---
 type: text
 
-!
+!With some of the most electrifying and adventurous piano works of the 20th and 21st century, this album has been acclaimed for its 'wizardry' (*BBC Music Magazine*) and 'unfaltering bravura and conviction' (*Gramophone UK*). 
+
+The disc was cited by the Royal Philharmonic Society, when presenting Clare with their [Young Artist Award](https://royalphilharmonicsociety.org.uk/awards/rps_music_awards/latest-winners/past-winners/young-artists) in 2015, as revealing 'her commitment to new repertoire, a true talent for creating inventive programmes, and her compelling presence as a performer.'
+
+*Etude* was released on [BIS Records](https://bis.se/label/bis/etude) in 2014 and is available on [eClassical](https://www.eclassical.com/labels/bis/etude-1.html), [iTunes](https://music.apple.com/gb/album/chin-kapustin-lyapunov-szymanowski-piano-etudes/960326323), [Presto Music](https://www.prestomusic.com/classical/products/8054102--clare-hammond-etude), [Europadisc](https://www.europadisc.co.uk/classical/120030/Clare_Hammond:_Etude.htm) and [Amazon](https://www.amazon.co.uk/Clare-Hammond-Etude-BIS-BIS2004/dp/B00NJAROQQ/ref=sr_1_1?keywords=clare+hammond+etude&qid=1638958224&sr=8-1). It features the following works:
+
+
+* Unsuk Chin - Etudes Nos. 1-6
+* Nikolai Kapustin - 5 Studies in Different Intervals, Op. 68
+* Sergei Lypaunov - 12 Études d'exécution transcendante, Op. 11 Nos. 4-6
+* Karol Szymanowski - 12 Etudes, Op. 33
+
+This disc was generously supported by the [Fidelio Charitable Trust](http://www.fideliocharitabletrust.org.uk/), [The Stradivari Trust](https://stradivaritrust.org/), [British Korean Society](http://www.britishkoreansociety.org.uk/), [Help Musicians UK](https://www.helpmusicians.org.uk/) and [The Ambache Charitable Trust](http://www.ambachecharitabletrust.org/).
+
+
+
+---
+type: video
+subtitle: Trailer
+
+- url: https://www.youtube.com/embed/KFBpK8hqAAQ
+
+---
+type: text
+
+![Etude Cover](/static/img/album-covers/etude-thumb.jpg)

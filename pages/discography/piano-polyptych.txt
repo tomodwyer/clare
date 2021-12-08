@@ -2,4 +2,17 @@ title: "Piano Polyptych"
 ---
 type: text
 
-TODO
+!Clare's first disc, this collection of contemporary British piano music showcases the prismatic and multifaceted possibilities of the instrument with intensity and verve. 
+
+Released by Prima Facie Records in 2012, the disc is available on [iTunes](https://music.apple.com/gb/album/piano-polyptych/1189823613), [Presto Music](https://www.prestomusic.com/classical/products/8004972--piano-polyptych), [Europadisc](https://www.europadisc.co.uk/classical/100423/Clare_Hammond_Piano_Polyptych.htm) and [Amazon](https://www.amazon.co.uk/Piano-Polyptych-Julian-Anderson-Hellawell/dp/B006JFZU3W) and features the following works:
+
+* Julian Anderson - Etudes Nos. 1-3
+* Philip Grange - *Piano Polyptych*º
+* Kenneth Hesketh - *Three Japanese Miniatures*
+* Piers Hellawell - *Das Leonora Notenbuch*º and *Basho*
+* Giles Swayne - Bagatelles Nos. 1-4º
+
+º*With three world premiere recordings.*
+
+![Piano Polyptych CD Cover](/static/img/album-covers/piano-polyptych-thumb.jpg)
+

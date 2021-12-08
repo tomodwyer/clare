@@ -40,7 +40,7 @@ type: project-listing
 - title: "Piano Polyptych"
   page_path: piano-polyptych
   image_path: album-covers/piano-polyptych-thumb.jpg
-  details: "Clare's first disc, this is a collection of contemporary British works for piano by Julian Anderson, Philip Grange, Kenneth Hesketh, Piers Hellawell and Giles Swayne."
+  details: "Clare's first disc, this collection of contemporary British piano music showcases the prismatic and multifaceted possibilities of the instrument with intensity and verve. Features works by Julian Anderson, Philip Grange, Kenneth Hesketh, Piers Hellawell and Giles Swayne."
 
 - title: "The Art of Dancing"
   page_path: the-art-of-dancing
@@ -50,3 +50,4 @@ type: project-listing
 - title: "The Lady in the Van"
   page_path: the-lady-in-the-van
   image_path: album-covers/the-lady-in-the-van-thumb.jpg
+  details: "The soundtrack to feature film *The Lady in the Van*, in which Clare played the younger version of Dame Maggie Smith's character and performed with the Philharmonia and BBC Concert Orchestra (George Fenton)."

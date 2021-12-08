@@ -2,4 +2,26 @@ title: "Roman Palester: Concertinos"
 ---
 type: text
 
-TODO
+!Recently unearthed from the archives of Warsaw University Library, Palester's Concertino for piano is a tour de force, brimming with vitality and ingenuity. Clare is the first pianist to perform the work since Palester himself and plays here with Sinfonia Iuventus (Łukasz Borowicz).
+
+Born in Śniatyń, Poland, in 1907, Palester studied at the Warsaw Conservatory and, by the late 1940s, was widely regarded as one of Poland's greatest living composers. In 1949, he emigrated from Poland and both his name and music were expunged from official records. It was not until the late 1970s that the ban on his music was lifted in Poland. 
+
+The disc was released on [PWM](https://pwm.com.pl/en/sklep/publikacja/concertinos,roman-palester,22185,shop.htm) in 2019 and is available on [Presto Music](https://www.prestomusic.com/classical/products/8768328--concertinos), [Europadisc](https://www.europadisc.co.uk/classical/148622/Palester_-_Concertinos.htm) and [Amazon](https://www.amazon.co.uk/Palester-Mleczko-Sinfonia-Iuventus-Orchestra/dp/B08924FL4T). It features the following works:
+
+
+* Alto Saxophone Concertinoº
+* Piano Concertinoº
+* Serenade for two flutes and string orchestraº
+
+º *With three world premiere recordings.*
+
+---
+type: modal-gallery
+subtitle: Photos
+
+- path: album-covers/palester-concertinos.jpg
+- path: album-covers/palester-concertinos-1.jpg
+- path: album-covers/palester-concertinos-2.jpg
+- path: album-covers/palester-concertinos-3.jpg
+
+
