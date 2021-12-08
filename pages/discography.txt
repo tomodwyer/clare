@@ -5,31 +5,37 @@ type: project-listing
 - title: "Variations"
   page_path: variations
   image_path: album-covers/variations-thumb.jpg
-  details: "An adventurous programme of twentieth and twenty-first-century variations for piano.  From the imposing *Chaconne* by Sofia Gubaidulina, to the tender grief of Paul Hindemith’s *Variations* or Aaron Copland’s bold and uncompromising proclamation, the album presents a fresh perspective on the genre."
+  details: "An adventurous programme of twentieth and twenty-first century variations for piano. From the majestic *Chaconne* by Sofia Gubaidulina, to the impassioned virtuosity of Szymanowski's *Variations*, this album presents a fresh perspective on the genre."
 
 - title: "Myslivecek: Complete Keyboard Works"
   page_path: myslivecek-complete-keyboard-works
   image_path: album-covers/myslivecek-complete-keyboard-works-thumb.jpg
+  details: "This disc, with the Swedish Chamber Orchestra (Nicholas McGegan), includes the world premiere recording of Josef Myslivecek's second keyboard concerto and is the first to present his keyboard works in their entirety."
 
 - title: "Kenneth Hesketh: Horae (pro clara)"
   page_path: hesketh-horae
   image_path: album-covers/hesketh-horae-thumb.jpg
+  details: "Featuring the monumental *Horae (pro clara)*, a series of twelve miniatures written for Clare, this disc illustrates Hesketh's kaleidoscopic approach to colour and the incisiveness of his imagination."
 
 - title: "Etude"
   page_path: etude
   image_path: album-covers/etude-thumb.jpg
+  details: "With some of the most electrifying and adventurous piano works of the 20th and 21st century, this album has been acclaimed for its 'wizardry' (*BBC Music Magazine*) and 'unfaltering bravura and conviction' (*Gramophone UK*)."
 
 - title: "Roman Palester: Concertinos"
   page_path: palester-concertinos
-  image_path: album-covers/palester-concertinos-thumb.jpg
+  image_path: album-covers/palester-concertinos-thumb.jpg 
+  details: "Recently unearthed from the archives of Warsaw University Library, Palester's *Concertino for piano* is a *tour de force*, brimming with vitality and ingenuity. Clare is the first pianist to perform the work since Palester himself and plays here with Sinfonia Iuventus (Łukasz Borowicz)."
 
 - title: "Robert Saxton: Piano Music"
   page_path: saxton-piano-music
   image_path: album-covers/saxton-piano-music-thumb.jpg
+  details: "*Hortus Musicae*, an exploration of allegorical or metaphysical gardens, forms the centrepiece of this disc. Opening with the imposing *Chacony* for left hand and Saxton's Sonata, we close with a touching lullaby for Clare's first child, Rosa."
 
 - title: "Reflections"
   page_path: panufnik-reflections
   image_path: album-covers/panufnik-reflections-thumb.jpg
+  details: "Presenting the entirety of Andrzej and Roxanna Panufnik's works for piano,
 
 - title: "Piano Polyptych"
   page_path: piano-polyptych
