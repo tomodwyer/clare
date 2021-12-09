@@ -3,183 +3,189 @@ main_image: philip-gatward/clare-hammond-6-medium.jpg
 ---
 type: repertoire
 
-Adams, John	I Still Play - pocket variations for solo piano
-Adès	Mazurkas, Op. 27
-Adès	Darknesse Visible
-Albéniz	El Puerto', 'Evocación' and 'Triana' (from Iberia)
-Alkan	Recueil de Chants, Op. 70 No. 2
-Alwyn	Sonata alla Toccata
-Anderson	Études Nos. 1-4
-Ashton	Ornithology
-Attahir	Sahirat
-Bach	Italian Concerto, BWV 971
-Bach	Toccata in D minor, BWV 913
+Adams, John	*I Still Play - pocket variations for solo piano*
+Adès, Thomas 	*Mazurkas*, Op. 27
+Adès, Thomas	*Darknesse Visible*
+Albéniz, Isaac	El Puerto', 'Evocación' and 'Triana' (from *Iberia*)
+Alkan, Charles-Valentin	*Recueil de Chants*, Op. 70 No. 2
+Alwyn, William	*Sonata alla Toccata*
+Alwyn, William	*Haze of Noon*
+Anderson, Julian	Études Nos. 1-4
+Ashton, Kim	*Ornithology*º
+Attahir, Benjamin	*Sahirat*º
+Bach, J. S.	*Italian Concerto*, BWV 971
+Bach, J. S.	Toccata in D minor, BWV 913
 Bach-Brahms	Chaconne in D minor, transcribed for piano left hand
-Barber	Sonata, Op. 26
-Barnard	Neanderthal Ballads
-Bartók	Suite, Op. 14
-Bartók	6 Romanian Folk Dances
-Beamish	Voices in Silence
-Beethoven	Sonata No. 3 in C major, Op. 2 No. 3
-Beethoven	Sonata No. 4 in E flat major, Op. 7
-Beethoven	Sonata No. 8 in C minor, Op. 13 'Pathétique'
-Beethoven	Sonata No. 23 in F minor, Op. 57 'Appassionata'
-Beethoven	Sonata No. 30 in E major, Op. 109
-Beethoven	15 Variations in E flat major, Op. 35 'Eroica'
-Beethoven	7 Variations on 'God Save the King', WoO 78
-Beethoven	32 Variations in C minor, WoO 80
-Berkeley, M.	Haiku
-Birchall	Abstracts
-Birtwistle	Variations from the Golden Mountain
-Boulanger, L.	Trois morceaux pour piano
-Brahms	Two Rhapsodies, Op. 79
-Brahms	Six Piano Pieces, Op. 118
-Britten	Holiday Diary
-Brown, J. F.	The Silent Hour
-Carwithen	Sonatina
-Casken	Six Wooded Pieces
-Chin	Études Nos. 1-6
-Chopin	Études, Op. 10
-Chopin	Études, Op. 25
-Copland	Piano Variations
-Couperin	Selection from Les Pièces de Clavecin
-Davies, Hywel	Elternszenen
-Debussy	Selection from Préludes (Les Collines d'Anacapri, Général Lavine, La Puerta del Vino, La Sérénade Interrompue, Feux d'artifice, Bruyères, Voiles, La Cathédrale Engloutie)
-Debussy	L'Isle Joyeuse
-Debussy	Images, Book 1 (Reflets dans l'eau, Hommage à Rameau, Mouvement)
-Delius	Three Preludes for Piano
-Dutilleux	Sonata
-Dutilleux	Au gré des ondes
-Fauré	Nocturnes Nos. 8 and 12
-Finnis	Youth
-Finnis	Lullaby for Emme
-Gardner	Play (written for Clare)
-Gershwin	Preludes Nos. 1-3
-Gershwin / Earl Wild	3 Virtuoso Etudes after Gershwin, Nos. 4, 6 and 7
-Ginastera	Danzas Argentinas, Op. 2
-Glass	Etudes, Nos. 3-4, 11-12
-Gorb	Velocity
-Gorb	24 Preludes
-Gordon	Diary Pieces (2018)
-Grange	Piano Polyptych
-Gubaidulina	Chaconne
-Gurney	Nocturne in B major
-Handel	Suite No. 6 in F sharp minor, HWV 431
-Harty	Spring Fantasy' and 'Portrait'
-Haydn	Sonata Hob XVI: 28 in E flat major
-Haydn	Sonata Hob XVI: 48 in C major
-Haydn	Sonata Hob XVI: 50 in C major
-Haydn	Fantasia in C, Hob XVII: 4
-Hellawell	Das Leonora Notenbuch
-Hellawell	Basho
-Hellawell	Piani, Latebre
-Hesketh	Three Japanese Miniatures
-Hesketh	Horae (pro clara) (written for Clare)
-Hesketh	Hände for piano and film (written for Clare)
-Hesketh	Notte Oscura
-Hesketh	Magic Casements
-Hesketh	Lullaby of the Land Beyond
-Hindemith	Variations (from the first piano sonata)
-Holloway	Sarabande, Scherzo and Song
-Howard	Rupture
-Hughes	Orchids, No. 5
-Hughes	The Nose for piano and film (written for Clare)
-Ireland	Decorations
-Jacquet de la Guerre	Suite No. 6 in G
-Janacek	In the Mists
-Kapustin	Five Studies in Different Intervals, Op. 68
-Keeling	Coniunctio (written for Clare)
-Knussen	Prayer Bell Sketch
-Lachenmann	5 Variations on a Theme of Franz Schubert
-Lane, Liz	Ballad
-Ligeti	Études Nos. 10-12 (En suspens, Der Zauberlehrling, Entrelacs)
-Lipatti	Sonatine for left hand alone
-Liszt	Concert Studies (Waldesrauschen, Gnomenreigen, La Leggierezza)
-Liszt	Selection from Années de Pèlerinage (Au bord d'une source, Le lac de Wallenstadt, Vallée d'Obermann, Sonetto 123 del Petrarca, Sposalizio, Les jeux d'eaux à la Villa d'Este)
-Liszt	Funérailles' from Harmonies Poétiques et Religieuses
-Liszt	Paraphrase de concert sur Rigoletto, S. 434
-Liszt	Marche Indienne, paraphrase of Meyerbeer's L'Africaine
-Lorieux	Portrait prémonitoire d'Olivier Messiaen (with electronics)
-Lyapunov	Térek', 'Nuit d'été' and 'Tempête' from the Études d'exécution transcendante
-Martin	Preludes Nos. 3-5
-Mawhinney	Ravara, Nos. 1-4
-McCabe	Lamentation Rag
-McDowall	Colour is the Keyboard
-Medtner	Sonata Romantica Op. 53 No. 1
-Mendelssohn	Variations Sérieuses, Op. 54
-Mendelssohn	Prelude and Fugue in E minor, Op. 35 No. 1
-Mendelssohn	Andante and Rondo Capriccioso, Op. 14
-Mendelssohn	Songs Without Words, Op. 67
-Messiaen	Préludes
-Metcalf, John	Endless Song
-Molloy, Ryan	Sætre Brygge
-Montgeroult	Etudes Nos. 7, 8, 17, 19, 21, 22, 23, 25, 26, 28, 34, 35, 36, 37, 38, 41, 51, 52, 53, 55, 62, 65, 66, 67, 74, 82, 89, 97, 99, 100, 101, 103, 104, 106, 107, 110, 111
-More, Margaret	Harlequin and Columbine
-Mozart	12 Variations on C. Fischer's Minuet, K. 179
-Myslivecek	Six Easy Divertimenti
-Myslivecek	Six Easy Lessons
-O'Regan	Three Piano Miniatures
-O'Regan	Lines of Desire
+Barber, Samuel	Sonata, Op. 26
+Barnard, Richard	*Neanderthal Ballads*º
+Bartók, Béla	Suite, Op. 14
+Bartók, Béla	*6 Romanian Folk Dances*
+Beamish, Sally	*Voices in Silence*
+Beethoven, Ludwig van	Sonata No. 3 in C major, Op. 2 No. 3
+Beethoven, Ludwig van	Sonata No. 4 in E flat major, Op. 7
+Beethoven, Ludwig van	Sonata No. 8 in C minor, Op. 13 'Pathétique'
+Beethoven, Ludwig van	Sonata No. 23 in F minor, Op. 57 'Appassionata'
+Beethoven, Ludwig van	Sonata No. 30 in E major, Op. 109
+Beethoven, Ludwig van	15 Variations in E flat major, Op. 35 'Eroica'
+Beethoven, Ludwig van	7 Variations on 'God Save the King', WoO 78
+Beethoven, Ludwig van	32 Variations in C minor, WoO 80
+Berkeley, Michael	*Haiku*º
+Birchall, Richard 	*Abstracts*
+Birtwistle, Harrison	*Variations from the Golden Mountain*
+Boulanger, Lili	*Trois morceaux pour piano*
+Brahms, Johannes	Two Rhapsodies, Op. 79
+Brahms, Johannes	Six Piano Pieces, Op. 118
+Britten, Benjamin	*Holiday Diary*
+Brown, James Francis	*The Silent Hour*
+Carwithen, Doreen	Sonatina
+Casken, John	*Six Wooded Pieces*
+Chin, Unsuk	Études Nos. 1-6
+Chopin, Frédéric	Études, Op. 10
+Chopin, Frédéric	Études, Op. 25
+Copland, Aaron	Piano Variations
+Couperin, François	Selection from *Les Pièces de Clavecin*
+Davies, Hywel	*Elternszenen*º
+Debussy, Claude	Selection from *Préludes* (Les Collines d'Anacapri, Général Lavine, La Puerta del Vino, La Sérénade Interrompue, Feux d'artifice, Bruyères, Voiles, La Cathédrale Engloutie)
+Debussy, Claude	*L'Isle Joyeuse*
+Debussy, Claude	*Images,* Book 1 (Reflets dans l'eau, Hommage à Rameau, Mouvement)
+Delius, Frederick	Three Preludes for Piano
+Dutilleux, Henri	Sonata
+Dutilleux, Henri	*Au gré des ondes*
+El-Turk, Bushra	*Ostinato*
+Fauré, Gabriel	Nocturnes Nos. 8 and 12
+Finnis, Edmund	*Youth*º
+Finnis, Edmund	*Lullaby for Emme*º
+Gardner, Stephen	*Play*º
+Gershwin, George	Preludes Nos. 1-3
+Gershwin, George / Earl Wild	*3 Virtuoso Etudes after Gershwin*, Nos. 4, 6 and 7
+Ginastera, Alberto	*Danzas Argentinas*, Op. 2
+Glass, Philip	Etudes, Nos. 3-4, 11-12
+Gorb, Adam	*Velocity*º
+Gorb, Adam	*24 Preludes*º
+Gordon, Michael Zev	*Diary Pieces* (2018)
+Grange, Philip	*Piano Polyptych*
+Gubaidulina, Sofia	*Chaconne*
+Gurney, Ivor	Nocturne in B major
+Handel, George Frederic	Suite No. 6 in F sharp minor, HWV 431
+Harty, Hamilton	*Spring Fantasy* and *Portrait*
+Haydn, Joseph	Sonata Hob XVI: 28 in E flat major
+Haydn, Joseph	Sonata Hob XVI: 48 in C major
+Haydn, Joseph	Sonata Hob XVI: 50 in C major
+Haydn, Joseph	Fantasia in C, Hob XVII: 4
+Hellawell, Piers	*Das Leonora Notenbuch*
+Hellawell, Piers	*Basho*
+Hellawell, Piers	*Piani, Latebre*
+Hesketh, Kenneth	*Three Japanese Miniatures*
+Hesketh, Kenneth	*Horae (pro clara)*º
+Hesketh, Kenneth	*Hände* for piano and filmº
+Hesketh, Kenneth	*Notte Oscura*
+Hesketh, Kenneth	*Magic Casements*
+Hesketh, Kenneth	*Lullaby of the Land Beyond*
+Hindemith, Paul	Variations (from the first piano sonata)
+Holloway, Robin	Sarabande, Scherzo and Song
+Hopkins, John	*Corona di Sonetti*º
+Howard, Joseph	*Rupture*
+Hughes, Ed	*Orchids*, No. 5
+Hughes, Ed	*The Nose* for piano and filmº
+Ireland, John	*Decorations*
+Jacquet de la Guerre, Elisabeth	Suite No. 6 in G
+Janacek, Leoš	*In the Mists*
+Kapustin, Nikolai	*Five Studies in Different Intervals*, Op. 68
+Keeling, Andrew	*Coniunctio*º
+Knussen, Oli	*Prayer Bell Sketch*
+Lachenmann, Helmut	*5 Variations on a Theme of Franz Schubert*
+Lane, Liz	*Ballad*
+Ligeti, György	Études Nos. 10-12 (En suspens, Der Zauberlehrling, Entrelacs)
+Lipatti, Dinu	Sonatine for left hand alone
+Liszt, Franz	Concert Studies (Waldesrauschen, Gnomenreigen, La Leggierezza)
+Liszt, Franz	Selection from *Années de Pèlerinage* (Au bord d'une source, Le lac de Wallenstadt, Vallée d'Obermann, Sonetto 123 del Petrarca, Sposalizio, Les jeux d'eaux à la Villa d'Este)
+Liszt, Franz	Funérailles' from *Harmonies Poétiques et Religieuses*
+Liszt, Franz	*Paraphrase de concert sur Rigoletto*, S. 434
+Liszt, Franz	*Marche Indienne*, paraphrase of Meyerbeer's L'Africaine
+Lorieux, Grégoire	*Portrait prémonitoire d'Olivier Messiaen* (with electronics)
+Lutyens, Elisabeth	Five Bagatelles (1962)
+Lyapunov, Sergei	Térek', 'Nuit d'été' and 'Tempête' from the *Études d'exécution transcendante*
+Martin, Frank	Preludes Nos. 3-5
+Mawhinney, Simon	*Ravara*, Nos. 1-4
+McCabe, John	*Lamentation Rag*
+McDowall, Cecilia	*Colour is the Keyboard*
+Medtner, Nikolai	*Sonata Romantica* Op. 53 No. 1
+Mendelssohn, Felix	*Variations Sérieuses*, Op. 54
+Mendelssohn, Felix	Prelude and Fugue in E minor, Op. 35 No. 1
+Mendelssohn, Felix	Andante and Rondo Capriccioso, Op. 14
+Mendelssohn, Felix	*Songs Without Words*, Op. 67
+Messiaen, Olivier	Préludes
+Metcalf, John	*Endless Song*
+Molloy, Ryan	*Sætre Brygge*
+Montgeroult, Hélène de	Études Nos. 19, 25, 26, 28, 34, 35, 36, 37, 38, 41, 51, 52, 53, 55, 62, 65, 66, 67, 74, 82, 89, 97, 99, 100, 101, 103, 104, 106, 107, 110, 111
+More, Margaret	*Harlequin and Columbine*
+Mozart, W. A. 	12 Variations on C. Fischer's Minuet, K. 179
+Myslivecek, Josef	*Six Easy Divertimenti*
+Myslivecek, Josef	*Six Easy Lessons*
+O'Regan, Tarik	*Three Piano Miniatures*
+O'Regan, Tarik	*Lines of Desire*
 Owen, Morfydd	Preludes in F major and E minor
-Owen, Morfydd	Glantaf, Nant-y-Ffrith and Beti Bwt
-Panufnik, A.	Twelve Miniature Studies
-Panufnik, A.	Reflections
-Panufnik, A.	Pentasonata
-Panufnik, R.	Second Home
-Panufnik, R.	Glo
-Panufnik, R.	Modlitwa, jointly composed with Andrzej Panufnik
-Pärt	Für Alina
-Peate	Pearl
-Piazzolla (arr. Davies)	Suite from incidental music to A Midsummer's Night Dream
-Pointon	5 Epigrams and an Epiphonema
-Prokofiev	Sonata No. 3 in A major, Op. 28
-Prokofiev	Sonata No. 6 in A major, Op. 82
-Rachmaninov	Variations on a Corelli Theme, Op. 42
-Rachmaninov	Sonata No. 2 in B flat minor, Op. 36 (1931 version)
-Raftery	Cook from Frozen
-Reeves	Notturno (2005)
-Samuel, Rhian	A Garland for Anne (2003)
-Rangström	Mälarlegender
-Ravel	Le Tombeau de Couperin
-Ravel	Sonatine
-Ravel	Jeux d'eau
-Ravel	Menuet sur le nom d'Haydn
-Rimsky-Korsakov	Flight of the Bumblebee
-Saint-Saëns	Selection from Études for the left hand
-Satie	Gnossiennes, Nos. 1-6
-Saxton	Chacony for left hand alone
-Saxton	Hortus Musicae, Books 1 and 2 (written for Clare)
-Saxton	Sonata
-Saxton	Lullaby for Rosa, (written for Clare)
-Schubert	Impromptus D. 899
-Schubert	Sonata in A major, D. 664
-Schumann	Humoreske in B flat major, Op. 20
-Scott, Cyril	All Through the Night
-Scriabin	Prelude and Nocturne for the left hand, Op. 9
-Scriabin	Sonate-Fantasie No. 2 Op. 19
-Scriabin	Sonata No. 5 Op. 53
-Searle	Vigil
-Shostakovich	Prelude and Fugue in D flat Major and Prelude and Fugue in F minor, Op. 87 Nos. 15 and 18
-Sibelius	The Trees, Op. 75
-Sierra	Black and White Warbler' from Birds and Insects, Book 2
-Simaku	Raggio Lunare
-Still, W. G.	Bells
-Stravinsky	Trois mouvements de Petrouchka
-Svendsen	G-A-B-H by Ess
-Swayne	Bagatelles Nos. 1-4
-Szymanowski	Études Op. 33
-Szymanowski	Mazurkas, Op. 50 Nos. 2, 6 and 9
-Szymanowski	Métopes, Op. 29
-Szymanowski	Variations on a Polish Theme, Op. 10
-Tabakova	Halo
-Takemitsu	Rain Tree Sketch II
-Tann	Doppelgänger
-Tavener	Zodiacs
-Turnage	True Life Stories
-Vaughan Thomas	Allegro Vivace in D
-Vine	Five Bagatelles
-Whalley	Five Preludes
-Wiancko	Mars Anthem
-Woolrich	Pianobook XI
-Miscellaneous	Aquarelles: a series of five miniatures written to celebrate the Debussy Centenary by composers James Francis Brown, David Matthews, Peter Fribbins, Alan Mills and Robin Walker
-Miscellaneous	Haydn Fantasies for John McCabe:by composers James Francis Brown, Peter Fribbins, John Hawkins, David Matthews, Alan Mills, Matthew Taylor and Hugh Wood
+Owen, Morfydd	*Glantaf*, *Nant-y-Ffrith* and *Beti Bwt*
+Panufnik, Andrzej	*Twelve Miniature Studies*
+Panufnik, Andrzej	*Reflections*
+Panufnik, Andrzej	*Pentasonata*
+Panufnik, Roxanna	*Second Home*
+Panufnik, Roxanna	*Glo*
+Panufnik, Roxanna	*Modlitwa*, jointly composed with Andrzej Panufnik
+Pärt, Arvo	*Für Alina*
+Peate, Robert	*Pearl*º
+Piazzolla, Astor (arr. Hywel Davies)	*Suite from incidental music to A Midsummer's Night Dream*º
+Pointon, Malcolm	*5 Epigrams and an Epiphonema*
+Prokofiev, Sergei	Sonata No. 3 in A major, Op. 28
+Prokofiev, Sergei	Sonata No. 6 in A major, Op. 82
+Rachmaninov, Sergei	*Variations on a Corelli Theme*, Op. 42
+Rachmaninov, Sergei	Sonata No. 2 in B flat minor, Op. 36 (1931 version)
+Raftery, Kevin	*Cook from Frozen*
+Reeves, Camden	*Notturno* (2005)
+Samuel, Rhian	*A Garland for Anne* (2003)
+Rangström, Ture	*Mälarlegender*
+Ravel, Maurice	*Le Tombeau de Couperin*
+Ravel, Maurice	*Sonatine*
+Ravel, Maurice	*Jeux d'eau*
+Ravel, Maurice	*Menuet sur le nom d'Haydn*
+Rimsky-Korsakov, Nikolai	*Flight of the Bumblebee*
+Saint-Saëns, Camille	Selection from Études for the left hand
+Satie, Erik	*Gnossiennes*, Nos. 1-6
+Saxton, Robert	*Chacony* for left hand alone
+Saxton, Robert	*Hortus Musicae*, Books 1 and 2º
+Saxton, Robert	*Sonata*
+Saxton, Robert	*Lullaby for Rosa*º
+Schubert, Franz	Impromptus D. 899
+Schubert, Franz	Sonata in A major, D. 664
+Schumann, Clara	Scherzo No. 2 in C minor, Op. 14
+Schumann, Robert	*Humoreske* in B flat major, Op. 20
+Scott, Cyril	*All Through the Night*
+Scriabin, Alexander	Prelude and Nocturne for the left hand, Op. 9
+Scriabin, Alexander	*Sonate-Fantasie* No. 2 Op. 19
+Scriabin, Alexander	Sonata No. 5 Op. 53
+Searle, Humphrey	*Vigil*
+Shostakovich, Dmitri	Prelude and Fugue in D flat Major and Prelude and Fugue in F minor, Op. 87 Nos. 15 and 18
+Sibelius, Jean	*The Trees*, Op. 75
+Sierra, Arlene	'Black and White Warbler' from *Birds and Insects*, Book 2º
+Simaku, Thomas	*Raggio Lunare*
+Still, W. G.	*Bells*
+Stravinsky, Igor	*Trois mouvements de Petrouchka*
+Svendsen, Johan	*G-A-B-H by Ess*º
+Swayne, Giles	*Bagatelles Nos. 1-4*º
+Szymanowski, Karol	Études Op. 33
+Szymanowski, Karol	Mazurkas, Op. 50 Nos. 2, 6 and 9
+Szymanowski, Karol	*Métopes*, Op. 29
+Szymanowski, Karol	*Variations on a Polish Theme*, Op. 10
+Tabakova, Dobrinka	*Halo*
+Takemitsu, Toru	*Rain Tree Sketch II*
+Tann, Hilary	*Doppelgänger*
+Tavener, John	*Zodiacs*
+Turnage, Mark-Anthony Turnage	*True Life Stories*
+Vaughan Thomas, David	Allegro Vivace in D
+Vine, Carl	Five Bagatelles
+Whalley, Richard	*Five Preludes*
+Wiancko, Paul	*Mars Anthem*º
+Woolrich, John	Pianobook XI
+Miscellaneous	*Aquarelles*: a series of five miniatures written to celebrate the Debussy Centenary by composers James Francis Brown, David Matthews, Peter Fribbins, Alan Mills and Robin Walkerº
+Miscellaneous	*Haydn Fantasies for John McCabe*: by composers James Francis Brown, Peter Fribbins, John Hawkins, David Matthews, Alan Mills, Matthew Taylor and Hugh Wood
+º *Works with an asterix were premiered by Clare*

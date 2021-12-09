@@ -1,5 +1,54 @@
 title: Concerto Repertoire
+main_image: philip-gatward/clare-hammond-6-medium.jpg
 ---
-type: text
+type: repertoire
 
-TODO
+Bach, J. S. 	Brandenburgh Concerto No. 5, BWV 1050
+Bartók, Béla	Piano Concerto No. 3
+Beethoven, Ludwig van	Piano Concerto No. 2 in B flat major, Op. 19
+Beethoven, Ludwig van	Piano Concerto No. 3 in C minor, Op. 37
+Beethoven, Ludwig van	Piano Concerto No. 4 in G major, Op. 58
+Beethoven, Ludwig van	Piano Concerto No. 5 in E flat major, Op. 73 'Emperor'
+Borenstein, Nimrod	Concerto for piano, trumpet and string orchestra, Op. 74 (2016)º
+Britten, Benjamin	*Diversions*, Op. 21
+Britten, Benjamin	*Young Apollo*, Op. 16 (for piano, string quartet and string orchestra)
+Carwithen, Doreen	Concerto for Piano and Strings (1948)
+Chopin, Frédéric	Piano Concerto No. 1 in E minor, Op. 11
+Chopin, Frédéric	Piano Concerto No. 2 in F minor, Op, 21
+Connesson, Guillaume	*The Shining One* (2009)
+Gershwin, George	*Rhapsody in Blue*
+Gordon, Geoffrey	*Saint Blue* for Piano, Trumpet and Strings (2015)º
+Grieg, Edvard	Piano Concerto in A minor, Op. 16
+Hesketh, Kenneth	*Uncoiling the River*º
+Hummel, Johann Nepomuk	Piano Concerto No. 2 in A minor, Op. 85
+Jackson, Gabriel	Piano Concerto (2009)
+Liszt, Franz	Piano Concerto No. 1 in E flat major
+Liszt, Franz	Piano Concerto No. 2 in A major
+Matthews, David	Piano Concerto, Op. 111 (2010)
+Mendelssohn, Felix	Piano Concerto No. 1 in G minor, Op. 25
+Mendelssohn, Felix	Piano Concerto No. 2 in D minor, Op. 40
+Montero, Claudia	*Concierto en Blanco y Negro*º
+Moussa, Samy	*Orpheus*
+Mozart, W. A.	Piano Concerto No. 20 in D minor, K. 466
+Mozart, W. A.	Piano Concerto No. 23 in A major, K. 488
+Mozart, W. A.	Piano Concerto No. 24 in C minor, K. 491
+Myslivecek, Josef	Keyboard Concerto No. 1 in B flat major
+Myslivecek, Josef	Keyboard Concerto No. 2 in F major
+Palester, Roman	Concertino (1942)
+Panufnik, Andrzej	Piano Concerto
+Panufnik, Andrzej	*Fantasia*
+Prokofiev, Sergei	Piano Concerto No. 3, Op. 26
+Ptaszyńska, Marta	Concerto for Piano and Orchestra, (2017)º
+Rachmaninov, Sergei	Piano Concerto No. 2 in C minor, Op. 18
+Rachmaninov, Sergei	*Rhapsody on a Theme of Paganini*, Op. 43
+Ravel, Maurice	*Concerto pour la main gauche*
+Roxburgh, Edwin	Concerto for Piano and Wind Orchestra (2014)
+Schumann, Robert	Piano Concerto in A minor, Op. 54
+Shostakovich, Dmitri	Concerto for Piano, Trumpet and Strings
+Tchaikovsky, Pyotr	Piano Concerto No. 1 in B flat minor, Op. 23
+Tippett, Michael	Piano Concerto
+Walton, William	*Sinfonia Concertante* (revised version)
+Williams, Grace	*Sinfonia Concertante*
+Young, Toby	*The Art of Dancing* for Piano, Trumpet and Strings (2015)º
+º *Works with an asterix were premiered by Clare*
+
