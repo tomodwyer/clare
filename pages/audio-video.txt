@@ -2,34 +2,23 @@ title: "Audio / Video"
 ---
 type: project-listing
 
-- page_path: TODO
+- title: Wigmore Hall, 2021
+  page_path: wigmore
   image_path: audio-video/wigmore.jpg
-  details: "[Listen](TODO) to Rachmaninov and Montgeroult performed at the Wigmore Hall in May 2021."
+  details: "Watch Clare perform music by Rachmaninov and Montgeroult at the Wigmore Hall in May 2021."
 
-- page_path: TODO
-  image_path: audio-video/wigmore.jpg
-  details: "[Listen](TODO) to Rachmaninov and Montgeroult performed at the Wigmore Hall in May 2021."
+- title: Radio 3, 2021
+  page_path: radio-3-2021
+  image_path: audio-video/radio-3-2021.jpg
+  details: "Listen to Clare's performances of music by Samy Moussa, Robert Schumann and William Grant Still on Radio 3 in autumn 2021."
 
-- page_path: TODO
-  image_path: audio-video/wigmore.jpg
-  details: "[Listen](TODO) to Rachmaninov and Montgeroult performed at the Wigmore Hall in May 2021."
+- title: Carwithen Piano Concerto
+  page_path: carwithen-piano-concerto
+  image_path: audio-video/carwithen-piano-concerto.jpg
+  details: "Listen to Clare perform Doreen Carwithen's Piano Concerto with the BBC Concert Orchestra and Gavin Sutherland on Radio 3."
 
-- page_path: TODO
-  image_path: audio-video/wigmore.jpg
-  details: "[Listen](TODO) to Rachmaninov and Montgeroult performed at the Wigmore Hall in May 2021."
+- title: Interviews
+  page_path: interviews
+  image_path: audio-video/interviews.jpg
+  details: "Watch Clare answer all of your questions here!"
 
-- page_path: TODO
-  image_path: audio-video/wigmore.jpg
-  details: "[Listen](TODO) to Rachmaninov and Montgeroult performed at the Wigmore Hall in May 2021."
-
-- page_path: TODO
-  image_path: audio-video/wigmore.jpg
-  details: "[Listen](TODO) to Rachmaninov and Montgeroult performed at the Wigmore Hall in May 2021."
-
-- page_path: TODO
-  image_path: audio-video/wigmore.jpg
-  details: "[Listen](TODO) to Rachmaninov and Montgeroult performed at the Wigmore Hall in May 2021."
-
-- page_path: TODO
-  image_path: audio-video/wigmore.jpg
-  details: "[Listen](TODO) to Rachmaninov and Montgeroult performed at the Wigmore Hall in May 2021."

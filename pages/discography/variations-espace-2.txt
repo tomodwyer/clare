@@ -1,0 +1,7 @@
+title: Interview 
+---
+type: audio
+footer: "*With the permission of [RTS Espace 2](https://programmesradio.rts.ch/espace-2/).*"
+
+- path: discography/variations/variations-espace-2.mp3
+  description: "Listen to a feature on [Variations](/discography/variations/) with presenter Anne Gillot for RTS Espace 2 in February 2021."

@@ -1,0 +1,16 @@
+title: BBC Radio 3, broadcasts in autumn 2021
+---
+type: audio
+subtitle: Audio excerpts
+footer: "*With the permission of [BBC Radio 3](https://www.bbc.co.uk/sounds/play/live:bbc_radio_three).*"
+
+- path: audio-video/radio-3-2021/moussa-orpheus-excerpt.mp3
+  description: "Samy Moussa, *Orpheus*, with the BBC Symphony Orchestra (Geoffrey Paterson)" 
+
+- path: audio-video/radio-3-2021/schumann-op44-excerpt.mp3
+  description: "Robert Schumann, Piano Quintet in E flat major, Op. 44, with the Carducci String Quartet" 
+
+- path: audio-video/radio-3-2021/still-phantom-chapel-excerpt.mp3
+  description: "William Grant Still, 'Phantom Chapel' and 'Fairy Knoll' from *Bells*" 
+- path: audio-video/radio-3-2021/still-fairy-knoll-excerpt.mp3
+

@@ -5,7 +5,7 @@ main_image: philip-gatward/clare-hammond-index.jpg
 type: text
 
 
-Listen to Clare's [BBC Radio 3](/autumn-2021/) broadcasts this autumn: with *Orpheus* by [Samy Moussa](https://www.harrisonparrott.com/artists/samy-moussa) ([BBC Symphony Orchestra](https://www.bbc.co.uk/symphonyorchestra), [Geoffrey Paterson](https://www.geoffreypaterson.co.uk/)), Schumann with the [Carducci Quartet](https://carducciquartet.com/), and [*Bells*](/still/) by W. G. Still.
+Listen to Clare's [BBC Radio 3](/audio-video/radio-3-2021/) broadcasts this autumn: with *Orpheus* by [Samy Moussa](https://www.harrisonparrott.com/artists/samy-moussa) ([BBC Symphony Orchestra](https://www.bbc.co.uk/symphonyorchestra), [Geoffrey Paterson](https://www.geoffreypaterson.co.uk/)), Schumann with the [Carducci Quartet](https://carducciquartet.com/), and [*Bells*](/audio-video/radio-3-2021/) by W. G. Still.
 
 Clare is delighted to announce that she has signed with agency [Rayfield Allied](https://www.rayfieldallied.com/artists/clare-hammond) for general management.
 

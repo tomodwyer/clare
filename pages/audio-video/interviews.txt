@@ -1,0 +1,17 @@
+title: Interviews
+---
+type: text
+
+---
+type: video
+
+- url: https://www.youtube.com/embed/c6izXgJSG-M
+- url: https://www.youtube.com/embed/Zf6-mgIgVOI
+- url: https://www.youtube.com/embed/4aw9nYSA4CI
+- url: https://www.youtube.com/embed/f_xSQczy2v4
+- url: https://www.youtube.com/embed/iJcft7tY2XY
+- url: https://www.youtube.com/embed/10qKXWLVZwg
+- url: https://www.youtube.com/embed/QfevXLq-LR0
+- url: https://www.youtube.com/embed/REd--SjNJso
+- url: https://www.youtube.com/embed/1n6Dc2-dT6Y
+- url: https://www.youtube.com/embed/Z-307Np1Wfo
