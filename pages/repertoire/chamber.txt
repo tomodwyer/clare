@@ -1,5 +1,21 @@
 title: Chamber Repertoire
+main_image: philip-gatward/clare-hammond-6-medium.jpg
 ---
-type: text
+type: repertoire
+subtitle: Trios
 
-TODO
+Beethoven, Ludwig van	Piano Trio No. 1 in E flat major, Op. 1 No. 1
+Beethoven, Ludwig van	Piano Trio No. 2 in G major, Op. 1 No. 2
+Beethoven, Ludwig van	Piano Trio No. 3 in C minor, Op. 1 No. 3
+Beethoven, Ludwig van	Piano Trio No. 5 in D major, Op. 70 'Ghost'
+Bloch, Ernest	Three Nocturnes
+Brahms, Johannes	Piano Trio No. 1 in B, Op. 8
+Brahms, Johannes	Piano Trio No. 2 in C, Op. 87
+Brahms, Johannes	Horn Trio in E flat major, Op. 40
+Brahms, Johannes	Clarinet Trio in A minor, Op. 114
+
+---
+type: repertoire
+subtitle: Two piano / duet
+
+Arensky, Anton	*Valse*, from Suite No. 1, Op. 15
