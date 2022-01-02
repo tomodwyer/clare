@@ -2,16 +2,10 @@ title: Prison Concerts
 ---
 type: text
 
-! Clare regularly performs in prisons across the UK, recounting stories behind the pieces and what the composers were going through at the time. By relating the challenges they faced, and by drawing on her own experience, Clare shows how music can inspire, console and heal. 
+! Clare regularly performs in prisons across the UK, recounting stories behind the pieces and what the composers were going through at the time. By relating the challenges they faced, and by drawing on her own experience, Clare shows how music can inspire, console and heal.
 
-Read Jailhouse Moose's article describing a [recital at HMP Erlestoke](https://jailhousemoose.wordpress.com/2019/05/10/how-many-keys-does-it-take-to-escape-prison/), Clare's own account of her postnatal depression and prison performances in [*Classical Music Magazine*](/static/pdf/projects/prison-concerts/classical-music-magazine.pdf), and listen to a related podcast for the [MusicPlus series](https://www.rhinegold.co.uk/podcasts/musicplus/musicplus-clare-hammond/). 
+Read Jailhouse Moose's article describing a [recital at HMP Erlestoke](https://jailhousemoose.wordpress.com/2019/05/10/how-many-keys-does-it-take-to-escape-prison/), Clare's own account of her postnatal depression and prison performances in [*Classical Music Magazine*](/static/pdf/projects/prison-concerts/classical-music-magazine.pdf), and listen to a related podcast for the [MusicPlus series](https://www.rhinegold.co.uk/podcasts/musicplus/musicplus-clare-hammond/).
 
-Clare is grateful to [Arts Council England](https://www.artscouncil.org.uk/) and the [Scops Arts Trust](https://www.scopsartstrust.org.uk/) for supporting this work, and to [Changing Tunes](https://www.changingtunes.org.uk/) for their help and encouragement. 
+Clare is grateful to [Arts Council England](https://www.artscouncil.org.uk/) and the [Scops Arts Trust](https://www.scopsartstrust.org.uk/) for supporting this work, and to [Changing Tunes](https://www.changingtunes.org.uk/) for their help and encouragement.
 
-(/static/pdf/projects/prison-concerts/classical-music-magazine.pdf)
-
-
-![Classical Music Magazine](/static/img/projects/prison-concerts/classical-music-magazine.jpg)
-
-
-
+[![Classical Music Magazine](/static/img/projects/prison-concerts/classical-music-magazine.jpg)](/static/pdf/projects/prison-concerts/classical-music-magazine.pdf)
