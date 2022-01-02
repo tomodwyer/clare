@@ -2,6 +2,7 @@ title: Contemporary Repertoire
 main_image: philip-gatward/clare-hammond-6-medium.jpg
 ---
 type: repertoire
+footer: º *Works with an asterix were premiered by Clare*
 
 Adams, John	*I Still Play - pocket variations for solo piano*
 Adès, Thomas 	*Mazurkas*, Op. 27
@@ -65,8 +66,8 @@ Pärt, Arvo	*Für Alina*
 Peate, Robert	*Pearl*º
 Pointon, Malcolm	*5 Epigrams and an Epiphonema*)
 Raftery, Kevin	*Cook from Frozen*
-Reeves, Camden	*Notturno* 
-Samuel, Rhian	*A Garland for Anne* 
+Reeves, Camden	*Notturno*
+Samuel, Rhian	*A Garland for Anne*
 Saxton, Robert	*Chacony* for left hand alone
 Saxton, Robert	*Hortus Musicae*, Books 1 and 2º
 Saxton, Robert	*Sonata*
@@ -85,8 +86,3 @@ Wiancko, Paul	*Mars Anthem*º
 Woolrich, John	Pianobook XI
 Miscellaneous	*Aquarelles*: a series of five miniatures written to celebrate the Debussy Centenary by composers James Francis Brown, David Matthews, Peter Fribbins, Alan Mills and Robin Walkerº
 Miscellaneous	*Haydn Fantasies for John McCabe*: by composers James Francis Brown, Peter Fribbins, John Hawkins, David Matthews, Alan Mills, Matthew Taylor and Hugh Wood
-º *Works with an asterix were premiered by Clare*
-
-
-
-

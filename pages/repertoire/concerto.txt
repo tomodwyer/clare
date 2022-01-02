@@ -2,6 +2,7 @@ title: Concerto Repertoire
 main_image: philip-gatward/clare-hammond-6-medium.jpg
 ---
 type: repertoire
+footer: º *Works with an asterix were premiered by Clare*
 
 Bach, J. S. 	Brandenburgh Concerto No. 5, BWV 1050
 Bartók, Béla	Piano Concerto No. 3
@@ -50,5 +51,3 @@ Tippett, Michael	Piano Concerto
 Walton, William	*Sinfonia Concertante* (revised version)
 Williams, Grace	*Sinfonia Concertante*
 Young, Toby	*The Art of Dancing* for Piano, Trumpet and Strings (2015)º
-º *Works with an asterix were premiered by Clare*
-

@@ -171,6 +171,7 @@ def repertoire_ctx(metadata, data):
     records = []
     last_composer = None
     for r in load_tsv(data):
+        r[1] = load_markdown(r[1], False)
         if last_composer is not None and r[0] == last_composer:
             records.append(["", r[1]])
         else:
