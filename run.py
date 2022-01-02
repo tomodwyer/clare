@@ -121,6 +121,11 @@ def concerts_ctx(metadata, data):
             concert["details"] = [
                 load_markdown(detail) for detail in concert["details"]
             ]
+        if "repertoire" in concert:
+            concert["repertoire"] = [
+                [load_markdown(item, False) for item in repertoire_item]
+                for repertoire_item in concert["repertoire"]
+            ]
     return {"concerts": concerts}
 
 
@@ -201,11 +206,14 @@ def video_ctx(metadata, data):
     return {"videos": load_yaml(data)}
 
 
-def load_markdown(s):
+def load_markdown(s, in_para=True):
     raw_html = markdown(s)
     # There's probably a better way of doing this via a markdown extension...
     html = raw_html.replace("<p>!", '<p class="lead">')
     html = raw_html.replace('<a href="http', '<a target="_blank" href="http')
+    if html and not in_para:
+        assert html[:3] == "<p>" and html[-4:] == "</p>", html
+        html = html[3:-4]
     return mark_safe(html)
 
 
