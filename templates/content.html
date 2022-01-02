@@ -10,7 +10,7 @@
 {% for section in sections %}
   <div class="section py-3 {{ section.section_id }}">
     {% if section.subtitle %}
-      <h2>{{ section.subtitle }}</h2>
+      <h2{% if section.id %} id="{{ section.id }}"{% endif %}>{{ section.subtitle }}</h2>
     {% endif %}
 
     {% if section.header %}

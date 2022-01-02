@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import csv
 import os
+import re
 import shutil
 from argparse import ArgumentParser
 from pathlib import Path
@@ -65,8 +66,8 @@ def page(request, path):
             page_metadata = load_yaml(section)
             if "template" in page_metadata:
                 template_name = page_metadata["template"]
-            ctx["title"] = load_markdown(page_metadata.get("title"))
-            ctx["subtitle"] = load_markdown(page_metadata.get("subtitle"))
+            ctx["title"] = load_markdown(page_metadata.get("title"), False)
+            ctx["subtitle"] = load_markdown(page_metadata.get("subtitle"), False)
             if "main_image" in page_metadata:
                 ctx["main_image"] = f"img/{page_metadata['main_image']}"
         else:
@@ -84,6 +85,10 @@ def page(request, path):
                 section_ctx["header"] = load_markdown(section_ctx["header"])
             if "footer" in section_ctx:
                 section_ctx["footer"] = load_markdown(section_ctx["footer"])
+            section_ctx["subtitle"] = load_markdown(section_ctx.get("subtitle"), False)
+            section_ctx["id"] = section_ctx.get("id") or slugify(
+                section_ctx["subtitle"]
+            )
 
             extra_ctx_fn = {
                 "audio": audio_ctx,
@@ -232,6 +237,13 @@ def load_tsv(s):
 
 def load_yaml(s):
     return yaml.load(s, yaml.SafeLoader) or {}
+
+
+def slugify(value):
+    if value is None:
+        return
+    value = re.sub(r"[^\w\s-]", "", value.lower())
+    return re.sub(r"[-\s]+", "-", value).strip("-_")
 
 
 urlpatterns = [

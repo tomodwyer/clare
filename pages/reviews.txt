@@ -3,7 +3,6 @@ main_image: philip-gatward/clare-hammond-6-medium.jpg
 ---
 type: text
 subtitle: Variations
-
 ---
 type: review
 publication: Telegraph
