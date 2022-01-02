@@ -116,10 +116,10 @@ def concerts_ctx(metadata, data):
     concerts = load_tomli(data)["concert"]
     for concert in concerts:
         if "summary" in concert:
-            concert["summary"] = mark_safe(markdown(concert["summary"]))
+            concert["summary"] = load_markdown(concert["summary"])
         if "details" in concert:
             concert["details"] = [
-                mark_safe(markdown(detail)) for detail in concert["details"]
+                load_markdown(detail) for detail in concert["details"]
             ]
     return {"concerts": concerts}
 
@@ -205,6 +205,7 @@ def load_markdown(s):
     raw_html = markdown(s)
     # There's probably a better way of doing this via a markdown extension...
     html = raw_html.replace("<p>!", '<p class="lead">')
+    html = raw_html.replace('<a href="http', '<a target="_blank" href="http')
     return mark_safe(html)
 
 
