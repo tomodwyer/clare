@@ -1,9 +1,12 @@
 title: Reviews
 main_image: philip-gatward/clare-hammond-6-medium.jpg
 ---
+type: text
+subtitle: Variations
+
+---
 type: review
 publication: Telegraph
-reviewed: Variations
 quote: Hammond keeps us enthralled to the last bar
 reviewer: Ivan Hewett
 
@@ -20,7 +23,6 @@ Not everything is hard and monumental. John Adams’s I Still Play has a diffide
 ---
 type: review
 publication: International Piano
-reviewed: Variations
 quote: a questing, highly intelligent pianist... stunningly recorded at the height of her powers
 reviewer: Colin Clarke
 
@@ -33,7 +35,6 @@ Closing with Gubaidulina's virtuoso Chaconne is a brave move, but it pays off. A
 ---
 type: review
 publication: Gramophone
-reviewed: Variations
 quote: a pianist of extraordinary gifts
 reviewer: Patrick Rucker
 
@@ -50,7 +51,6 @@ Ultimately this is a richly wide-ranging, deftly chosen programme, exhibiting in
 ---
 type: review
 publication: The Observer
-reviewed: Variations
 quote: the displays of invention can be dazzling, especially in the way Hammond programmes them
 reviewer: Fiona Maddocks
 
@@ -61,7 +61,6 @@ Harrison Birtwistle’s From the Golden Mountain (a reference to Bach’s Goldbe
 ---
 type: review
 publication: The Times
-reviewed: Variations
 quote: a player of immense power, tightly harnessed now to the moment’s expressive needs
 reviewer: Geoff Brown
 
