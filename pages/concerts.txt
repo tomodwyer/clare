@@ -76,7 +76,7 @@ date = 2022-02-11
 location = "Barnes, London"
 type = "With actor Tama Matheson"
 repertoire = [
-  ["Don Juan: the brilliant irreverence of Lord Byron", "a concert play of words and music"],
+  ["Don Juan: the brilliant irreverence of Lord Byron", "", "a concert play of words and music"],
 
 ]
 time_details = "Time tbc."
@@ -90,7 +90,7 @@ date = 2022-02-12
 location = "Barnes, London"
 type = "With actor Tama Matheson"
 repertoire = [
-  ["Don Juan: the brilliant irreverence of Lord Byron", "a concert play of words and music"],
+  ["Don Juan: the brilliant irreverence of Lord Byron", "", "a concert play of words and music"],
 
 ]
 time_details = "Time tbc."
@@ -195,4 +195,3 @@ address = "Huntingdon Hall, Worcester WR1 2ES"
 details = [
   "For the Worcester Concert Club. Tickets will be available [online](https://www.worcserenade.co.uk/).",
 ]
-

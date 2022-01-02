@@ -22,6 +22,7 @@
           <li>
             <span class="composer-name">{{ item.0 }}</span>
             {% if item.1 %}- {{ item.1 }}{% endif %}
+            {% if item.2 %}<br />{{ item.2 }}{% endif %}
           </li>
         {% endfor %}
       </ul>
