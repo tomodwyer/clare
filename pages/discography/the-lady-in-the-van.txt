@@ -1,5 +1,1 @@
-title: "The Lady in the Van"
----
-type: text
-
-TODO
+mirrored_path: projects/the-lady-in-the-van
