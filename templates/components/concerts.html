@@ -19,7 +19,10 @@
     {% if concert.repertoire %}
       <ul>
         {% for item in concert.repertoire %}
-          <li><span class="composer-name">{{ item.0 }}</span> - {{ item.1 }}</li>
+          <li>
+            <span class="composer-name">{{ item.0 }}</span>
+            {% if item.1 %}- {{ item.1 }}{% endif %}
+          </li>
         {% endfor %}
       </ul>
     {% endif %}
