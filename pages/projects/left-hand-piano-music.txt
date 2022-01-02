@@ -4,7 +4,7 @@ type: text
 
 !Clare completed a doctorate on twentieth-century left-hand piano concertos, with particular reference to Britten's *Diversions* and Ravel's *Concerto pour la main gauche*, in 2012.
 
-She was awarded a full grant from the Arts and Humanities Research Council to study with Professor Rhian Samuel at City University London and Ronan O'Hora at the Guildhall School of Music & Drama. Her thesis explored discourses surrounding the body, virtuosity, and the respective roles of composer and performer, and can be downloaded [here](/static/pdf/projects/left-hand-piano-music/clare-hammond-thesis.pdf).
+She was awarded a full grant from the Arts and Humanities Research Council to study with Professor Rhian Samuel at City University London and Ronan O'Hora at the Guildhall School of Music & Drama. Her thesis explored discourses surrounding the body, virtuosity, and the respective roles of composer and performer, and can be downloaded [here](https://raw.githubusercontent.com/inglesp/clare/main/static-large/pdf/projects/left-hand-piano-music/clare-hammond-thesis.pdf).
 
 During her doctorate, Clare gave research presentations at universities and conservatoires across the UK, and was convenor for the RMA Study Day 'Performing Musicology' at City University London in 2011. After graduating, she supervised Performance Studies and Analysis at Cambridge University from 2011-13.
 
