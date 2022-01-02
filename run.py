@@ -109,6 +109,7 @@ def audio_ctx(metadata, data):
     audios = load_yaml(data)
     for audio in audios:
         audio["path"] = f"audio/{audio['path']}"
+        audio["description"] = load_markdown(audio.get("description"))
     return {"audios": audios}
 
 
