@@ -65,8 +65,8 @@ def page(request, path):
             page_metadata = load_yaml(section)
             if "template" in page_metadata:
                 template_name = page_metadata["template"]
-            ctx["title"] = page_metadata.get("title")
-            ctx["subtitle"] = page_metadata.get("subtitle")
+            ctx["title"] = load_markdown(page_metadata.get("title"))
+            ctx["subtitle"] = load_markdown(page_metadata.get("subtitle"))
             if "main_image" in page_metadata:
                 ctx["main_image"] = f"img/{page_metadata['main_image']}"
         else:
@@ -158,7 +158,7 @@ def project_listing_ctx(metadata, data):
     for item in load_yaml(data):
         items.append(
             {
-                "title": item.get("title"),
+                "title": load_markdown(item["title"]),
                 "page_path": item["page_path"] + "/",
                 "image_path": f"img/{item['image_path']}",
                 "details": load_markdown(item.get("details", "")),
@@ -207,6 +207,9 @@ def video_ctx(metadata, data):
 
 
 def load_markdown(s, in_para=True):
+    if s is None:
+        return
+
     raw_html = markdown(s)
     # There's probably a better way of doing this via a markdown extension...
     html = raw_html.replace("<p>!", '<p class="lead">')

@@ -1,8 +1,8 @@
-title: Uncoiling the River
+title: "*Uncoiling the River*"
 ---
 type: text
 
-! A work for piano and orchestra, written for Clare by Kenneth Hesketh, *Uncoiling the River* explores how we perceive and experience time. Co-commissioned by BBC Radio 3 and the Royal Liverpool Philharmonic Orchestra with support from the RVW Trust, it was performed with the BBC National Orchestra of Wales (Martyn Brabbins) and the RLPO (Vasily Petrenko) in 2019 and 2020. 
+! A work for piano and orchestra, written for Clare by Kenneth Hesketh, *Uncoiling the River* explores how we perceive and experience time. Co-commissioned by BBC Radio 3 and the Royal Liverpool Philharmonic Orchestra with support from the RVW Trust, it was performed with the BBC National Orchestra of Wales (Martyn Brabbins) and the RLPO (Vasily Petrenko) in 2019 and 2020.
 
 The title is both poetic and descriptive, outlining the formal plan the work follows; a ‘toccata’ figure is constantly bent and reconstituted, evolving through expansion and contraction alongside a number of strata that are juxtaposed or superimposed as the work unfolds. *Uncoiling the River* is 26 minutes long. Read the [programme note](/static/pdf/projects/uncoiling-the-river/programme_note.pdf) and view instrumentation [here](/static/pdf/projects/uncoiling-the-river/utr_instrumentation.pdf).
 
@@ -18,7 +18,7 @@ subtitle: Audio extracts
 footer: "*With the permission of BBC Radio 3 and the RLPO.*"
 
 - path: projects/uncoiling-the-river/excerpt-bbc-now.mp3
-  description: "World premiere with BBC NOW (Martyn Brabbins)" 
+  description: "World premiere with BBC NOW (Martyn Brabbins)"
 
 - path: projects/uncoiling-the-river/excerpt-rlpo.mp3
   description: "With the RLPO (Vasily Petrenko)"

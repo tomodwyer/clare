@@ -32,7 +32,7 @@ type: project-listing
   image_path: projects/community-engagement/piano-lesson.jpg
   details: "Since 2017, Clare has played to over 8,100 school-children across Gloucestershire and Monmouthshire, in performances designed to engage and inspire the next generation of musicians."
 
-- title: "Uncoiling the River"
+- title: "*Uncoiling the River*"
   page_path: uncoiling-the-river
   image_path: projects/uncoiling-the-river/uncoiling-the-river-score.jpg
   details: "A work for piano and orchestra, written for Clare by Kenneth Hesketh. This piece explores how we perceive and experience time, and was performed with BBC NOW (Martyn Brabbins) and the RLPO (Vasily Petrenko) in 2019 and 2020."
@@ -61,7 +61,3 @@ type: project-listing
   page_path: left-hand-piano-music
   image_path: projects/left-hand-piano-music/clare-at-the-piano.jpg
   details: "Clare completed a doctorate on twentieth-century left-hand piano concertos at City University and the GSMD in 2012, and performed solo left-hand works by Scriabin, Saxton, Bach-Brahms, Lipatti and Saint-Saëns at festivals across Europe."
-
-
-
-
