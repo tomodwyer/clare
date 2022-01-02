@@ -51,7 +51,12 @@ def page(request, path):
         path = "home"
 
     with open(f"{PAGES}/{path}.txt") as f:
-        data = f.read()
+        data = f.read().strip()
+
+    if data.startswith("mirrored_path: "):
+        mirrored_path = data.removeprefix("mirrored_path: ")
+        with open(f"{PAGES}/{mirrored_path}.txt") as f:
+            data = f.read().strip()
 
     template_name = "page.html"
     ctx = {

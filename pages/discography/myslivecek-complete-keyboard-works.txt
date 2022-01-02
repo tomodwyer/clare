@@ -1,5 +1,1 @@
-title: "Josef Myslivecek: Complete Keyboard Works"
----
-type: text
-
-TODO
+mirrored_path: projects/myslivecek-complete-keyboard-works
