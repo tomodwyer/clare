@@ -18,4 +18,4 @@ Run `./run.py build [output-dir]`
 
 Deployed to Cloudflare Pages after pushing/merging to main branch on GitHub.
 
-The site is accessible at https://clare.pages.dev/.
+The site is accessible at https://new.clarehammond.com/.
