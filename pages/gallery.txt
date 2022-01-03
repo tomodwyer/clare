@@ -1,7 +1,6 @@
 title: Gallery
 ---
 type: modal-gallery
-header: "For high-resolution publicity photos, click [here](/gallery/downloads/)."
 footer: "All photographs by [Philip Gatward](http://www.philipgatward.com/)."
 
 - path: philip-gatward/clare-hammond-1-medium.jpg
