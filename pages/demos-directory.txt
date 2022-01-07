@@ -2,5 +2,5 @@ title: "Demos Directory"
 ---
 type: text
 
-Edmund Finnis: [*Youth*](tbc)
+Edmund Finnis: [*Youth*](/demos/finnis-youth/) (2017)
 
