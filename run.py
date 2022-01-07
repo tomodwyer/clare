@@ -225,6 +225,7 @@ def load_markdown(s, in_para=True):
     html = markdown(s)
     # There's probably a better way of doing this via a markdown extension...
     html = html.replace("<p>!", '<p class="lead">')
+    html = html.replace("<p>-", '<p class="mb-0">')
     html = html.replace('<a href="http', '<a target="_blank" href="http')
     if html and not in_para:
         assert html[:3] == "<p>" and html[-4:] == "</p>", html
