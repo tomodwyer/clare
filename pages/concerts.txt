@@ -142,7 +142,7 @@ repertoire = [
   ["WG Still", "Bells"],
   ["Medtner", "Sonata Romantica, Op. 53 No. 1"],
 ]
-time_details = "Time tbc."
+time = 15:00:00
 address = "Perth Concert Hall, Mill Street, Perth PH1 5HZ"
 details = [
   "Tickets £6-£24.50, available [online](https://www.horsecross.co.uk/whats-on/perth-piano-sundays-clare-hammond-163002).",
