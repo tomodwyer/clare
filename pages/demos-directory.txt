@@ -2,5 +2,10 @@ title: "Demos Directory"
 ---
 type: text
 
-Edmund Finnis: [*Youth*](/demos/finnis-youth/) (2017)
+Attahir, Benjamin: [*Sahirat*](/demos/attahir-sahirat/) (2016)
 
+Finnis, Edmund: [*Youth*](/demos/finnis-youth/) (2017)
+
+Rangström, Türe: [*Mälarlegender*](/demos/rangstroem-maelarlegender/) (1919)
+
+Sibelius, Jean: [*The Trees*, Op. 75](/demos/sibelius-the-trees/) (1914)

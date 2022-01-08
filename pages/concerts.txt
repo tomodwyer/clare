@@ -145,7 +145,7 @@ repertoire = [
 time_details = "Time tbc."
 address = "Perth Concert Hall, Mill Street, Perth PH1 5HZ"
 details = [
-  "Tickets tbc, will be available [online](https://www.horsecross.co.uk/whats-on).",
+  "Tickets £6-£24.50, available [online](https://www.horsecross.co.uk/whats-on/perth-piano-sundays-clare-hammond-163002).",
 ]
 
 [[concert]]

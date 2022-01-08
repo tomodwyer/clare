@@ -1,0 +1,23 @@
+title: Jean Sibelius, *The Trees* Op. 75 (1914, 12')
+
+---
+
+PROGRAMME NOTE
+
+-i. När rönnen bloomar (When the Mountain Ash is Blooming)
+
+-ii. Den ensamma furan (The Lonely Pine)
+
+-iii. Aspen (The Aspen)
+
+-iv. Björken (The Birch Tree)
+
+v. Granen (The Spruce)
+
+Sibelius' legacy is primarily as an orchestral composer, of symphonies and tone poems, while his small-scale pieces are performed far less frequently. The Five Pieces are, deservedly, among his most popular works for piano. They combine the simplicity of texture and of motif that one might except from a series of miniatures with a luminescent sound and a truly original approach to writing for the instrument. 
+---
+
+type: audio
+footer: Recorded for BBC Radio 3 (June 2014)
+
+- path: audio/demos/sibelius-the-trees.mp3

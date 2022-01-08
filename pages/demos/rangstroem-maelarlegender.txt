@@ -1,0 +1,8 @@
+title: Ture Rangström, *Mälarlegender* (1919, 12')
+
+---
+
+type: audio
+footer: Recorded for BBC Radio 3 (June 2014)
+
+- path: audio/demos/rangstroem-maelarlegender.mp3

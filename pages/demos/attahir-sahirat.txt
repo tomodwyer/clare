@@ -1,0 +1,27 @@
+title: Benjamin Attahir, *Sahirat* (2016, 8'30)
+---
+type: text
+
+!*Sahirat* was commissioned by the Royal Philharmonic Society for Clare Hammond as part of the Philip Langridge Mentoring Scheme.
+
+PROGRAMME NOTE
+
+‘Sahirat’ is the Arabic word for ‘witches’, and reflects the oriental character of the principal theme of this work. The rhythmic material is derived from a Morse translation of the opening of Shakespeare’s Macbeth, the apparition of the three witches:
+
+-FIRST WITCH: When shall we three meet again
+In thunder, lightning, or in rain?
+
+-SECOND WITCH: When the hurlyburly’s done,
+When the battle’s lost and won.
+
+THIRD WITCH: That will be ere the set of sun. 
+
+The influence of the Morse rhythm is clearest at the opening and close of the piece, though it permeates the entire work. 
+
+
+---
+
+type: audio
+footer: Live recording at Stephen Paulello's studio, near Villethierry in France (May 2018)
+
+- path: audio/demos/attahir-sahirat.mp3

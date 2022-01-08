@@ -34,11 +34,7 @@ Youth is dedicated to my nieces and nephews.
 
 ---
 type: video
+footer: Live performance at Milton Court, London (March 2018)
 
 - url: https://www.youtube.com/embed/zk9L4HYTFEY
----
 
-type: audio
-subtitle: Interview with Anne Gillot for RTS Espace 2
-
-- path: audio/discography/variations/variations-espace-2.mp3

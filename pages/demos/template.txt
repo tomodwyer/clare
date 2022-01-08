@@ -6,39 +6,42 @@ type: text
 
 PROGRAMME NOTE
 
-i. Bloom
+-i. Bloom
 
-ii. Spin
+-ii. Spin
 
-iii. Frankenthaler
+-iii. Frankenthaler
 
-iv. Stream of Days
+-iv. Stream of Days
 
-v. Serried Ridges
+-v. Serried Ridges
 
-vi. Coenties Slip
+-vi. Coenties Slip
 
-vii. Hammershøi Windows
+-vii. Hammershøi Windows
 
-viii. Buren
+-viii. Buren
 
-ix. Heath
+-ix. Heath
 
 x. Helsinki Patterns
 
 These are the first pieces I have composed for solo piano. Many of the sounds, patterns and ideas within them have been in my mind and under my hands for a long time. The brief pieces variously include performance directions like ‘intimate’, ‘spacious’, ‘with childlike simplicity’, ‘as if improvising’. Each one seems to me now like a specific memory of an image, a sensation of place, a significant encounter, or a moment of vivid perception. I wanted above all to convey each musical image as clearly and directly as possible, and to write for the piano in a focused, uncluttered, personal way.
 
-Youth is dedicated to my nieces and nephews. 
+Youth is dedicated to my nieces and nephews.
 
 © Edmund Finnis
 
 ---
 type: video
+footer:
 
 - url: https://www.youtube.com/embed/zk9L4HYTFEY
+
+
 ---
 
 type: audio
-subtitle: Interview with Anne Gillot for RTS Espace 2
+footer: Interview with Anne Gillot for RTS Espace 2
 
-- path: audio/discography/variations/variations-espace-2.mp3
+- path: audio/demos/asd.mp3
