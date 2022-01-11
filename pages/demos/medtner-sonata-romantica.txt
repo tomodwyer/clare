@@ -1,0 +1,9 @@
+title: Nikolai Medtner, *Sonata Romantica* (1930, 22')
+
+
+---
+
+type: audio
+footer: Broadcast live from the Belfast International Arts Festival for BBC Radio 3 (October 2016)
+
+- path: audio/demos/medtner-sonata-romantica.mp3

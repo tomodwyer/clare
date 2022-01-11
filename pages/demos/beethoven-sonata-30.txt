@@ -1,0 +1,8 @@
+title: Ludwig van Beethoven, Sonata No. 30 in E major, Op. 109 (1820, 17'30)
+---
+type: video
+footer: Performed live at Milton Court, London (March 2018)
+
+- url: https://www.youtube.com/embed/29FlwfyAhjY
+
+

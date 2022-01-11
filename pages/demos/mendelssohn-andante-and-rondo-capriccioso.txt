@@ -1,0 +1,8 @@
+title: Felix Mendelssohn, *Andante and Rondo Capriccioso*, Op. 14 (1824, 6'30)
+---
+type: video
+footer: Recorded at the JdP Music Building, Oxford (August 2017)
+
+- url: https://www.youtube.com/embed/6savPJb0EJg
+
+

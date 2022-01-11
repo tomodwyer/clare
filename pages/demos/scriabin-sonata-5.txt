@@ -1,0 +1,8 @@
+title: Alexandre Scriabin, Sonata No. 5, Op. 53 (1907, 11')
+---
+type: video
+footer: Recorded at the JdP Music Building, Oxford (August 2017)
+
+- url: https://www.youtube.com/embed/IY70L0W5TnY
+
+

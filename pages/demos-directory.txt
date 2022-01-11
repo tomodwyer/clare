@@ -1,11 +1,49 @@
-title: "Demos Directory"
+title: "Demos"
 ---
 type: text
 
+Adès, Thomas: [3 Mazurkas, Op. 27](/demos/ades-mazurkas/) (2010)
+
+Ashton, Kim: [*Ornithology*](/demos/ashton-ornithology/) (2016)
+
 Attahir, Benjamin: [*Sahirat*](/demos/attahir-sahirat/) (2016)
+
+Beethoven, Ludwig van: [Sonata No. 8 in C minor, Op. 13 'Pathétique'](/demos/beethoven-sonata-8/) (1798)
+
+Beethoven, Ludwig van: [Sonata No. 30 in E major, Op. 109](/demos/beethoven-sonata-30/) (1820)
+
+Boulanger, Lili: [*3 morceaux*](/demos/boulanger-3-morceaux/) (1914)
+
+Chin, Unsuk: [Etudes](/demos/chin-etudes/) (2003)
+
+Chopin, Frédéric: [Piano Concerto No. 1 in E minor, Op. 11 'Romanze'](/demos/chopin-concerto-1/) (1830)
+
+Chopin, Frédéric: [Etudes, Op. 25](/demos/chopin-etudes/) (1836)
+
+Davies, Hywel: [*Elternszenen*](/demos/davies-elternszenen/) (2018)
+
+Debussy, Claude: [*L'Isle Joyeuse*](/demos/debussy-isle-joyeuse/) (1904)
+
+Debussy, Claude: [5 Préludes](/demos/debussy-preludes/) (1909-13)
+
+Dutilleux, Henri: [*Au gré des ondes*](/demos/dutilleux-au-gre-des-ondes/) (1946)
 
 Finnis, Edmund: [*Youth*](/demos/finnis-youth/) (2017)
 
+Kapustin, Nikolai: [5 Studies in Different Intervals, Op. 68 No. 1 (in minor seconds)](/demos/kapustin-study-1/) (1992)
+
+Medtner, Nikolai: [*Sonata Romantica*, Op. 53 No. 1](/demos/medtner-sonata-romantica/) (1930)
+
+Mendelssohn, Felix: [*Andante and Rondo Capriccioso*, Op. 14](/demos/mendelssohn-andante-and-rondo-capriccioso/) (1824)
+
+Rachmaninov, Sergei: [Sonata No. 2 in B flat minor, Op. 36](/demos/rachmaninov-sonata-2/) (1931)
+
 Rangström, Türe: [*Mälarlegender*](/demos/rangstroem-maelarlegender/) (1919)
 
+Scriabin, Alexandre: [Sonata No. 5, Op. 53](/demos/scriabin-sonata-5/) (1907)
+
 Sibelius, Jean: [*The Trees*, Op. 75](/demos/sibelius-the-trees/) (1914)
+
+Stravinsky, Igor: [*Trois mouvements de Petroushka*](/demos/stravinsky-petroushka/) (1921)
+
+Szymanowski, Karol: [3 Mazurkas, Op. 50, Nos. 2, 9 and 6](/demos/szymanowski-mazurkas/) (1925)

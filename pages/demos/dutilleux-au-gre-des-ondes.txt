@@ -1,0 +1,8 @@
+title: Henri Dutilleux, *Au gré des ondes* (1946, 12')
+---
+type: audio
+footer: Broadcast live from the Belfast International Arts Festival for BBC Radio 3 (October 2016)
+
+- path: audio/demos/dutilleux-au-gre-des-ondes.mp3
+
+

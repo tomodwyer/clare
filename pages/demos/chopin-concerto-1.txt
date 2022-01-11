@@ -1,0 +1,8 @@
+title: Frédéric Chopin, Piano Concerto No. 1 in E minor, Op. 11, m. 2 'Romanze' (1830, 10')
+---
+
+type: video
+footer: Performed live with the Philharmonia, Royal Festival Hall (December 2016)
+
+- url: https://www.youtube.com/embed/b583_ffukAU
+

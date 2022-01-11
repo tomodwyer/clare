@@ -1,0 +1,8 @@
+title: Claude Debussy, *L'Isle Joyeuse* (1904, 6')
+---
+type: audio
+footer: Broadcast live for 'In Tune' on BBC Radio 3 (August 2018)
+
+- path: audio/demos/debussy-isle-joyeuse.mp3
+
+

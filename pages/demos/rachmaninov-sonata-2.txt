@@ -1,0 +1,16 @@
+title: Sergei Rachmaninov, Sonata No. 2 in B flat minor, Op. 36 (1931, 19')
+---
+
+type: video
+footer: Performed live at the Wigmore Hall (May 2021)
+
+- url: https://www.youtube.com/embed/kMK5drwmAuQ
+
+
+
+---
+
+type: audio
+footer: Performed live from St David's Hall, Cardiff for BBC Radio 3 Lunchtime Concerts (December 2020)
+
+- path: audio/demos/rachmaninov-sonata-2.mp3

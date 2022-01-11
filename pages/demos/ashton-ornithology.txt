@@ -1,0 +1,35 @@
+title: Kim Ashton, *Ornithology* (2016, 25')
+
+---
+type: text
+
+!*Ornithology* was commissioned by pianist Clare Hammond with support from the RVW Trust and individual sponsors.
+
+PROGRAMME NOTE
+
+-i. Cuckoo
+
+-ii. Heron
+
+-iii. O'ahu 'ō 'ō 
+
+-iv. Goldfinch
+
+v. Windhover
+
+Five birds: two songbirds, one bird of prey, one waterbird, and one famous for its parasitic nesting behaviour. The flight and the songs of birds have always held a fascination for me, while the variety of their shapes, sizes and colours has inspired many artists and poets – and hunters – through history. The starting point for Ornithology is five poems chosen for their striking evocations of the birds they portray. Lines from the poems entitle each movement in what is a diverse and very colourful set, ranging from the ethereal through the elegiac to the dazzlingly brilliant. Two poems by Gerard Manley Hopkins bookend the set: his short stanza on the cuckoo known as ‘Fragment 146’ provides inspiration for the atmospheric opener, while the famous Windhover makes for a tour de force finale. In between, contemporary Dorset poet Elisabeth Bletsoe’s very personal responses to the Heron and Goldfinch sandwich a lament on the passing of the O‘ahu ‘ō‘ō, a stunning Hawaian bird from a genus entirely hunted to extinction for their colourful feathers.
+
+© Kim Ashton
+
+
+---
+type: audio
+footer: Recorded in Clare's practice studio (April 2018)
+
+- path: audio/demos/ashton-ornithology-cuckoo.mp3
+- path: audio/demos/ashton-ornithology-heron.mp3
+- path: audio/demos/ashton-ornithology-oahu.mp3
+- path: audio/demos/ashton-ornithology-goldfinch.mp3
+- path: audio/demos/ashton-ornithology-windhover.mp3
+
+

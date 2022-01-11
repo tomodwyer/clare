@@ -1,0 +1,8 @@
+title: Igor Stravinsky, *Trois mouvements de Petroushka* (1921, 14'30)
+---
+type: video
+footer: Performed live at Milton Court, London (March 2018)
+
+- url: https://www.youtube.com/embed/tOq7LsvSD6c
+
+

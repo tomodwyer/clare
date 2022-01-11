@@ -1,0 +1,39 @@
+title: Hywel Davies, *Elternszenen* (2018, 17')
+
+---
+type: text
+
+!*Elternszenen* was commissioned by Clare Hammond with generous support from the John S Cohen Foundation, Hinrichsen Foundation, RVW Trust and Stradivari Trust. 
+
+PROGRAMME NOTE
+
+-i. Somewhere I have never travelled
+
+-ii. Why not?
+
+-iii. In the night
+
+-iv. Invitation to the dance
+
+-v. After the storm
+
+-vi. Twister™
+
+-vii. The Box (The Boot of a Giant; A Hiding Place; The Butterfly; The Lost Dog; The Lost Dog, Now Found, Runs Off With the Box; The Dress; The Submarine; The Washing Machine (on spin); The Spaceship)
+
+-viii. 5,500 Days
+
+ix. To Joy
+
+When discussing ideas for a new work, Clare and I ended up talking about parenthood - a relatively new experience for her and one that is two decades old for me. As a result of this common experience we decided to make the new work about parenthood and model it on Schumann’s *Kinderszenen* (Scenes of Childhood). As in Schumann’s work, the pieces that comprise *Elternszenen* are all of a single idea, and feature similar subjects: moods, situations, games etc. While some of the titles are self-explanatory others are less so: After the storm is the stillness after upset, when breathing becomes steady again; Twister™ is a game developed in the 1960s that, according to the manufacturer, ‘will tie you in knots’; The Box is about how packaging is often more stimulating than its contents – this short piece has eight very short sections: ‘The boot of a giant’, ‘A hiding place’, ‘A butterfly’, ‘A lost dog’, ‘The lost dog, now found, runs off with the box’, ‘A dress’, ‘A submarine’, ‘A washing machine (on spin)’ and ‘A spaceship’. 5,500 Days is when your child is less in the room and more of a distant presence somewhere else in the house. 
+
+© Hywel Davies
+
+
+---
+type: audio
+footer: Performed live at Pembroke College, Oxford (October 2019)
+
+- path: audio/demos/davies-elternszenen.mp3
+
+

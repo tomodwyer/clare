@@ -1,6 +1,7 @@
 title: Jean Sibelius, *The Trees* Op. 75 (1914, 12')
 
 ---
+type: text
 
 PROGRAMME NOTE
 
@@ -21,3 +22,11 @@ type: audio
 footer: Recorded for BBC Radio 3 (June 2014)
 
 - path: audio/demos/sibelius-the-trees.mp3
+
+---
+
+type: video
+footer: Recorded at the JdP Music Building, Oxford (August 2017)
+
+- url: https://www.youtube.com/embed/Ckma1fD_CZ0
+

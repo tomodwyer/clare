@@ -1,0 +1,21 @@
+title: Frédéric Chopin, Etudes, Op. 25 (1836)
+
+
+---
+type: video
+footer: Recorded live at Milton Court, London (December 2017)
+
+- url: https://www.youtube.com/embed/9XmuN9Wucto
+- url: https://www.youtube.com/embed/lEhqzRxS_80
+- url: https://www.youtube.com/embed/UQf00j26SoA
+- url: https://www.youtube.com/embed/0fz-r0fYcxE
+- url: https://www.youtube.com/embed/LUj6n-ut8R4
+- url: https://www.youtube.com/embed/ebThZOcx2io
+- url: https://www.youtube.com/embed/DRsqx7ZjKRQ
+- url: https://www.youtube.com/embed/SoJpEyPrpl4
+- url: https://www.youtube.com/embed/-XW6G9YdEqA
+- url: https://www.youtube.com/embed/r7zHGDxJoAU
+- url: https://www.youtube.com/embed/Dsg85_wsl3w
+- url: https://www.youtube.com/embed/EkLjfTrbRww
+
+

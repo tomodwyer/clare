@@ -1,0 +1,8 @@
+title: Karol Szymanowski, 3 Mazurkas, Op. 50, Nos. 2, 9 and 6 (1925, 7')
+---
+type: audio
+footer: Broadcast live from the Belfast International Arts Festival for BBC Radio 3 (October 2016)
+
+- path: audio/demos/szymanowski-mazurkas.mp3
+
+
