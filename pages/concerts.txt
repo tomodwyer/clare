@@ -37,16 +37,35 @@ details = [
   "For the Hellerup Kammermusikforening. More information [online](https://www.hkmf.dk/saesonprogram/).",
 ]
 
+
+[[concert]]
+date = 2022-02-02
+location = "BBC Radio 3"
+type = "Live broadcast"
+repertoire = [
+  ["Clare will perform the following works as part of BBC Radio 3's Afternoon Concert:", "", ""],
+  ["Nathaniel Dett", "Inspiration Waltzes, Nepenthe and the Muse, Winter, Barcarolle of Tears"],
+  ["Julia Perry", "Prelude"],
+  ["Kuniko Kanai", "Maidens Under the Moon"],
+]
+time = 14:00:00
+address = "BBC Radio 3"
+details = [
+  "Listen live [online](https://www.bbc.co.uk/sounds/play/live:bbc_radio_three).",
+]
+
 [[concert]]
 date = 2022-02-06
 location = "Faversham, Kent"
 type = "Solo recital"
 repertoire = [
+
   ["Carwithen", "Sonatina"],
   ["WG Still", "Bells"],
   ["Piazzolla (arr. Davies)", "Suite from A Midsummer Night's Dream"],
   ["Medtner", "Sonata Romantica, Op. 53 No. 1"],
 ]
+
 time = 15:00:00
 address = "Assembly Rooms, Preston Street, Faversham ME13 8PG"
 details = [
