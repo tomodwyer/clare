@@ -119,6 +119,19 @@ details = [
 ]
 
 [[concert]]
+date = 2022-02-15
+location = "London"
+type = "Masterclass"
+repertoire = [
+  ["Clare will give a masterclass at the Guildhall School of Music & Drama.", "", ""],
+]
+time_details = "10am-1pm"
+address = "Lecture Recital Room, GSMD, Silk Street, Barbican EC2Y 9BH"
+details = [
+  "Free entry. More information [online](https://www.gsmd.ac.uk/music/view_all_events/event_single_view/?tx_julleevents_pi1%5BshowUid%5D=7223).",
+]
+
+[[concert]]
 date = 2022-02-28
 location = "Hoylake"
 type = "Solo recital"
