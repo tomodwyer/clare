@@ -1,8 +1,7 @@
 title: Ludwig van Beethoven, Sonata No. 8 in C minor, Op. 13 (1798, 17'30)
 ---
-type: video
+type: audio
 footer: Broadcast live from the Belfast International Arts Festival for BBC Radio 3 (October 2016)
 
-- url: https://www.youtube.com/embed/29FlwfyAhjY
-
+- path: audio/demos/beethoven-sonata-8.mp3
 
