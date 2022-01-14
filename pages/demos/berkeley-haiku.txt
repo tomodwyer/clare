@@ -1,0 +1,36 @@
+title: Michael Berkeley, *Haiku* (2016, 7'30)
+---
+type: text
+
+PROGRAMME NOTE
+
+The genesis of this piece lies in a conversation I had with Clare Hammond in Cambridge when I told her that I would very much like to write some short fragmentary pieces for piano. Clare, a pianist I much admire, then asked George Vass to commission the music for the 2016 Presteigne Festival.
+
+I have always liked the Japanese haiku for its brevity, its connection with nature and its economy of means.
+
+From my study in the Welsh Marches I observe some wonderful birds and I got excited by the idea of depicting in short bursts of music not their sounds (who could compete with Messiaen in that arena) but their movement which endlessly fascinates and suggest music to me.
+
+The brains of birds operate some 400 times faster than ours, hence their rapid response and synchronicity of movement. These, often elliptical, fragments (and some are barely 30 seconds long) are also inspired in part by the very short pieces of Gyorg Kurtag where less always seems to result in more.
+
+-1. Blackbird in birdbath. Sudden joyous cleaning of wings in water.
+
+-2. Red Kite. Languorous use of termals, floating and then suddenly darting as it spots potential meal.
+
+-3. Starlings. Extraordinarily dynamic flocking with exhilarating and synchronous changes of direction.
+
+-4. French Partridge. I find these birds far more tentative, social and interesting than the rather boring and predictable pheasants with which I am inundated.
+
+-5. Goldfinches. Wherever there is spilt corn on the farm on which I live, swarms of brightly coloured Goldfinches congregate excitedly.
+
+-6. Blue Tits. This happy piece was written while on honeymoon in Venice, recalling the darting to and fro of blue tits from the silver birch and wiegelia back home.
+
+-7. Crows, Rooks and Ravens. The most ominous, dark and dangerous movement. There is something alarming about these birds and the way they will hover to take the eyes from fallen sheep.
+
+-8. Barn Owl. That beguiling, slow motion blink and then the effortless swoop on a possible mouse. The close of day and so to bed, or roost.
+
+---
+
+type: audio
+footer: Recorded live at the Presteigne Festival (August 2016)
+
+- path: audio/demos/berkeley-haiku.mp3

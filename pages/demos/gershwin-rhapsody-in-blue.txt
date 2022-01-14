@@ -1,0 +1,8 @@
+title: George Gershwin, *Rhapsody in Blue* (1942 version, 17')
+---
+type: audio
+footer: Performed live with the RTÉ Concert Orchestra and Dave Brophy (July 2017)
+
+- path: audio/demos/gershwin-rhapsody-in-blue.mp3
+
+

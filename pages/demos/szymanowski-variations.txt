@@ -1,0 +1,8 @@
+title: Karol Szymanowski, *Variations on a Polish Theme*, Op. 10 (1904, 19')
+---
+
+type: video
+footer: Performed live at the Wigmore Hall (May 2021)
+
+- url: https://www.youtube.com/embed/KnQ-9kug7Dc
+

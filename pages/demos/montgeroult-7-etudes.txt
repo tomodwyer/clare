@@ -1,0 +1,8 @@
+title: Hélène de Montgeroult, 7 Etudes (1788-1812, 19')
+---
+
+type: video
+footer: Performed live at the Wigmore Hall (May 2021)
+
+- url: https://www.youtube.com/embed/dp0AKykbuq0
+

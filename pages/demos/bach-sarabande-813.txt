@@ -1,0 +1,8 @@
+title: J. S. Bach, Sarabande in C minor, BWV 813 (1722, 3')
+---
+type: video
+footer: Performed live at Milton Court, London (March 2018)
+
+- url: https://www.youtube.com/embed/6nwlSl7b-MY
+
+

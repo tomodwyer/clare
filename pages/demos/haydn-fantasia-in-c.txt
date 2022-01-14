@@ -1,0 +1,8 @@
+title: Joseph Haydn, Fantasia in C, Hob XVII:4 (1789, 5'30)
+---
+type: video
+footer: Performed live at Milton Court, London (March 2018)
+
+- url: https://www.youtube.com/embed/GEYKCGSuSEc
+
+

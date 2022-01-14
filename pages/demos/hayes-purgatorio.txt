@@ -1,0 +1,8 @@
+title: Malcolm Hayes, *From the Purgatorio of Dante* (2007, 11')
+---
+
+
+type: audio
+footer: Recorded live at the Perth Concert Hall (April 2018)
+
+- path: audio/demos/hayes-purgatorio.mp3

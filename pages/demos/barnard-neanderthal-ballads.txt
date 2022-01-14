@@ -1,0 +1,35 @@
+title: Richard Barnard, *Neanderthal Ballads* (2020, 16')
+---
+type: text
+
+!*Neanderthal Ballads* was commissioned by Clare Hammond with generous support from the John S Cohen Foundation, Hinrichsen Foundation and the RVW Trust.
+
+PROGRAMME NOTE
+
+-i. Hand Spirits
+
+-ii. Child's Game
+
+-iii. Hearth Communion
+
+-iv. The path through the forest to the edge of the sea
+
+-v. Feathered Dance
+
+vi. What they dreamed of when they dreamed of us
+
+This is a set of pieces for piano inspired by descriptions and discoveries of Neanderthal culture. Hand Spirits is a musical expression of the images of the hand stencil images in ancient cave art that Neanderthals may have seen or even made themselves; A five-note ‘hand-print’ motif is surrounded and decorated by colour. Young Neanderthals play an energetic game in the second piece and Hearth Communion depicts a scene in William Golding’s novel The Inheritors in which a small family of Neanderthals are gathered around a fire in closely shared thought. The path through the forest to the edge of the sea traces a familiar route for Golding’s group who encounter Homo sapiens arriving by water. Feathered Dance imagines a ritual and the early emergence of spirituality and religion. 
+
+The first identified Neanderthal bones were discovered in the Neander Valley in 1856. Nearby, Robert Schumann had died a few days earlier. The final piece is a meditation on the disappearance, resurrection and lasting presence of the Neanderthals; in the bones left in the ground and the DNA in our bodies. The end is a reference to the final disappearing chord note-by-note in Schumann’s Papillons Op.2.
+
+© Richard Barnard
+
+---
+type: audio
+footer: Recorded live at Wyastone Hall near Monmouth (October 2021)
+
+- path: audio/demos/barnard-neanderthal-ballads.mp3
+
+
+
+
