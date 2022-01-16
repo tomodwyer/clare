@@ -7,30 +7,8 @@ p {
   text-align: justify;
 }
 
-a {
-  color: black;
-  font-weight: 400;
-}
-
 ul {
   list-style-type: "▸  ";
-}
-
-nav {
-  font-weight: 400;
-}
-
-.navbar {
-  background-color: rgba(255, 255, 255, 0.8);
-}
-
-.navbar-brand {
-  font-weight: 300;
-  font-size: 2.5rem;
-}
-
-.nav-link {
-  color: rgba(0, 0, 0, 1) !important;
 }
 
 img {
@@ -73,4 +51,9 @@ img {
 
 blockquote {
   padding-left: 50px;
+}
+
+.prose a {
+  color: black;
+  font-weight: 400;
 }
