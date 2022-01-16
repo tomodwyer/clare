@@ -2,13 +2,14 @@
 {% load static %}
 
 {% block content %}
+{% include "nav.html" %}
+
 <div class="container">
-  {% include "nav.html" %}
 
   <div id="{{ page_id }}" class="row pt-5">
     {% if main_image %}
       <div class="col-6 pr-5">
-        <div class="main-image">
+        <div class="sticky-top">
           <img src="{% static main_image %}" class="w-100" />
         </div>
       </div>

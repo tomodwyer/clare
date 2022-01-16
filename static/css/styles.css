@@ -1,10 +1,5 @@
 body {
   font-family: "Josefin Sans";
-  font-weight: 300;
-}
-
-p {
-  text-align: justify;
 }
 
 ul {
@@ -13,32 +8,6 @@ ul {
 
 img {
   display: block;
-}
-
-.main-image {
-  position: sticky;
-  top: 134px;
-}
-
-#home {
-  position: relative;
-  display: inline-block;
-}
-
-#home .section-1 {
-  position: absolute;
-  top: 0%;
-  left: 70%;
-  text-align: right;
-  color: white;
-  font-size: 1.2rem;
-  padding-top: 2rem !important;
-  padding-right: 2rem;
-}
-
-#home .section-1 a {
-  color: white;
-  font-weight: 400;
 }
 
 .concert ul {
@@ -54,6 +23,65 @@ blockquote {
 }
 
 .prose a {
-  color: black;
+  color: currentColor;
   font-weight: 400;
+}
+
+.home__bg {
+  display: none;
+}
+
+.home__image {
+  height: auto;
+  width: 100%;
+}
+
+.home__prose {
+  color: var(--bs-body-color);
+  font-weight: 300;
+  font-size: 1.2rem;
+  max-width: 65ch;
+  margin: 0 auto;
+  padding-top: 2rem;
+}
+
+@media (min-width: 992px) {
+  .home__container {
+    min-height: 75vh;
+  }
+
+  .home__image {
+    display: none;
+  }
+
+  .home__bg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 33%;
+    display: flex;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+
+  .home__content {
+    flex: 0 0 auto;
+    margin-left: 50%;
+    position: relative;
+    width: 50%;
+    z-index: 2;
+  }
+
+  .home__prose {
+    color: var(--bs-white);
+    max-width: 50ch;
+  }
+}
+
+@media (min-width: 1200px) {
+  .home__bg {
+    background-position-x: 25%;
+  }
 }

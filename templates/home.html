@@ -2,12 +2,21 @@
 {% load static %}
 
 {% block content %}
-<div class="container-fluid px-5">
-  {% include "nav.html" %}
+{% include "nav.html" %}
 
-  <div id="{{ page_id}}" class="w-100">
-    <img src="{% static main_image %}" class="w-100" />
-    {% include "content.html" %}
+<div class="container-fluid">
+  <div class="row">
+    <div class="position-relative home__container">
+    <div class="home__bg" style="background-image: url('{% static main_image %}')"></div>
+    <img src="{% static main_image %}" class="home__image" />
+    <div class="container">
+      <div class="home__content">
+        <main class="home__prose">
+          {% include "content.html" %}
+        </main>
+      </div>
+    </div>
   </div>
+</div>
 </div>
 {% endblock %}
