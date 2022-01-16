@@ -24,7 +24,13 @@ blockquote {
 
 .prose a {
   color: currentColor;
-  font-weight: 400;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.prose a:hover,
+.prose a:focus {
+  text-decoration: underline;
 }
 
 .home__bg {
@@ -67,6 +73,7 @@ blockquote {
   }
 
   .home__content {
+    background: rgb(95, 89, 91, 0.5);
     flex: 0 0 auto;
     margin-left: 50%;
     position: relative;
@@ -77,6 +84,7 @@ blockquote {
   .home__prose {
     color: var(--bs-white);
     max-width: 50ch;
+    padding: 2rem;
   }
 }
 
