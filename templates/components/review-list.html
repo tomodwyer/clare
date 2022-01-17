@@ -1,0 +1,18 @@
+{% for review in section.reviews %}
+<div class="review pt-4">
+{% if review.full %}
+<h3><a href="{{ review.path }}">{{ review.publication }}</a></h3>
+{% else %}
+<h5><a href="{{ review.path }}">{{ review.publication }}</a></h5>
+{% endif %}
+
+<p class="lead">
+  <em>"{{ review.quote }}"</em>
+  {% if review.reviewer %}<span class="small"> — {{ review.reviewer }}</span>{% endif %}
+</p>
+
+{% if review.full %}
+{{ review.content }}
+{% endif %}
+{% endfor %}
+</div>

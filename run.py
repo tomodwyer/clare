@@ -11,13 +11,14 @@ import yaml
 from django.core.management import execute_from_command_line
 from django.core.wsgi import get_wsgi_application
 from django.shortcuts import render
-from django.urls import path
+from django.urls import path as url_path
 from django.utils.safestring import mark_safe
 from markdown import markdown
 
 MODULE_NAME = Path(__file__).with_suffix("").name
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", MODULE_NAME)
 
+DATA = "data"
 PAGES = "pages"
 STATIC = "static"
 TEMPLATES = "templates"
@@ -83,6 +84,7 @@ def page(request, path):
             section_ctx = load_yaml(section_metadata)
             section_type = section_ctx["type"]
 
+            section_ctx["path"] = path
             section_ctx["section_id"] = f"section-{ix}"
             if "template" not in section_ctx:
                 section_ctx["template"] = f"components/{section_type}.html"
@@ -104,6 +106,7 @@ def page(request, path):
                 "project-listing": project_listing_ctx,
                 "repertoire": repertoire_ctx,
                 "review": review_ctx,
+                "review-list": review_list_ctx,
                 "sponsor-logos": sponsor_logos_ctx,
                 "text": text_ctx,
                 "video": video_ctx,
@@ -192,8 +195,26 @@ def repertoire_ctx(metadata, data):
 
 
 def review_ctx(metadata, data):
-    metadata["review"] = load_markdown(data)
-    return metadata
+    with open(f"{DATA}/{metadata['path']}.txt") as f:
+        review_metadata, review_data = f.read().strip().split("\n\n", 1)
+    review_metadata = load_yaml(review_metadata)
+    review = review_metadata
+    review["content"] = load_markdown(review_data)
+    return review
+
+
+def review_list_ctx(metadata, data):
+    reviews = []
+    for path in metadata["paths"]:
+        with open(f"{DATA}/reviews/{path}.txt") as f:
+            review_metadata, review_data = f.read().strip().split("\n\n", 1)
+        review_metadata = load_yaml(review_metadata)
+        review = review_metadata
+        review["path"] = f"/reviews/{path}/"
+        review["content"] = load_markdown(review_data)
+        review["full"] = metadata["full"]
+        reviews.append(review)
+    return {"reviews": reviews}
 
 
 def sponsor_logos_ctx(metadata, data):
@@ -253,8 +274,8 @@ def slugify(value):
 
 
 urlpatterns = [
-    path("", page, {"path": ""}),
-    path("<path:path>/", page),
+    url_path("", page, {"path": ""}),
+    url_path("<path:path>/", page),
 ]
 
 application = get_wsgi_application()

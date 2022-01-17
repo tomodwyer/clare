@@ -1,10 +1,8 @@
-title: Reviews
+title: Reviews for *Variations*
 main_image: philip-gatward/clare-hammond-6-medium.jpg
 ---
 type: review-list
-subtitle: "*[Variations](/reviews/variations/)*"
-full: no
-footer: "[Read more](/reviews/variations/) reviews..."
+full: yes
 paths:
  - variations/telegraph
  - variations/international-piano
