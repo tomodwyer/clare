@@ -4,86 +4,216 @@ main_image: philip-gatward/clare-hammond-6-medium.jpg
 type: repertoire
 footer: º *Works with an asterix were premiered by Clare*
 
-Adams, John	*I Still Play - pocket variations for solo piano*
-Adès, Thomas 	*Mazurkas*, Op. 27
-Adès, Thomas	*Darknesse Visible*
-Anderson, Julian	Études Nos. 1-4
-Ashton, Kim	*Ornithology*º
-Attahir, Benjamin	*Sahirat*º
-Barnard, Richard	*Neanderthal Ballads*º
-Beamish, Sally	*Voices in Silence*
-Berkeley, Michael	*Haiku*º
-Betteridge, Michael	*Nostalgic Music*
-Birchall, Richard 	*Abstracts*
-Birtwistle, Harrison	*Variations from the Golden Mountain*
-Brown, James Francis	*The Silent Hour*
-Campbell, Ewan	*Flight of the Killer Bee*º
-Casken, John	*Six Wooded Pieces*
-Chin, Unsuk	Études Nos. 1-6
-Davies, Hywel	*Elternszenen*º
-El-Turk, Bushra	*Ostinato*
-Finnis, Edmund	*Youth*º
-Finnis, Edmund	*Lullaby for Emme*º
-Gardner, Stephen	*Play*º
-Glass, Philip	Etudes, Nos. 3-4, 11-12
-Gorb, Adam	*Velocity*º
-Gorb, Adam	*24 Preludes*º
-Gordon, Michael Zev	*Diary Pieces* (2018)
-Grange, Philip	*Piano Polyptych*
-Hayes, Malcolm	*From the Purgatorio of Dante*
-Hellawell, Piers	*Das Leonora Notenbuch*
-Hellawell, Piers	*Basho*
-Hellawell, Piers	*Piani, Latebre*
-Hesketh, Kenneth	*Three Japanese Miniatures*
-Hesketh, Kenneth	*Horae (pro clara)*º
-Hesketh, Kenneth	*Hände* for piano and filmº
-Hesketh, Kenneth	*Notte Oscura*
-Hesketh, Kenneth	*Magic Casements*
-Hesketh, Kenneth	*Lullaby of the Land Beyond*
-Holloway, Robin	Sarabande, Scherzo and Song
-Hopkins, John	*Corona di Sonetti*º
-Howard, Joseph	*Rupture*
-Hughes, Ed	*Orchids*, No. 5
-Hughes, Ed	*The Nose* for piano and filmº
-Kapustin, Nikolai	*Five Studies in Different Intervals*, Op. 68
-Keeling, Andrew	*Coniunctio*º
-Knussen, Oli	*Prayer Bell Sketch*
-Lachenmann, Helmut	*5 Variations on a Theme of Franz Schubert*
-Lane, Liz	*Ballad*
-Ligeti, György	Études Nos. 10-12 (En suspens, Der Zauberlehrling, Entrelacs)
-Lorieux, Grégoire	*Portrait prémonitoire d'Olivier Messiaen* (with electronics)
-Lutyens, Elisabeth	Five Bagatelles
-Mawhinney, Simon	*Ravara*, Nos. 1-4
-McCabe, John	*Lamentation Rag*
-McDowall, Cecilia	*Colour is the Keyboard*
-Metcalf, John	*Endless Song*
-Molloy, Ryan	*Sætre Brygge*
-O'Regan, Tarik	*Three Piano Miniatures*
-O'Regan, Tarik	*Lines of Desire*
-Panufnik, Roxanna	*Second Home*
-Panufnik, Roxanna	*Glo*
-Panufnik, Roxanna	*Modlitwa*, jointly composed with Andrzej Panufnik
-Pärt, Arvo	*Für Alina*
-Peate, Robert	*Pearl*º
-Pointon, Malcolm	*5 Epigrams and an Epiphonema*)
-Raftery, Kevin	*Cook from Frozen*
-Reeves, Camden	*Notturno*
-Samuel, Rhian	*A Garland for Anne*
-Saxton, Robert	*Chacony* for left hand alone
-Saxton, Robert	*Hortus Musicae*, Books 1 and 2º
-Saxton, Robert	*Sonata*
-Saxton, Robert	*Lullaby for Rosa*º
-Sierra, Arlene	'Black and White Warbler' from *Birds and Insects*, Book 2º
-Simaku, Thomas	*Raggio Lunare*
-Swayne, Giles	*Bagatelles Nos. 1-4*º
-Tabakova, Dobrinka	*Halo*
-Takemitsu, Toru	*Rain Tree Sketch II*
-Tann, Hilary	*Doppelgänger*
-Tavener, John	*Zodiacs*
-Turnage, Mark-Anthony Turnage	*True Life Stories*
-Vine, Carl	Five Bagatelles
-Whalley, Richard	*Five Preludes*
-Wiancko, Paul	*Mars Anthem*º
-Woolrich, John	Pianobook XI
-Miscellaneous	*Aquarelles*: a series of five miniatures written to celebrate the Debussy Centenary by composers James Francis Brown, David Matthews, Peter Fribbins, Alan Mills and Robin Walkerº
-Miscellaneous	*Haydn Fantasies for John McCabe*: by composers James Francis Brown, Peter Fribbins, John Hawkins, David Matthews, Alan Mills, Matthew Taylor and Hugh Wood
+- composer: Adams, John
+  works:
+  - "*I Still Play - pocket variations for solo piano*"
+- composer: Adès, Thomas
+  works:
+  - "*Mazurkas*, Op. 27"
+  - "*Darknesse Visible*"
+- composer: Anderson, Julian
+  works:
+  - "Études Nos. 1-4"
+- composer: Ashton, Kim
+  works:
+  - "*Ornithology*º"
+- composer: Attahir, Benjamin
+  works:
+  - "*Sahirat*º"
+- composer: Barnard, Richard
+  works:
+  - "*Neanderthal Ballads*º"
+- composer: Beamish, Sally
+  works:
+  - "*Voices in Silence*"
+- composer: Berkeley, Michael
+  works:
+  - "*Haiku*º"
+- composer: Betteridge, Michael
+  works:
+  - "*Nostalgic Music*"
+- composer: 'Birchall, Richard '
+  works:
+  - "*Abstracts*"
+- composer: Birtwistle, Harrison
+  works:
+  - "*Variations from the Golden Mountain*"
+- composer: Brown, James Francis
+  works:
+  - "*The Silent Hour*"
+- composer: Campbell, Ewan
+  works:
+  - "*Flight of the Killer Bee*º"
+- composer: Casken, John
+  works:
+  - "*Six Wooded Pieces*"
+- composer: Chin, Unsuk
+  works:
+  - "Études Nos. 1-6"
+- composer: Davies, Hywel
+  works:
+  - "*Elternszenen*º"
+- composer: El-Turk, Bushra
+  works:
+  - "*Ostinato*"
+- composer: Finnis, Edmund
+  works:
+  - "*Youth*º"
+  - "*Lullaby for Emme*º"
+- composer: Gardner, Stephen
+  works:
+  - "*Play*º"
+- composer: Glass, Philip
+  works:
+  - "Etudes, Nos. 3-4, 11-12"
+- composer: Gorb, Adam
+  works:
+  - "*Velocity*º"
+  - "*24 Preludes*º"
+- composer: Gordon, Michael Zev
+  works:
+  - "*Diary Pieces* (2018)"
+- composer: Grange, Philip
+  works:
+  - "*Piano Polyptych*"
+- composer: Hayes, Malcolm
+  works:
+  - "*From the Purgatorio of Dante*"
+- composer: Hellawell, Piers
+  works:
+  - "*Das Leonora Notenbuch*"
+  - "*Basho*"
+  - "*Piani, Latebre*"
+- composer: Hesketh, Kenneth
+  works:
+  - "*Three Japanese Miniatures*"
+  - "*Horae (pro clara)*º"
+  - "*Hände* for piano and filmº"
+  - "*Notte Oscura*"
+  - "*Magic Casements*"
+  - "*Lullaby of the Land Beyond*"
+- composer: Holloway, Robin
+  works:
+  - "Sarabande, Scherzo and Song"
+- composer: Hopkins, John
+  works:
+  - "*Corona di Sonetti*º"
+- composer: Howard, Joseph
+  works:
+  - "*Rupture*"
+- composer: Hughes, Ed
+  works:
+  - "*Orchids*, No. 5"
+  - "*The Nose* for piano and filmº"
+- composer: Kapustin, Nikolai
+  works:
+  - "*Five Studies in Different Intervals*, Op. 68"
+- composer: Keeling, Andrew
+  works:
+  - "*Coniunctio*º"
+- composer: Knussen, Oli
+  works:
+  - "*Prayer Bell Sketch*"
+- composer: Lachenmann, Helmut
+  works:
+  - "*5 Variations on a Theme of Franz Schubert*"
+- composer: Lane, Liz
+  works:
+  - "*Ballad*"
+- composer: Ligeti, György
+  works:
+  - "Études Nos. 10-12 (En suspens, Der Zauberlehrling, Entrelacs)"
+- composer: Lorieux, Grégoire
+  works:
+  - "*Portrait prémonitoire d'Olivier Messiaen* (with electronics)"
+- composer: Lutyens, Elisabeth
+  works:
+  - "Five Bagatelles"
+- composer: Mawhinney, Simon
+  works:
+  - "*Ravara*, Nos. 1-4"
+- composer: McCabe, John
+  works:
+  - "*Lamentation Rag*"
+- composer: McDowall, Cecilia
+  works:
+  - "*Colour is the Keyboard*"
+- composer: Metcalf, John
+  works:
+  - "*Endless Song*"
+- composer: Molloy, Ryan
+  works:
+  - "*Sætre Brygge*"
+- composer: O'Regan, Tarik
+  works:
+  - "*Three Piano Miniatures*"
+  - "*Lines of Desire*"
+- composer: Panufnik, Roxanna
+  works:
+  - "*Second Home*"
+  - "*Glo*"
+  - "*Modlitwa*, jointly composed with Andrzej Panufnik"
+- composer: Pärt, Arvo
+  works:
+  - "*Für Alina*"
+- composer: Peate, Robert
+  works:
+  - "*Pearl*º"
+- composer: Pointon, Malcolm
+  works:
+  - "*5 Epigrams and an Epiphonema*)"
+- composer: Raftery, Kevin
+  works:
+  - "*Cook from Frozen*"
+- composer: Reeves, Camden
+  works:
+  - "*Notturno*"
+- composer: Samuel, Rhian
+  works:
+  - "*A Garland for Anne*"
+- composer: Saxton, Robert
+  works:
+  - "*Chacony* for left hand alone"
+  - "*Hortus Musicae*, Books 1 and 2º"
+  - "*Sonata*"
+  - "*Lullaby for Rosa*º"
+- composer: Sierra, Arlene
+  works:
+  - "'Black and White Warbler' from *Birds and Insects*, Book 2º"
+- composer: Simaku, Thomas
+  works:
+  - "*Raggio Lunare*"
+- composer: Swayne, Giles
+  works:
+  - "*Bagatelles Nos. 1-4*º"
+- composer: Tabakova, Dobrinka
+  works:
+  - "*Halo*"
+- composer: Takemitsu, Toru
+  works:
+  - "*Rain Tree Sketch II*"
+- composer: Tann, Hilary
+  works:
+  - "*Doppelgänger*"
+- composer: Tavener, John
+  works:
+  - "*Zodiacs*"
+- composer: Turnage, Mark-Anthony Turnage
+  works:
+  - "*True Life Stories*"
+- composer: Vine, Carl
+  works:
+  - "Five Bagatelles"
+- composer: Whalley, Richard
+  works:
+  - "*Five Preludes*"
+- composer: Wiancko, Paul
+  works:
+  - "*Mars Anthem*º"
+- composer: Woolrich, John
+  works:
+  - "Pianobook XI"
+- composer: Miscellaneous
+  works:
+  - "*Aquarelles*: a series of five miniatures written to celebrate the Debussy Centenary by composers James Francis Brown, David Matthews, Peter Fribbins, Alan Mills and Robin Walkerº"
+  - "*Haydn Fantasies for John McCabe*: by composers James Francis Brown, Peter Fribbins, John Hawkins, David Matthews, Alan Mills, Matthew Taylor and Hugh Wood"

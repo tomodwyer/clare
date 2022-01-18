@@ -182,15 +182,9 @@ def project_listing_ctx(metadata, data):
 
 
 def repertoire_ctx(metadata, data):
-    records = []
-    last_composer = None
-    for r in load_tsv(data):
-        r[1] = load_markdown(r[1], False)
-        if last_composer is not None and r[0] == last_composer:
-            records.append(["", r[1]])
-        else:
-            records.append(r)
-        last_composer = r[0]
+    records = load_yaml(data)
+    for r in records:
+        r["works"] = [load_markdown(w, False) for w in r["works"]]
     return {"records": records}
 
 
