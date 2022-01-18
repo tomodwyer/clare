@@ -4,24 +4,26 @@
 {% block content %}
 {% include "nav.html" %}
 
-<div class="container">
+<div class="bg">
+  <div class="container container--bg bg-white position-relative">
 
-  <div id="{{ page_id }}" class="row">
-    {% if main_image %}
-      <div class="col-6 pr-5">
-        <div class="sticky-top">
-          <img src="{% static main_image %}" class="w-100" />
+    <div id="{{ page_id }}" class="page-content row pt-4 fw-light">
+      {% if main_image %}
+        <div class="col-12 col-md-4 col-lg-6 pr-5">
+          <div class="sticky-top main-image">
+            <img src="{% static main_image %}" class="w-100 aside-image" />
+          </div>
         </div>
-      </div>
 
-      <div class="col-6 pl-5">
-        {% include "content.html" %}
-      </div>
-    {% else %}
-      <div class="col-12">
-        {% include "content.html" %}
-      </div>
-    {% endif %}
+        <div class="col pl-5">
+          {% include "content.html" %}
+        </div>
+      {% else %}
+        <div class="col">
+          {% include "content.html" %}
+        </div>
+      {% endif %}
+    </div>
   </div>
 </div>
 {% endblock %}
