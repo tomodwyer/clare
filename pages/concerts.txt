@@ -98,10 +98,10 @@ repertoire = [
   ["Don Juan: the brilliant irreverence of Lord Byron", "", "a concert play of words and music"],
 
 ]
-time_details = "Time tbc."
+time = 20:00:00
 address = "OSO Arts Centre, 49 Station Road, Barnes, London SW13 0LF"
 details = [
-  "Tickets tbc, will be available [online](https://www.osoarts.org.uk/)."
+  "Tickets £15, available [online](https://www.osoarts.org.uk/whats-on)."
 ]
 
 [[concert]]
@@ -112,10 +112,10 @@ repertoire = [
   ["Don Juan: the brilliant irreverence of Lord Byron", "", "a concert play of words and music"],
 
 ]
-time_details = "Time tbc."
+time = 20:00:00
 address = "OSO Arts Centre, 49 Station Road, Barnes, London SW13 0LF"
 details = [
-  "Tickets tbc, will be available [online](https://www.osoarts.org.uk/)."
+  "Tickets £15, available [online](https://www.osoarts.org.uk/whats-on)."
 ]
 
 [[concert]]
