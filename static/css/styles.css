@@ -1,5 +1,7 @@
 body {
+  display: grid;
   font-family: "Josefin Sans";
+  grid-template-rows: auto 1fr;
 }
 
 ul {
@@ -101,6 +103,11 @@ blockquote {
   background-size: cover;
 }
 
+.container--bg {
+  min-height: 100%;
+  padding-bottom: 3rem;
+}
+
 .container--bg::before {
   background-color: white;
   border-left: 2px solid var(--bs-red);
@@ -117,6 +124,7 @@ blockquote {
 .page-content {
   position: relative;
   margin: 0 10px;
+  min-height: 100%;
   z-index: 2;
 }
 
