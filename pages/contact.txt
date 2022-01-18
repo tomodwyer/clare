@@ -1,5 +1,5 @@
 title: Contact
-main_image: philip-gatward/clare-hammond-6-medium.jpg
+main_image: philip-gatward/optimised/clare-hammond-6-medium.jpg
 ---
 type: text
 
@@ -7,8 +7,8 @@ type: text
 
 Ben Rayfield: [email](ben.rayfield@rayfieldallied.com), +44 (0)20 3176 5500 / +44 (0)7976 357636
 
-Francesca Nunn: [email](francesca.nunn@rayfieldallied.com), +44 (0)20 3176 5500 / +44 (0)7597 700233  
- 
+Francesca Nunn: [email](francesca.nunn@rayfieldallied.com), +44 (0)20 3176 5500 / +44 (0)7597 700233
+
 
 Contact Clare directly by [email](info@clarehammond.com), on [Facebook](http://www.facebook.com/clarehammondpiano) or [Twitter](http://twitter.com/clare_pianist). To join Clare's mailing list, please complete the form below.
 
