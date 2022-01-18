@@ -96,11 +96,13 @@ blockquote {
   }
 }
 
-.bg {
-  background: url('../img/background.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+@media (min-width: 576px) {
+  .bg {
+    background: url('../img/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
 }
 
 .container--bg {
@@ -128,8 +130,11 @@ blockquote {
   z-index: 2;
 }
 
-.main-image {
-  top: 1.5rem;
+@media (max-width: 992px) {
+  .main-image {
+    position: sticky;
+    top: 1.5rem;
+  }
 }
 
 @media (max-width: 992px) {
@@ -154,4 +159,11 @@ summary {
 summary:hover,
 summary:focus {
   text-decoration: underline;
+}
+
+iframe {
+  aspect-ratio: 16 / 9;
+  height: 100%;
+  max-width: 560px;
+  width: 100%;
 }
