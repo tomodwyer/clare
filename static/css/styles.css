@@ -187,6 +187,12 @@ body {
   }
 }
 
+@media (min-width: 1400px) {
+  .navbar::before {
+    max-width: 1320px;
+  }
+}
+
 .navbar::after {
   background-color: rgba(255, 255, 255, 0.75);
   border-bottom: 2px solid var(--bs-danger);
