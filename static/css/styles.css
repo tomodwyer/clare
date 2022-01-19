@@ -133,7 +133,7 @@ body {
 @media (min-width: 992px) {
   .page__image-container {
     position: sticky;
-    top: 1.5rem;
+    top: var(--fixed-nav-gap);
   }
 }
 
@@ -148,10 +148,47 @@ body {
 
 .navbar {
   border-bottom: 2px solid var(--bs-danger);
+  background-color: rgba(255, 255, 255, 0.75);
+  padding: 0;
+}
+
+.navbar::before {
+  background-color: rgba(255, 255, 255, 0.75);
+  bottom: -10px;
+  content: " ";
+  height: 8px;
+  left: 50%;
+  position: absolute;
+  width: 100%;
+  transform: translateX(-50%);
+}
+
+@media (min-width: 576px) {
+  .navbar::before {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar::before {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .navbar::before {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .navbar::before {
+    max-width: 1140px;
+  }
 }
 
 .navbar::after {
-  background-color: var(--bs-white);
+  background-color: rgba(255, 255, 255, 0.75);
   border-bottom: 2px solid var(--bs-danger);
   bottom: -10px;
   content: " ";
@@ -159,6 +196,10 @@ body {
   left: 0;
   position: absolute;
   width: 100%;
+}
+
+.navbar > .container {
+  background-color: white;
 }
 
 .navbar-brand {
@@ -185,8 +226,9 @@ body {
 }
 
 @media (min-width: 992px) {
-  .navbar {
-    padding: 1rem 0 0.5rem;
+  .navbar > .container {
+    padding-bottom: 0.5rem;
+    padding-top: 1rem;
   }
 
   .navbar > .container {
@@ -201,7 +243,7 @@ body {
 }
 
 @media (min-width: 1200px) {
-  .navbar {
+  .navbar > .container {
     padding-bottom: 1rem;
   }
 
