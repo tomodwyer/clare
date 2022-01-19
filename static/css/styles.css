@@ -167,3 +167,7 @@ iframe {
   max-width: 560px;
   width: 100%;
 }
+
+ul.repertoire-list {
+  list-style: none;
+}

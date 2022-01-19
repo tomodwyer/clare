@@ -1,0 +1,15 @@
+title: Reviews for Kenneth Hesketh - *Horae (pro clara)*
+main_image: philip-gatward/clare-hammond-6-medium.jpg
+---
+type: review-list
+full: yes
+paths:
+ - hesketh/observer
+ - hesketh/gramophone
+ - hesketh/internationalpiano
+ - hesketh/klassikheute
+ - hesketh/classicalsource
+ - hesketh/classicalear
+ - hesketh/ledisquaire
+ - hesketh/diapason
+ - hesketh/quarterlyreview
