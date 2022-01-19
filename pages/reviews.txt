@@ -4,10 +4,102 @@ main_image: philip-gatward/clare-hammond-6-medium.jpg
 type: review-list
 subtitle: "*[Variations](/reviews/variations/)*"
 full: no
-footer: "[Read more](/reviews/variations/) reviews..."
+footer: "Read more reviews [here](/reviews/variations/) ..."
 paths:
  - variations/telegraph
- - variations/international-piano
+ - variations/internationalpiano
  - variations/gramophone
  - variations/observer
  - variations/times
+ - variations/crescendo
+ - variations/musicwebinternational
+ - variations/bbcmusicmagazine
+ - variations/musicalopinion
+
+---
+type: review-list
+subtitle: "[Josef Myslivecek - Complete Keyboard Works](/reviews/myslivecek/)"
+full: no
+footer: "Read more reviews [here](/reviews/myslivecek/) ..."
+paths:
+ - myslivecek/guardian
+ - myslivecek/times
+ - myslivecek/gramophone
+ - myslivecek/telerama
+ - myslivecek/pianonews
+ - myslivecek/pizzicato
+ - myslivecek/klassikheute
+ - myslivecek/musicwebinternational
+ - myslivecek/europadisc
+
+---
+
+type: review-list
+subtitle: "[Robert Saxton - Piano Music](/reviews/saxton/)"
+full: no
+footer: "Read more reviews [here](/reviews/saxton/) ..."
+paths:
+ - saxton/sundaytimes
+ - saxton/bbcmusicmagazine
+ - saxton/gramophone
+---
+
+type: review-list
+subtitle: "[Kenneth Hesketh - *Horae (pro clara)*](/reviews/hesketh/)"
+full: no
+footer: "Read more reviews [here](/reviews/hesketh/) ..."
+paths:
+ - hesketh/observer
+ - hesketh/gramophone
+ - hesketh/internationalpiano
+ - hesketh/klassikheute
+ - hesketh/classicalsource
+ - hesketh/classicalear
+ - hesketh/ledisquaire
+ - hesketh/diapason
+ - hesketh/quarterlyreview
+
+---
+
+type: review-list
+subtitle: "*[Etude](/reviews/etude/)*"
+full: no
+footer: "Read more reviews [here](/reviews/etude/) ..."
+paths:
+ - etude/gramophone
+ - etude/bbcmusicmagazine
+ - etude/sundaytimes
+ - etude/observer
+ - etude/diapason
+ - etude/klassikheute
+ - etude/fanfareusa
+ - etude/americanrecordguide
+
+---
+
+type: review-list
+subtitle: "[*Reflections* - the solo piano works of Andrzej and Roxanna Panufnik](/reviews/reflections/)"
+full: no
+footer: "Read more reviews [here](/reviews/reflections/) ..."
+paths:
+ - reflections/gramophonerussia
+ - reflections/fanfareusa
+ - reflections/gramophone
+ - reflections/bbcmusicmagazine
+ - reflections/internationalpiano
+ - reflections/americanrecordguide
+ - reflections/diapason
+ - reflections/klassik
+ - reflections/muzyka21
+
+
+
+
+
+
+
+
+
+
+
+

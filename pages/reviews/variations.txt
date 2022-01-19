@@ -5,7 +5,11 @@ type: review-list
 full: yes
 paths:
  - variations/telegraph
- - variations/international-piano
+ - variations/internationalpiano
  - variations/gramophone
  - variations/observer
  - variations/times
+ - variations/crescendo
+ - variations/musicwebinternational
+ - variations/bbcmusicmagazine
+ - variations/musicalopinion

@@ -1,0 +1,15 @@
+title: Reviews for *Reflections* - the solo piano works of Andrzej and Roxanna Panufnik
+main_image: philip-gatward/clare-hammond-6-medium.jpg
+---
+type: review-list
+full: yes
+paths:
+ - reflections/gramophonerussia
+ - reflections/fanfareusa
+ - reflections/gramophone
+ - reflections/bbcmusicmagazine
+ - reflections/internationalpiano
+ - reflections/americanrecordguide
+ - reflections/diapason
+ - reflections/klassik
+ - reflections/muzyka21
