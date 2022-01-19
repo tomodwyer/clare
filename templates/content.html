@@ -8,7 +8,7 @@
 {% endif %}
 
 {% for section in sections %}
-  <div id="content" class="prose section {{ section.section_id }}">
+  <div id="content" class="content__prose section {{ section.section_id }}">
     {% if section.subtitle %}
       <h2{% if section.id %} id="{{ section.id }}"{% endif %}>{{ section.subtitle }}</h2>
     {% endif %}

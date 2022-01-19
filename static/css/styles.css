@@ -1,38 +1,45 @@
+/* Global */
+html,
 body {
+  min-height: 100vh;
+}
+
+@media (min-width: 576px) {
+  html {
+    background: url("../img/background.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+body {
+  background: transparent;
   display: grid;
   font-family: "Josefin Sans";
-  grid-template-rows: auto 1fr;
+  grid-template-rows: 1fr;
 }
 
-ul {
-  list-style-type: "▸  ";
+/* Custom properties */
+:root {
+  --fixed-nav-gap: 72px;
 }
 
-img {
-  display: block;
+@media (min-width: 992px) {
+  :root {
+    --fixed-nav-gap: 7.5rem;
+  }
 }
 
-.concert ul {
-  list-style-type: none;
+@media (min-width: 1200px) {
+  :root {
+    --fixed-nav-gap: 5.5rem;
+  }
 }
 
-.composer-name {
-  font-weight: 400;
-}
-
-blockquote {
-  padding-left: 50px;
-}
-
-.prose a {
-  color: currentColor;
-  font-weight: 500;
-  text-decoration: none;
-}
-
-.prose a:hover,
-.prose a:focus {
-  text-decoration: underline;
+/* Home page */
+.home {
+  background-color: white;
 }
 
 .home__bg {
@@ -46,10 +53,10 @@ blockquote {
 
 .home__prose {
   color: var(--bs-body-color);
-  font-weight: 300;
   font-size: 1.2rem;
-  max-width: 65ch;
+  font-weight: 300;
   margin: 0 auto;
+  max-width: 65ch;
   padding-top: 2rem;
 }
 
@@ -63,15 +70,15 @@ blockquote {
   }
 
   .home__bg {
+    background-position-x: 33%;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position-x: 33%;
-    display: flex;
-    position: absolute;
-    top: 0;
     bottom: 0;
+    display: flex;
     left: 0;
+    position: absolute;
     right: 0;
+    top: 0;
   }
 
   .home__content {
@@ -96,49 +103,42 @@ blockquote {
   }
 }
 
+/* Inner pages */
+.page__container {
+  background-color: var(--bs-white);
+  min-height: 100%;
+}
+
+.page__content {
+  border-left: 2px solid var(--bs-red);
+  border-right: 2px solid var(--bs-red);
+  font-weight: 300;
+  margin: 0;
+  min-height: 100%;
+  padding: 72px 0 3rem;
+}
+
 @media (min-width: 576px) {
-  .bg {
-    background: url('../img/background.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+  .page__content {
+    padding-top: var(--fixed-nav-gap);
   }
 }
 
-.container--bg {
-  min-height: 100%;
-  padding-bottom: 3rem;
+@media (min-width: 767px) {
+  .page__content {
+    padding-top: calc(var(--fixed-nav-gap) + 1.5rem);
+  }
 }
 
-.container--bg::before {
-  background-color: white;
-  border-left: 2px solid var(--bs-red);
-  border-right: 2px solid var(--bs-red);
-  bottom: 0;
-  content: " ";
-  height: 100%;
-  left: 4px;
-  position: absolute;
-  width: calc(100% - 8px);
-  z-index: 0;
-}
-
-.page-content {
-  position: relative;
-  margin: 0 10px;
-  min-height: 100%;
-  z-index: 2;
-}
-
-@media (max-width: 992px) {
-  .main-image {
+@media (min-width: 992px) {
+  .page__image-container {
     position: sticky;
     top: 1.5rem;
   }
 }
 
 @media (max-width: 992px) {
-  .aside-image {
+  .page__image {
     aspect-ratio: 1;
     margin-bottom: 1.5rem;
     object-fit: cover;
@@ -146,24 +146,120 @@ blockquote {
   }
 }
 
-details {
+.navbar {
+  border-bottom: 2px solid var(--bs-danger);
+}
+
+.navbar::after {
+  background-color: var(--bs-white);
+  border-bottom: 2px solid var(--bs-danger);
+  bottom: -10px;
+  content: " ";
+  height: 8px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.navbar-brand {
+  font-weight: 300;
+  line-height: 1;
+  padding: 0.25rem 0 0;
+  text-transform: uppercase;
+}
+
+.home__container {
+  margin-top: var(--fixed-nav-gap);
+  position: relative;
+}
+
+@media (min-width: 576px) {
+  .navbar-brand {
+    font-size: 2rem;
+    padding-top: 0.33rem;
+  }
+
+  .home__container {
+    margin-top: var(--fixed-nav-gap);
+  }
+}
+
+@media (min-width: 992px) {
+  .navbar {
+    padding: 1rem 0 0.5rem;
+  }
+
+  .navbar > .container {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .navbar-brand {
+    padding-bottom: 0.5rem;
+    padding-top: 0.125rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .navbar {
+    padding-bottom: 1rem;
+  }
+
+  .navbar-brand {
+    padding-bottom: 0;
+  }
+}
+
+/* Content */
+.content__prose details {
   margin-bottom: 1.5rem;
 }
 
-summary {
+.content__prose summary {
   font-weight: 500;
   padding-bottom: 0.5rem;
   padding-top: 0.5rem;
 }
 
-summary:hover,
-summary:focus {
+.content__prose summary:hover,
+.content__prose summary:focus {
   text-decoration: underline;
 }
 
-iframe {
+.content__prose iframe {
   aspect-ratio: 16 / 9;
   height: 100%;
   max-width: 560px;
   width: 100%;
+}
+
+.content__prose ul {
+  list-style-type: "▸  ";
+}
+
+.content__prose img {
+  display: block;
+}
+
+.content__prose .concert ul {
+  list-style-type: none;
+}
+
+.content__prose .composer-name {
+  font-weight: 400;
+}
+
+.content__prose blockquote {
+  padding-left: 50px;
+}
+
+.content__prose a {
+  color: currentColor;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.content__prose a:hover,
+.content__prose a:focus {
+  text-decoration: underline;
 }
