@@ -263,3 +263,7 @@ body {
 .content__prose a:focus {
   text-decoration: underline;
 }
+
+.content__prose .repertoire-list {
+  list-style: none;
+}

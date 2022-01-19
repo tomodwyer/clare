@@ -1,72 +1,105 @@
 title: Reviews
 main_image: philip-gatward/clare-hammond-6-medium.jpg
 ---
-type: text
-subtitle: Variations
----
-type: review
-publication: Telegraph
-quote: Hammond keeps us enthralled to the last bar
-reviewer: Ivan Hewett
-
-Some pianists charm and caress you with subtle shadings and half-tones, some seize you by the scruff with steely-fingered decisiveness.
-
-Clare Hammond is definitely one of the latter sort. Her latest album, an exploration of the art of variation – i.e. ringing ever-more elaborate changes on a pattern or melody announced at the beginning – certainly shows off that aspect of her talent. It avoids the familiar masters of the genre like Beethoven and Schumann, focusing instead on 20th and 21st-century pieces.
-
-Among them is the Variations by Aaron Copland, a piece that will instantly disabuse anyone of the idea that Copland was just a purveyor of cheerful, all-American folksiness. Its pitiless, hard-edged abstraction made it a favourite of Leonard Bernstein, who took a mischievous delight in emptying the room at swanky Manhattan parties by playing it at full volume. Hammond makes it seem as huge and steely as the Brooklyn Bridge, but without resorting to sheer force. She balances the sonorities carefully, so we can hear the original idea gleaming through all the dissonant barbed-wire Copland erects around it.
-
-The same combination of power and dramatic sweep with careful attention to detail can be heard in the other pieces. In the craggy, immense Chaconne by Russian composer Sofia Gubaidulina she allows no respite from the drama, which builds in waves of rising and falling tension to the final dénouement. She softens the sinews of Hindemith’s severe 1936 Variations with subtle tempo variations, and brings a nice sense of cat-like stealth to Birtwistle’s Variations on the Golden Mountain.
-
-Not everything is hard and monumental. John Adams’s I Still Play has a diffident waltz-like charm. And the Variations on a Polish Theme by Karol Szymanowski is as far from Copland as you could imagine. The piece is in his most impressionist, sensuous vein, and Hammond responds with a delicate but still firmly shaped touch, and a deft use of pedal that reveals the bones under all the luxurious flesh. It may not be a masterpiece but Hammond keeps us enthralled to the last bar.
+type: review-list
+subtitle: "*[Variations](/reviews/variations/)*"
+full: no
+footer: "Read more reviews [here](/reviews/variations/) ..."
+paths:
+ - variations/telegraph
+ - variations/internationalpiano
+ - variations/gramophone
+ - variations/observer
+ - variations/times
+ - variations/crescendo
+ - variations/musicwebinternational
+ - variations/bbcmusicmagazine
+ - variations/musicalopinion
 
 ---
-type: review
-publication: International Piano
-quote: a questing, highly intelligent pianist... stunningly recorded at the height of her powers
-reviewer: Colin Clarke
-
-This is an impeccably programmed album of variations from the 20th and 21st centuries. The Szymanowski Variations on a Polish Theme holds whole worlds of contrasts within its lushness (including a notably dark 'Marcia funèbre'). This is set in relief against the almost Bachian purity of the Lachenmann-Schubert, based on an Ecossaise (D643). Hammond perfectly captures the spirit of the dance in its modernist garb, finding lyricism in the most disjunct lines.
-
-Birtwistle's Variations from the Golden Mountain and John Adams' I Still Play are tributes to Bach's Goldbergs. The Birtwistle is laudably unhurried, with Hammond again finding beauty in dissonance. Adams' music is less memorable (the composer has described it as 'Satie meets Bill Evans') but receives a stunningly uncompromising performance. Hindemith's elusive Variations are the perfect prolongation, their impeccable craftsmanship reminding us of this wonderful composer's stature.
-
-Closing with Gubaidulina's virtuoso Chaconne is a brave move, but it pays off. A companion to Hammond's 2014 Etude album, Variations reveals a questing, highly intelligent pianist with a superb technique stunningly recorded at the height of her powers.
-
----
-type: review
-publication: Gramophone
-quote: a pianist of extraordinary gifts
-reviewer: Patrick Rucker
-
-In a relatively short time, Clare Hammond has established herself as a pianist of impressive abilities who avidly explores repertory of the past century, along with the music of her contemporaries. Her interesting new BIS recording encompasses variations of many types, composed between 1910 and 2017 by Polish, German, Russian, British and American composers.
-
-Hammond’s special affinity for Polish music is amply evident in her performance of Variations on a Polish Theme, written when Szymanowski was still a student in Warsaw. Without stinting on the work’s essentially late-Romantic virtuoso elements – Heinrich Neuhaus and Arthur Rubinstein were, after all, early Szymanowski champions – Hammond’s performance highlights the many elements of the composer’s mature style already in evidence. Her considerable virtuosity is given even fuller rein in Sofia Gubaidulina’s Chaconne, dating from roughly half a century later. Hammond renders this almost relentlessly vertical piece deeply expressive by the skilful voicing of its massive chords.
-
-Another early work is the Five Variations on a Theme of Franz Schubert by Helmut Lachenmann (born in Stuttgart in 1935), which uses Schubert’s Écossaise, D643, to seemingly demonstrate the composer’s distance from, rather than proximity to, the early 19th-century master. Hindemith’s Variations from 1936, perhaps the most beautiful music on the recording, is played with great insight and finesse.
-
-In Harrison Birtwistle’s terse, almost pointillist Variations from the Golden Mountain, Hammond finds proportion and meaning in the most isolated sounds. If John Adams’s I Still Play, written as a retirement gift for the head of Nonesuch Records, is slight in both means and portent, Hammond discerns just the right mode for its forthright sincerity. Aaron Copland’s Piano Variations is surely his masterpiece for the instrument. Hammond’s grasp of this formidable intellectual edifice is secure throughout, abetted by a beguiling colour palette, unfailing textural clarity and plenty of rhythmic vigour.
-
-Ultimately this is a richly wide-ranging, deftly chosen programme, exhibiting intellectual curiosity and probity, played by a pianist of extraordinary gifts. Hammond also supplies her own keenly intelligent annotations. Highly recommended.
+type: review-list
+subtitle: "[Josef Myslivecek - Complete Keyboard Works](/reviews/myslivecek/)"
+full: no
+footer: "Read more reviews [here](/reviews/myslivecek/) ..."
+paths:
+ - myslivecek/guardian
+ - myslivecek/times
+ - myslivecek/gramophone
+ - myslivecek/telerama
+ - myslivecek/pianonews
+ - myslivecek/pizzicato
+ - myslivecek/klassikheute
+ - myslivecek/musicwebinternational
+ - myslivecek/europadisc
 
 ---
-type: review
-publication: The Observer
-quote: the displays of invention can be dazzling, especially in the way Hammond programmes them
-reviewer: Fiona Maddocks
 
-Pianist Clare Hammond has a knack of mixing repertoire to revealing effect. Her latest album, Variations (BIS), is a sequence of seven sets of 20th- and 21st-century variations. The description of the form – a theme repeated many times with modifications – may seem unpromising, but the displays of invention can be dazzling, especially in the way Hammond programmes them.
+type: review-list
+subtitle: "[Robert Saxton - Piano Music](/reviews/saxton/)"
+full: no
+footer: "Read more reviews [here](/reviews/saxton/) ..."
+paths:
+ - saxton/sundaytimes
+ - saxton/bbcmusicmagazine
+ - saxton/gramophone
+---
 
-Harrison Birtwistle’s From the Golden Mountain (a reference to Bach’s Goldberg Variations), stark, explosive, on a tight rein, is followed by John Adams’s I Still Play, allusive, fluent and also inspired by the Goldbergs. In addition to Szymanowski’s monumental Variations on a Polish Theme, Helmut Lachenmann’s 5 Variations on a Theme of Franz Schubert, and works by Copland and Hindemith, the high point is the grand finale: Sofia Gubaidulina’s ambitious Chaconne (1963). Hammond has given us an ear-bending and virtuosic recital.
+type: review-list
+subtitle: "[Kenneth Hesketh - *Horae (pro clara)*](/reviews/hesketh/)"
+full: no
+footer: "Read more reviews [here](/reviews/hesketh/) ..."
+paths:
+ - hesketh/observer
+ - hesketh/gramophone
+ - hesketh/internationalpiano
+ - hesketh/klassikheute
+ - hesketh/classicalsource
+ - hesketh/classicalear
+ - hesketh/ledisquaire
+ - hesketh/diapason
+ - hesketh/quarterlyreview
 
 ---
-type: review
-publication: The Times
-quote: a player of immense power, tightly harnessed now to the moment’s expressive needs
-reviewer: Geoff Brown
 
-I once reviewed an early concert appearance by the British pianist Clare Hammond and found her a brute force, prone to “full-tilt hammering”. In her mid-thirties Hammond still exudes the air of someone who sprinkles her morning cereal with iron filings, but these days her hard determination lies less in the fingers than in her rigorous appetite for unfamiliar music. An album of esoteric piano études has been followed by this adventurous selection of variations composed between 1904 and 2017.
+type: review-list
+subtitle: "*[Etude](/reviews/etude/)*"
+full: no
+footer: "Read more reviews [here](/reviews/etude/) ..."
+paths:
+ - etude/gramophone
+ - etude/bbcmusicmagazine
+ - etude/sundaytimes
+ - etude/observer
+ - etude/diapason
+ - etude/klassikheute
+ - etude/fanfareusa
+ - etude/americanrecordguide
 
-Although the fingers hammer no longer, she remains a player of immense power, tightly harnessed now to the moment’s expressive needs, whether that’s a virtuoso storming of the keys or the lingering resonance of an isolated bass note.
+---
 
-The most fully satisfying pieces, Szymanowski’s Variations on a Polish Theme and Sofia Gubaidulina’s imposing Chaconne, a student piece, are also the most changeable in mood, while Copland’s craggy 1930 Variations stand out for being almost terrifyingly blunt and monolithic.
+type: review-list
+subtitle: "[*Reflections* - the solo piano works of Andrzej and Roxanna Panufnik](/reviews/reflections/)"
+full: no
+footer: "Read more reviews [here](/reviews/reflections/) ..."
+paths:
+ - reflections/gramophonerussia
+ - reflections/fanfareusa
+ - reflections/gramophone
+ - reflections/bbcmusicmagazine
+ - reflections/internationalpiano
+ - reflections/americanrecordguide
+ - reflections/diapason
+ - reflections/klassik
+ - reflections/muzyka21
 
-Nothing Hammond does can win me over to the bristle of her Birtwistle or the dry mechanics of 1930s Hindemith. Yet you still emerge from this album largely refreshed and enlightened by her formidable technique, lack of preening and insatiable repertoire probing. And her neatest discovery? Surely it’s Helmut Lachenmann’s unusually benign Schubert Variations of 1956, an early work that never once suggests his later amazing activities subjecting instrumental sounds to the equivalent of vivisection.
+
+
+
+
+
+
+
+
+
+
+

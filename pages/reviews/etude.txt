@@ -1,0 +1,14 @@
+title: Reviews for *Etude*
+main_image: philip-gatward/clare-hammond-6-medium.jpg
+---
+type: review-list
+full: yes
+paths:
+ - etude/gramophone
+ - etude/bbcmusicmagazine
+ - etude/sundaytimes
+ - etude/observer
+ - etude/diapason
+ - etude/klassikheute
+ - etude/fanfareusa
+ - etude/americanrecordguide

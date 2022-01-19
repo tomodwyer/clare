@@ -1,21 +1,806 @@
 title: Chamber Repertoire
 main_image: philip-gatward/clare-hammond-6-medium.jpg
 ---
-type: repertoire
-subtitle: Trios
+type: text
 
-Beethoven, Ludwig van	Piano Trio No. 1 in E flat major, Op. 1 No. 1
-Beethoven, Ludwig van	Piano Trio No. 2 in G major, Op. 1 No. 2
-Beethoven, Ludwig van	Piano Trio No. 3 in C minor, Op. 1 No. 3
-Beethoven, Ludwig van	Piano Trio No. 5 in D major, Op. 70 'Ghost'
-Bloch, Ernest	Three Nocturnes
-Brahms, Johannes	Piano Trio No. 1 in B, Op. 8
-Brahms, Johannes	Piano Trio No. 2 in C, Op. 87
-Brahms, Johannes	Horn Trio in E flat major, Op. 40
-Brahms, Johannes	Clarinet Trio in A minor, Op. 114
+* [Trios](#trios)
+* [Two Piano / Duet](#two-piano-duet)
+* [Piano and Violin](#piano-and-violin)
+* [Piano and Viola](#piano-and-viola)
+* [Piano and Cello](#piano-and-cello)
+* [Piano and Flute](#piano-and-flute)
+* [Piano and Trumpet](#piano-and-trumpet)
+* [Piano and Clarinet](#piano-and-clarinet)
+* [Piano and Oboe](#piano-and-oboe)
+* [Quartets and Quintets](#quartets-and-quintets)
+* [Song](#song)
+* [Mixed Ensemble](#mixed-ensemble)
 
 ---
 type: repertoire
-subtitle: Two piano / duet
+subtitle: Trios
 
-Arensky, Anton	*Valse*, from Suite No. 1, Op. 15
+- composer: Beethoven, Ludwig van
+  works:
+  - "Piano Trio No. 1 in E flat major, Op. 1 No. 1"
+  - "Piano Trio No. 2 in G major, Op. 1 No. 2"
+  - "Piano Trio No. 3 in C minor, Op. 1 No. 3"
+  - "Piano Trio No. 5 in D major, Op. 70 'Ghost'"
+
+- composer: Bloch, Ernest
+  works:
+  - "Three Nocturnes"
+
+- composer: Brahms, Johannes
+  works:
+  - "Piano Trio No. 1 in B, Op. 8"
+  - "Piano Trio No. 2 in C, Op. 87"
+  - "Horn Trio in E flat major, Op. 40"
+  - "Clarinet Trio in A minor, Op. 114"
+
+- composer: Bridge, Frank
+  works:
+  - "Piano Trio No. 1 in C minor, “Phantasie”"
+
+- composer: Dvorák, Antonín
+  works:
+  - "Piano Trio No. 4 in E minor, Op. 90 'Dumky'"
+
+- composer: Farrenc, Louise
+  works:
+  - "Piano Trio in E flat major, Op. 33"
+
+- composer: Fauré, Gabriel
+  works:
+  - "Piano Trio No. 1 in D minor, Op. 120"
+
+- composer: Françaix, Jean
+  works:
+  - "Trio for Clarinet, Viola and Piano"
+
+- composer: Haydn, Joseph
+  works:
+  - "Piano Trio in A flat major, Hob XV:14"
+  - "Trio No. 25 in G major, Hob XV: 25 'Gypsy Rondo'"
+
+- composer: Ireland, John
+  works:
+  - "Piano Trio No. 2"
+
+- composer: Keeling, Andrew
+  works:
+  - "Piano Trio 'Unquiet Earth'"
+
+- composer: Martinu, Bohuslav
+  works:
+  - "*Cinq Pièces brèves* (Piano Trio No. 1, H193)"
+
+- composer: Matthews, David
+  works:
+  - "Piano Trio No. 2"
+
+- composer: Mendelssohn, Felix
+  works:
+  - "Piano Trio No. 1 in D minor, Op. 49"
+
+- composer: Mozart, W. A.
+  works:
+  - "Trio KV 498 'Kegelstatt', for Clarinet, Viola and Piano"
+  - "Piano Trio No. 6 in G major, K. 564"
+
+- composer: Panufnik, Andrzej
+  works:
+  - "Piano Trio"
+
+- composer: Ravel, Maurice
+  works:
+  - "Piano Trio"
+
+- composer: Samuel, Rhian
+  works:
+  - "*Phantasy Trio*, for piano trio"
+
+- composer: Schubert, Franz
+  works:
+  - "Piano Trio No. 1 in B flat major, Op.99, D898 "
+
+- composer: Schumann, Robert
+  works:
+  - "Märchenerzählungen Op. 132, for Clarinet, Viola and Piano"
+  - "Piano Trio No. 2, Op. 80"
+
+- composer: Stravinsky, Igor
+  works:
+  - "Suite from *L'Histoire du Soldat* for clarinet, violin and piano"
+
+---
+type: repertoire
+subtitle: Two Piano / Duet
+
+- composer: Arensky, Anton
+  works:
+  - "*Valse*, from Suite No. 1, Op. 15"
+
+- composer: Bach, J. S.
+  works:
+  - "'Sheep May Safely Graze' (arr. Howe)"
+
+- composer: Bartók, Béla
+  works:
+  - "Seven pieces from “Mikrokosmos”"
+
+- composer: Bax, Arnold
+  works:
+  - "*The Poisoned Fountain*"
+
+- composer: Berkeley, Lennox
+  works:
+  - "*Polka*"
+
+- composer: Brahms, Johannes
+  works:
+  - "*Hungarian Dances* (selection)"
+  - "*Variations on a Theme by Robert Schumann*, Op. 23"
+
+- composer: Copland, Aaron
+  works:
+  - "*Danzón Cubano*"
+
+- composer: Da Falla, Manuel
+  works:
+  - "*La Vida Breve*: Spanish Dance No. 1 (arr. Kovacs)"
+
+- composer: Debussy, Claude
+  works:
+  - "*Petite Suite*"
+  - "*En blanc et noir*"
+
+- composer: Goehr, Alexander
+  works:
+  - "7 Impromptus"
+
+- composer: Granados, Enrique
+  works:
+  - "'The Lover and the Nightingale' from *Goyescas* (arr. Bartlett & Robertson)"
+
+- composer: Holloway, Robin
+  works:
+  - "*Silvered Schubert*"
+
+- composer: Lutoslawski, Witold
+  works:
+  - "*Paganini variations* (1941)"
+
+- composer: Mozart, W. A.
+  works:
+  - "Sonata in D, K. 448"
+
+- composer: Poulenc, Francis
+  works:
+  - "Sonata (1953)"
+
+- composer: Rachmaninov, Sergei
+  works:
+  - "*Symphonic Dances*, Op. 45"
+  - "Suite No. 2, Op. 17"
+
+- composer: Schumann, Robert
+  works:
+  - "Andante and Variations Op. 46 "
+
+---
+type: repertoire
+subtitle: Piano and Violin
+
+- composer: Beethoven, Ludwig can
+  works:
+  - "Sonata No. 1 in D major Op. 12 No. 1"
+  - "Sonata No. 5 in F major Op. 24 'Spring'"
+  - "Sonata No. 6 in A major Op. 30 No. 1"
+  - "Sonata No. 9 in A major Op. 47 'Kreutzer'"
+  - "Sonata No. 10 in G major, Op. 96"
+  - "Romances Op. 40 and Op. 50"
+
+- composer: Bernstein, Leonard arr. Stern, Eric
+  works:
+  - "4 Moments from Candide"
+
+- composer: Brahms, Johannese
+  works:
+  - "Sonata No. 1 in G major, Op. 78"
+  - "Sonata No. 3 in D minor, Op. 108"
+  - "Scherzo in C minor, WoO 2"
+  - "*Hungarian Dances*, Nos. 1, 13 and 14"
+
+- composer: Chausson, Ernest
+  works:
+  - "*Poème*"
+
+- composer: Corelli, Arcangelo
+  works:
+  - "Sonata No. 12, 'La Folia'"
+
+- composer: Debussy, Claude
+  works:
+  - "Sonata in G minor for violin and piano"
+
+- composer: Duddell, Joe
+  works:
+  - "*All Stars Aligned*"
+
+- composer: Fauré, Gabriel
+  works:
+  - "Sonata No. 1 in A, Op. 13 (1876)"
+  - "Sonata No. 2 in E minor, Op. 108 (1916)"
+
+- composer: Franck, César
+  works:
+  - "Sonata in A major"
+
+- composer: Gershwin, George / Frolov, Igor
+  works:
+  - "Concert Fantasy on Themes from Porgy and Bess"
+
+- composer: Grieg, Edvard
+  works:
+  - "Sonata No. 1 in F major, Op. 8"
+  - "Sonata No. 3 in C minor, Op. 45"
+
+- composer: Gurney, Ivor
+  works:
+  - "*The Apple Orchard*"
+  - "*Scherzo*"
+
+- composer: Heath, John R.
+  works:
+  - "*In The Heart of the Country*"
+
+- composer: Howells, Herbert
+  works:
+  - "3 Pieces (1917)"
+
+- composer: Janáček, Leoš
+  works:
+  - "Sonata"
+
+- composer: Kraggerud, Henning
+  works:
+  - "*Equinox*"
+
+- composer: Lutoslawski, Witold
+  works:
+  - "*Subito*"
+
+- composer: Macmillan, James
+  works:
+  - "*Kiss on Wood*"
+
+- composer: Matthews, David
+  works:
+  - "*Aria*"
+
+- composer: Mckay, Deirdre
+  works:
+  - "*a quarter million miles from the moon*"
+
+- composer: Mozart, W. A. 
+  works:
+  - "Sonatas in G major K. 301 and in E minor K. 304"
+
+- composer: Phibbs, Joseph
+  works:
+  - "Sonata for violin and piano"
+
+- composer: Prokofiev, Sergei
+  works:
+  - "Sonata No. 2 in D, Op. 94"
+
+- composer: Ravel, Maurice
+  works:
+  - "Sonata in G"
+  - "*Tzigane* 'Rapsodie de Concert'"
+
+- composer: Sarasate, Pablo
+  works:
+  - "*Zigeunerweisen*"
+
+- composer: Saxton, Robert
+  works:
+  - "*Suite* (2018)"
+
+- composer: Schubert, Franz
+  works:
+  - "Sonata in D (Sonatina), D. 384"
+
+- composer: Schumann, Clara
+  works:
+  - "3 Romances, Op. 22"
+
+- composer: Schumann, Rrobert
+  works:
+  - "Sonata in D minor, Op. 121"
+
+- composer: Scott, Cyril
+  works:
+  - "*Lotus Land*, Op. 47 No. 1"
+
+- composer: Stanhope, Paul
+  works:
+  - "*Agnus Dei*"
+
+- composer: Strauss, Richard
+  works:
+  - "Sonata in E flat major, Op. 18"
+
+- composer: Stravinsky, Igor
+  works:
+  - "*Suite Italienne*"
+
+- composer: Svendsen, Johan
+  works:
+  - "*Romance*, Op. 26"
+
+- composer: Tchaikovsky, Pyotr
+  works:
+  - "*Waltz Scherzo*"
+
+- composer: Venables, Ian
+  works:
+  - "3 Pieces (1986)"
+
+- composer: Williams, Grace
+  works:
+  - "Sonata (1930)"
+
+---
+type: repertoire
+subtitle: Piano and Viola
+
+- composer: Clarke, Rebecca
+  works:
+  - "Sonata for viola and piano"
+
+- composer: Prokofiev, Sergei
+  works:
+  - "*Romeo and Juliet Suite* (selection)"
+
+- composer: Vaughan-Williams, Ralph
+  works:
+  - "*Romance*"
+
+---
+type: repertoire
+subtitle: Piano and Cello
+
+- composer: Barber, Samuel
+  works:
+  - "Sonata"
+
+- composer: Beamish, Sally
+  works:
+  - "*Bridging the Day* (1998)"
+
+- composer: Beethoven, Ludwig van
+  works:
+  - "Sonata No. 3 in A major, Op. 69"
+  - "Sonata No. 4 in C major, Op. 102 No. 1"
+  - "Sonata No. 5 in D major, Op. 102 No. 2"
+  - "Variations in G on a theme by Handel, WoO45"
+
+- composer: Brahms, Johannes
+  works:
+  - "Sonata No. 1 in E minor, Op. 38"
+  - "Sonata No. 2 in F major, Op. 99"
+
+- composer: Britten, Benjamin
+  works:
+  - "Sonata in C major, Op. 65"
+
+- composer: Bloch, Ernest
+  works:
+  - "*From Jewish Life*"
+
+- composer: Brown, James Francis
+  works:
+  - "*Prospero's Isle*, for cello, piano and narrator"
+
+- composer: Bruch, Max
+  works:
+  - "*Kol Nidrei*"
+
+- composer: Debussy, Claude
+  works:
+  - "Cello Sonata"
+
+- composer: Dvorák, Antonín
+  works:
+  - "*Silent Woods*"
+
+- composer: Fauré, Gabriel
+  works:
+  - "Sonata  No. 1 Op. 109"
+
+- composer: Goehr, Alexander
+  works:
+  - "Sonata Op. 45 (1984)"
+
+- composer: Harper, Edward
+  works:
+  - "*In Memoriam* (1992)"
+
+- composer: Janáček, Leoš
+  works:
+  - "*Pohádka*"
+
+- composer: Martinu, Bohuslav
+  works:
+  - "Variations on a Slovak Theme, H. 378"
+
+- composer: Matthews, Colin
+  works:
+  - "Five Duos (1987)"
+
+- composer: Mendelssohn, Felix
+  works:
+  - "'Adagio' from Cello Sonata No. 2"
+
+- composer: Poulenc, Francis
+  works:
+  - "Sonate, Op. 143"
+
+- composer: Rachmaninov, Sergei
+  works:
+  - "Sonata in G minor, Op. 19"
+
+- composer: Samuel, Rhian
+  works:
+  - "*Time out of Time*"
+
+- composer: Schubert, Franz
+  works:
+  - "Sonata in A major, D. 821 'Arpeggione'"
+
+- composer: Schumann, Robert
+  works:
+  - "Adagio and Allegro, Op. 70"
+  - "*Fantasiestücke* Op. 73"
+  - "*Fünf Stücke im Volkston* Op. 102"
+  - "*Märchenbilder Op. 113*"
+
+- composer: Strauss, Richard
+  works:
+  - "Sonata Op. 6"
+
+---
+type: repertoire
+subtitle: Piano and Flute
+
+- composer: Bach, J. S.
+  works:
+  - "Sonata in G minor, BWV 1020"
+
+- composer: Dutilleux, Henri
+  works:
+  - "Sonatine"
+
+- composer: Myslivecek, Josef
+  works:
+  - "Adagio"
+
+- composer: Piazzolla, Astor
+  works:
+  - "Histoire du Tango"
+
+- composer: Poulenc, Francis
+  works:
+  - "Sonate"
+
+- composer: Saint-Saëns, Camille
+  works:
+  - "*Romance*"
+
+- composer: Schubert, Franz
+  works:
+  - "Variations on Trockne Blumen, D. 802"
+
+- composer: Vanhal, Johann Baptist
+  works:
+  - "Sonata in C major"
+
+- composer: Widor, Charles-Marie
+  works:
+  - "Suite, Op. 14"
+
+---
+type: repertoire
+subtitle: Piano and Trumpet
+
+- composer: Bedford, Luke
+  works:
+  - "*Three Caves* (2015)"
+
+- composer: Escaich, Escaich
+  works:
+  - "Tanz-Fantasie"
+
+- composer: Hindemith, Paul
+  works:
+  - "Sonata"
+
+- composer: Hoddinott, Alun
+  works:
+  - "Rondo scherzoso"
+
+- composer: Maxwell Davies, Peter
+  works:
+  - "Sonata Op. 1"
+
+- composer: McCabe, John
+  works:
+  - "Sonata after William Byrd's 'Haec Dies'"
+
+- composer: Nyman, Michael
+  works:
+  - "In Re (for Flugelhorn)"
+
+- composer: Pritchard, Deborah
+  works:
+  - "*Seven Pieces After the Somme* (2014)"
+
+- composer: Roxburgh, Edwin
+  works:
+  - "*Pro Patria Mori* (2014)"
+
+- composer: Skalkottas, Nikos
+  works:
+  - "Concertino"
+
+- composer: Sutermeister, Heinrich
+  works:
+  - "Gavotte de Concert"
+
+- composer: Yardley, Tomas
+  works:
+  - "*Anaphora*"
+
+---
+type: repertoire
+subtitle: Piano and Clarinet
+
+- composer: Debussy, Claude
+  works:
+  - "*Première Rhapsodie*"
+
+- composer: Finzi, Gerald
+  works:
+  - "*Five Bagatelles*"
+
+- composer: Horovitz, Joseph
+  works:
+  - "*Sonatina*"
+
+- composer: Poulenc, Francis
+  works:
+  - "Clarinet Sonata"
+
+- composer: Weber, Carl Maria von
+  works:
+  - "7 Variations in B flat, Op. 33"
+
+---
+type: repertoire
+subtitle: Piano and Oboe
+
+- composer: Dutilleux, Henri
+  works:
+  - "Oboe Sonata"
+
+- composer: Cruttwell-Reade, Ninfea
+  works:
+  - "*Ravens’ Cage*"
+
+- composer: Dorati, Antal
+  works:
+  - "*Duo Concertante*"
+
+- composer: Hyde, Thomas
+  works:
+  - "*Winter Music*"
+
+- composer: Kalliwoda, Johann Baptist
+  works:
+  - "*Morceau de Salon*, Op. 228"
+
+- composer: Lutoslawski, Witold
+  works:
+  - "*Epitaph*"
+
+- composer: Poulenc, Francis
+  works:
+  - "Oboe Sonata"
+
+- composer: Saint-Saëns, Camille
+  works:
+  - "Oboe Sonata, Op. 166"
+
+- composer: Saxton, Robert
+  works:
+  - "*Arias*"
+
+
+---
+type: repertoire
+subtitle: Piano Quartets and Quintets
+
+- composer: Alwyn, William
+  works:
+  - "*Rhapsody* for piano quartet"
+
+- composer: Brahms, Johannes
+  works:
+  - "Piano Quartet No. 1 in G minor, Op. 25"
+
+- composer: Bridge, Frank
+  works:
+  - "Quintet for Piano and Strings in D minor"
+
+- composer: Dvorák, Antonín
+  works:
+  - "Piano Quintet in A major, Op. 81"
+
+- composer: Fitkin, Graham
+  works:
+  - "*Sciosophy and Untitled 11* (2 pianos, 8 hands)"
+  - "*Totti* (2 pianos, 8 hands)"
+  - "*Flak* (2 pianos, 8 hands)"
+
+- composer: Elgar, Edward
+  works:
+  - "Piano Quintet in A minor, Op. 84"
+
+- composer: Franck, César
+  works:
+  - "Piano Quintet in F minor"
+
+- composer: Keeling, Andrew
+  works:
+  - "*Reclaiming Eros*"
+
+- composer: Mahler, Gustav
+  works:
+  - "Quartet for piano and strings in A minor"
+
+- composer: Mozart, W. A.
+  works:
+  - "Piano Quartet in E flat major, K. 493"
+
+- composer: Saint-Saëns, Camille
+  works:
+  - "Piano Quartet in B flat major, Op. 41"
+
+- composer: Schumann, Robert
+  works:
+  - "Piano Quintet in E flat major, Op. 44"
+
+- composer: Shostakovich, Dmitri
+  works:
+  - "Piano Quintet in G minor, Op. 57"
+
+- composer: Vaughan Williams, Ralph
+  works:
+  - "Piano Quintet in C minor (1903)"
+
+- composer: Woolf, Alex
+  works:
+  - "Piano Quintet (2015)"
+
+---
+type: repertoire
+subtitle: Song
+
+- composer: Beethoven, Ludwig van
+  works:
+  - "Cantata 'Adelaide', Op. 46"
+
+- composer: Britten, Benjamin
+  works:
+  - "*On This Island*, Op. 11"
+
+- composer: Caplet, André
+  works:
+  - "*L'adieu en barque*"
+
+- composer: Chopin, Frédéric
+  works:
+  - "'Was ein junges Mädchen liebt' and 'Zwei Leichen' from *Polish Songs*, Op. 74"
+
+- composer: Debussy, Claude
+  works:
+  - "*Fêtes galantes* I & II"
+
+- composer: Fauré, Gabriel
+  works:
+  - "*Mirages* Op. 113"
+  - "*L'horizon chimérique*, Op. 118"
+
+- composer: Leguerney, Jacques
+  works:
+  - "*Le Carnaval*"
+  - "*La Nuit*"
+
+- composer: Panufnik, Andrzej
+  works:
+  - "*Love Song*"
+  - "*Dreamscape*"
+
+- composer: Panufnik, Roxanna
+  works:
+  - "*Mine Eye*"
+  - "*Virtue*"
+  - "*This Mighty Heart*"
+
+- composer: Poulenc, Francis
+  works:
+  - "*Chansons Gaillardes*"
+
+- composer: Schumann, Robert
+  works:
+  - "Liederkreis, Op. 39"
+
+- composer: Szymanowski, Karol
+  works:
+  - "*Bestimmung* and *Das hat die Sommernacht getan* from Op. 22"
+
+- composer: Walker, Robin
+  works:
+  - "*Five Songs of Emily Brontë*"
+
+- composer: Wolf, Hugo
+  works:
+  - "*Abscheid*"
+  - "*Bei einer Trauung*"
+  - "*Um Mitternacht*"
+  - "*Gesang Weyla's*"
+  - "*Der Tambour*"
+  - "*An eine Aeolsharfe*"
+
+---
+type: repertoire
+subtitle: Mixed Ensemble
+
+- composer: Casken, John
+  works:
+  - "*Winter Reels* (for ensemble, 2010)"
+
+- composer: Gurney, Ivor
+  works:
+  - "*Ludlow and Teme* (for tenor, string quartet and piano)"
+
+- composer: Janáček, Leoš
+  works:
+  - "*Capriccio* for piano left hand, flute and brass ensemble"
+
+- composer: Knussen, Oliver
+  works:
+  - "*Upon One Note* for clarinet, violin, cello and piano*"
+  - "*Rosary Songs* for clarinet, soprano, viola and piano"
+
+- composer: Maxwell Davies, Peter
+  works:
+  - "*Eight Songs for a Mad King* for male voice and instrumental ensemble"
+
+- composer: Messiaen, Olivier
+  works:
+  - "*Quatuor pour la fin du temps* for clarinet, violin, cello and piano"
+
+- composer: Sierra, Arlene
+  works:
+  - "*Urban Birds* for three pianos, electronics and sampled birdsong"
+
+- composer: Thurlow, Jeremy
+  works:
+  - "*Music for strings and hammers* (for six pianos)"
+
+- composer: Vaughan-Williams, Ralph
+  works:
+  - "*On Wenlock Edge* (for tenor, string quartet and piano)"

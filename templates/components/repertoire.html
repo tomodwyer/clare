@@ -1,5 +1,8 @@
-<table>
-  {% for record in section.records %}
-    <tr><td>{{ record.0 }}</td><td>{{ record.1 }}</td></tr>
+{% for record in section.records %}
+<h5>{{ record.composer }}</h5>
+<ul class="repertoire-list">
+  {% for work in record.works %}
+  <li>{{ work }}</li>
   {% endfor %}
-</table>
+</ul>
+{% endfor %}
