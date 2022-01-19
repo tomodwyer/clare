@@ -1,0 +1,9 @@
+title: Andrzej Panufnik, Piano Concerto (1961, 22')
+---
+
+
+type: audio
+footer: Live recording with the Warsaw Philharmonic and Jacek Kaspszyk (March 2018)
+
+- path: audio/demos/panufnik-piano-concerto.mp3
+

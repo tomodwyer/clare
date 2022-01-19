@@ -38,3 +38,11 @@ footer: Live performance at Milton Court, London (March 2018)
 
 - url: https://www.youtube.com/embed/zk9L4HYTFEY
 
+---
+
+type: audio
+footer: Live broadcast for BBC Radio 3 from St David's Hall, Cardiff (December 2020)
+
+- path: audio/demos/finnis-youth.mp3
+
+

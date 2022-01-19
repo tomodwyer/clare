@@ -1,0 +1,22 @@
+title: Ed Hughes, *The Nose* (2015, 11')
+---
+type: text
+
+
+PROGRAMME NOTE
+
+The Nose (1963, 11 minutes) is a short film based on Nikolai Gogol’s dream-like story of a government official whose nose goes missing; he discovers it has grown a body and a career of its own. The film was made by Alexander Alexeieff and Claire Parker who devoted themselves to animating using the ‘pinscreen’. This method of animation uses a 3 by 4 foot perforated board, into which a million headless steel pins are inserted. With oblique lighting, a complete black and white tonal range can be achieved, including many shades of grey. Alexeieff and Parker were interested in silent visual poetry, and were frequently stimulated by musical compositions as starting points for their work. 
+
+In this new musical response for solo piano, specially written for Clare Hammond, Ed Hughes uses transparent harmonies to match the meditative and shimmering patterns of light in Alexeieff and Parker’s film; but also takes full advantage of the solo piano’s percussive qualities to capture the frequent absurdist and rhythmic moments in the film, which contribute strongly to its poignancy and humour. 
+
+Ed has previously written scores for silent films by Ivens, Ozu and Eisenstein.
+
+© Ed Hughes
+
+---
+
+type: audio
+footer: Recorded at the Attenborough Centre for Creative Arts, Falmer (August 2016)
+
+- path: audio/demos/hughes-the-nose.mp3
+

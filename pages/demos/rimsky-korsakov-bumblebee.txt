@@ -1,0 +1,11 @@
+title: Nikolai Rimsky-Korsakov, *Flight of Bumblebee* (1900, 1')
+
+
+---
+type: video
+footer: Recorded live at Milton Court, London (December 2017)
+
+- url: https://www.youtube.com/embed/aMy24hKKQ4U
+
+
+

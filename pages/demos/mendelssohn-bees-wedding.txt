@@ -1,0 +1,11 @@
+title: Felix Mendelssohn, 'The Bee's Wedding', Op. 67 No. 4 (1845, 1'30)
+
+
+---
+type: video
+footer: Recorded live at Milton Court, London (December 2017)
+
+- url: https://www.youtube.com/embed/MppfKFx_wrw
+
+
+

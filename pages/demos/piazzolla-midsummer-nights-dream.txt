@@ -1,0 +1,8 @@
+title: Astor Piazzolla (arr. Hywel Davies), Incidental Music from *A Midsummer Night's Dream* (1986, arr. 2020, 16')
+---
+
+
+type: audio
+footer: Recorded live at Wyastone Hall, near Monmouth (October 2021)
+
+- path: audio/demos/piazzolla-midsummer-nights-dream.mp3

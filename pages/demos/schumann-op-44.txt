@@ -1,0 +1,10 @@
+title: Robert Schumann, Piano Quintet in E flat major, Op. 44 (1842, 32')
+---
+
+
+type: audio
+footer: BBC Radio 3 broadcast with the Carducci Quartet at St David's Hall, Cardiff (May 2021)
+
+- path: audio/demos/schumann-op-44.mp3
+
+

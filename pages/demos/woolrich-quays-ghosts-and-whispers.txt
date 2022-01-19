@@ -1,0 +1,11 @@
+title: John Woolrich and the Quay Brothers, *Ghosts & Whispers* (2018, 59')
+
+
+---
+type: video
+footer: Recorded live at Milton Court, London (December 2018)
+
+- url: https://www.youtube.com/embed/w2GOY0qFtgU
+
+
+

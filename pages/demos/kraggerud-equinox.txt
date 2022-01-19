@@ -1,9 +1,9 @@
-title: Henning Kraggerud, *Equinox* (2014, 8'30)
+title: Henning Kraggerud, *Equinox* (2014, 76')
 ---
 
 
 type: audio
-footer: Live recording at the Oxford Chamber Music Festival (October 2019)
+footer: Live recording with Henning Kraggerud at the Oxford Chamber Music Festival (October 2019)
 
 - path: audio/demos/kraggerud-equinox-1.mp3
 

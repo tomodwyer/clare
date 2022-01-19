@@ -1,0 +1,9 @@
+title: Robert Peate, *Pearl* (2013, 5'30)
+
+
+---
+
+type: audio
+footer: Live broadcast for BBC Radio 3 from St David's Hall, Cardiff (December 2020)
+
+- path: audio/demos/peate-pearl.mp3

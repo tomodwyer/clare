@@ -1,0 +1,12 @@
+title: Marta Ptaszynska, Concerto for Piano and Strings (2017, 17'30)
+---
+
+
+type: audio
+footer: Live recording with the Filharmonia Kaliska and Natalia Ponomarchuk (October 2017)
+
+- path: audio/demos/ptaszynska-concerto-1.mp3
+
+- path: audio/demos/ptaszynska-concerto-2.mp3
+
+- path: audio/demos/ptaszynska-concerto-2.mp3
