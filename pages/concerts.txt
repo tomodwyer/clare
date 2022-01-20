@@ -157,7 +157,7 @@ repertoire = [
   ["Birchall", "Abstracts"],
   ["Medtner", "Sonata Romantica, Op. 53 No. 1"],
 ]
-time = 18:00:00
+time = 18:15:00
 address = "Emmanuel College, St Andrew's Street, Cambridge CB2 3AP"
 details = [
   "For the Burnaby Concert Series. Free entrance, no need to book.",

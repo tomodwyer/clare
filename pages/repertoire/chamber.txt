@@ -251,6 +251,10 @@ subtitle: Piano and Violin
   - "*The Apple Orchard*"
   - "*Scherzo*"
 
+- composer: Halvorsen, Johan
+  works:
+  - "Capriccio: Allegro de concert"
+
 - composer: Heath, John R.
   works:
   - "*In The Heart of the Country*"
