@@ -147,67 +147,47 @@ body {
 }
 
 .navbar {
-  border-bottom: 2px solid var(--bs-danger);
-  background-color: rgba(255, 255, 255, 0.75);
+  background-color: rgba(255, 255, 255, 0.5);
   padding: 0;
 }
 
 .navbar::before {
-  background-color: rgba(255, 255, 255, 0.75);
-  bottom: -10px;
+  background-color: var(--bs-danger);
+  bottom: -2px;
   content: " ";
-  height: 8px;
-  left: 50%;
+  height: 2px;
   position: absolute;
-  width: 100%;
-  transform: translateX(-50%);
-}
-
-@media (min-width: 576px) {
-  .navbar::before {
-    max-width: 540px;
-  }
-}
-
-@media (min-width: 768px) {
-  .navbar::before {
-    max-width: 720px;
-  }
-}
-
-@media (min-width: 992px) {
-  .navbar::before {
-    max-width: 960px;
-  }
-}
-
-@media (min-width: 1200px) {
-  .navbar::before {
-    max-width: 1140px;
-  }
-}
-
-@media (min-width: 1400px) {
-  .navbar::before {
-    max-width: 1320px;
-  }
+  right: 0;
+  width: 38%;
+  z-index: 1;
 }
 
 .navbar::after {
-  background-color: rgba(255, 255, 255, 0.75);
-  border-bottom: 2px solid var(--bs-danger);
-  bottom: -10px;
+  background-color: var(--bs-danger);
+  bottom: -7px;
   content: " ";
-  height: 8px;
-  left: 0;
+  height: 2px;
   position: absolute;
-  width: 100%;
+  right: 0;
+  width: 28%;
 }
 
-.navbar > .container {
+.container--navbar {
   background-color: white;
   padding-bottom: 0.5rem;
   padding-top: 0.5rem;
+  position: relative;
+}
+
+.container--navbar::after {
+  background-color: white;
+  bottom: -7px;
+  content: "";
+  height: 10px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  z-index: 0;
 }
 
 .navbar-brand {
