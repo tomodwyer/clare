@@ -1,0 +1,6 @@
+title: Edmund Finnis, *For Emmeline* (2018, 1'30)
+---
+type: video
+footer: Live performance for Presteigne Digital 2020, SJE Arts Oxford (July 2020)
+
+- url: https://www.youtube.com/embed/6vtO8ZeL6vw

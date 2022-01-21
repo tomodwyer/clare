@@ -1,0 +1,9 @@
+title: Felix Mendelssohn, *Songs Without Words*, Op. 67 (1845, 13'30)
+
+
+
+---
+type: video
+footer: Live performance for Wimbledon International Music Festival 2020, Menuhin Hall (October 2020)
+
+- url: https://www.youtube.com/embed/lKJWr9V1IOM 

@@ -1,9 +1,0 @@
-title: Earl Wild / George Gershwin, 'I Got Rhythm' from *7 Virtuoso Etudes* (1973, 2')
-
-
----
-
-type: audio
-footer: Live broadcast for BBC Radio 3 from St David's Hall, Cardiff (December 2020)
-
-- path: audio/demos/wild-gershwin-i-got-rhythm.mp3

@@ -4,7 +4,7 @@ main_image: philip-gatward/clare-hammond-6-medium.jpg
 type: review-list
 subtitle: "*[Variations](/reviews/variations/)*"
 full: no
-footer: "Read more reviews [here](/reviews/variations/) ..."
+footer: "Read more reviews of *Variations* [here](/reviews/variations/)."
 paths:
  - variations/telegraph
  - variations/internationalpiano
@@ -20,7 +20,7 @@ paths:
 type: review-list
 subtitle: "[Josef Myslivecek - Complete Keyboard Works](/reviews/myslivecek/)"
 full: no
-footer: "Read more reviews [here](/reviews/myslivecek/) ..."
+footer: "Read more reviews of 'Josef Myslivecek - Complete Keyboard Works' [here](/reviews/myslivecek/)."
 paths:
  - myslivecek/guardian
  - myslivecek/times
@@ -37,7 +37,7 @@ paths:
 type: review-list
 subtitle: "[Robert Saxton - Piano Music](/reviews/saxton/)"
 full: no
-footer: "Read more reviews [here](/reviews/saxton/) ..."
+footer: "Read more reviews of 'Robert Saxton - Piano Music' [here](/reviews/saxton/)."
 paths:
  - saxton/sundaytimes
  - saxton/bbcmusicmagazine
@@ -47,7 +47,7 @@ paths:
 type: review-list
 subtitle: "[Kenneth Hesketh - *Horae (pro clara)*](/reviews/hesketh/)"
 full: no
-footer: "Read more reviews [here](/reviews/hesketh/) ..."
+footer: "Read more reviews of 'Kenneth Hesketh - *Horae (pro clara)* [here](/reviews/hesketh/)."
 paths:
  - hesketh/observer
  - hesketh/gramophone
@@ -64,7 +64,7 @@ paths:
 type: review-list
 subtitle: "*[Etude](/reviews/etude/)*"
 full: no
-footer: "Read more reviews [here](/reviews/etude/) ..."
+footer: "Read more reviews of *Etude* [here](/reviews/etude/)."
 paths:
  - etude/gramophone
  - etude/bbcmusicmagazine
@@ -80,7 +80,7 @@ paths:
 type: review-list
 subtitle: "[*Reflections* - the solo piano works of Andrzej and Roxanna Panufnik](/reviews/reflections/)"
 full: no
-footer: "Read more reviews [here](/reviews/reflections/) ..."
+footer: "Read more reviews of *Reflections* [here](/reviews/reflections/)."
 paths:
  - reflections/gramophonerussia
  - reflections/fanfareusa

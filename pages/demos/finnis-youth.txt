@@ -1,4 +1,4 @@
-title: Edmund Finnis, *Youth* (2017, 15')
+title: Edmund Finnis, *Youth* (2017, 16')
 ---
 type: text
 
@@ -34,9 +34,9 @@ Youth is dedicated to my nieces and nephews.
 
 ---
 type: video
-footer: Live performance at Milton Court, London (March 2018)
+footer: Live performance for Presteigne Digital 2020, SJE Arts Oxford (July 2020)
 
-- url: https://www.youtube.com/embed/zk9L4HYTFEY
+- url: https://www.youtube.com/embed/3r9n6K19GG8
 
 ---
 

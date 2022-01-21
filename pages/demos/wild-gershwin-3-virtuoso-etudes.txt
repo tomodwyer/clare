@@ -1,0 +1,19 @@
+title: Earl Wild / George Gershwin, *Three Virtuoso Etudes after Gershwin* (1973, 9')
+
+---
+
+type: text
+
+'Embraceable You', 'Fascinatin' Rhythm' and 'I Got Rhythm'
+
+---
+type: video
+footer: Live performance for Wimbledon International Music Festival 2020, Menuhin Hall (October 2020)
+
+- url: https://www.youtube.com/embed/OLyS9kGv_ro
+---
+
+type: audio
+footer: Live broadcast of 'I Got Rhythm' for BBC Radio 3 from St David's Hall, Cardiff (December 2020)
+
+- path: audio/demos/wild-gershwin-i-got-rhythm.mp3

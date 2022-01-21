@@ -1,0 +1,9 @@
+title: Leoš Janáček, *In the Mists* (1912, 16')
+
+
+
+---
+type: video
+footer: Live performance for Presteigne Digital 2020, SJE Arts Oxford (July 2020)
+
+- url: https://www.youtube.com/embed/HU7CfuE3qt0

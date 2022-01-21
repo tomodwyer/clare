@@ -60,6 +60,8 @@ Roxburgh, Edwin: [Concerto for Piano and Winds](/demos/roxburgh-concerto-for-pia
 
 -Finnis, Edmund: [*Youth*](/demos/finnis-youth/) (2017)
 
+-Finnis, Edmund: [*For Emmeline*](/demos/finnis-for-emmeline/) (2018)
+
 -Haydn, Joseph: [Fantasia in C, Hob XVII:4](/demos/haydn-fantasia-in-c/) (1789)
 
 -Haydn, Joseph: [Sonata No. 58 in C major, Hob XVI:48](/demos/haydn-sonata-xvi-48/) (1790)
@@ -67,6 +69,8 @@ Roxburgh, Edwin: [Concerto for Piano and Winds](/demos/roxburgh-concerto-for-pia
 -Hayes, Malcolm: [*From the Purgatorio of Dante*](/demos/hayes-purgatorio/) (2007)
 
 -Hellawell, Piers: [*Piani, Latebre*](/demos/hellawell-piani-latebre/) (2010)
+
+-Janáček, Leoš: [*In The Mists*](/demos/janacek-in-the-mists/) (1912)
 
 -Kapustin, Nikolai: [5 Studies in Different Intervals, Op. 68 No. 1 (in minor seconds)](/demos/kapustin-study-1/) (1992)
 
@@ -76,7 +80,9 @@ Roxburgh, Edwin: [Concerto for Piano and Winds](/demos/roxburgh-concerto-for-pia
 
 -Mendelssohn, Felix: [*Andante and Rondo Capriccioso*, Op. 14](/demos/mendelssohn-andante-and-rondo-capriccioso/) (1824)
 
--Mendelssohn, Felix: ['The Bee's Wedding', Op. 67 No. 4](/demos/mendelssohn-bees-wedding/) (1845)
+-Mendelssohn, Felix: [*Songs Without Words*, Op. 67](/demos/mendelssohn-op-67/) (1845)
+
+-O'Regan, Tarik: [*Lines of Desire*](/demos/oregan-lines-of-desire/) (2008)
 
 -Peate, Robert: [*Pearl*](/demos/peate-pearl/) (2013)
 
@@ -100,7 +106,7 @@ Roxburgh, Edwin: [Concerto for Piano and Winds](/demos/roxburgh-concerto-for-pia
 
 -Szymanowski, Karol: [3 Mazurkas, Op. 50, Nos. 2, 9 and 6](/demos/szymanowski-mazurkas/) (1925)
 
-Wild, Earl / Gershwin, George: ['I Got Rhythm' from *7 Virtuoso Etudes*](/demos/wild-gershwin-i-got-rhythm/) (1973)
+Wild, Earl / Gershwin, George: [*Three Virtuoso Etudes after Gershwin*](/demos/wild-gershwin-3-virtuoso-etudes/) (1973)
 
 !PIANO AND FILM
 
