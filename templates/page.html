@@ -6,15 +6,15 @@
 
 <div class="container page__container">
 
-  <div id="{{ page_id }}" class="row page__content">
+  <div id="{{ page_id }}" class="row page__content px-2">
     {% if main_image %}
-      <div class="col-12 col-md-4 col-lg-6 pr-5">
+      <div class="col-12 col-md-4 col-lg-6">
         <div class="page__image-container">
           <img src="{% static main_image %}" class="w-100 page__image" />
         </div>
       </div>
 
-      <div class="col pl-5">
+      <div class="col">
         {% include "content.html" %}
       </div>
     {% else %}

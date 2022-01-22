@@ -22,18 +22,18 @@ body {
 
 /* Custom properties */
 :root {
-  --fixed-nav-gap: 72px;
+  --fixed-nav-gap: 67px;
 }
 
 @media (min-width: 992px) {
   :root {
-    --fixed-nav-gap: 7.5rem;
+    --fixed-nav-gap: 7rem;
   }
 }
 
 @media (min-width: 1200px) {
   :root {
-    --fixed-nav-gap: 5.5rem;
+    --fixed-nav-gap: 5rem;
   }
 }
 
@@ -107,15 +107,37 @@ body {
 .page__container {
   background-color: var(--bs-white);
   min-height: 100%;
+  position: relative;
+}
+
+.page__container::before {
+  background-color: var(--bs-danger);
+  content: "";
+  height: 100%;
+  left: 0.375rem;
+  position: absolute;
+  top: 0;
+  width: 2px;
+  z-index: 891011;
+}
+
+.page__container::after {
+  background-color: var(--bs-danger);
+  content: "";
+  height: 100%;
+  position: absolute;
+  right: 0.375rem;
+  top: 0;
+  width: 2px;
+  z-index: 891011;
 }
 
 .page__content {
-  border-left: 2px solid var(--bs-red);
-  border-right: 2px solid var(--bs-red);
   font-weight: 300;
   margin: 0;
   min-height: 100%;
   padding: 72px 0 3rem;
+  position: relative;
 }
 
 @media (min-width: 576px) {
@@ -130,7 +152,7 @@ body {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 767px) {
   .page__image-container {
     position: sticky;
     top: var(--fixed-nav-gap);
@@ -153,7 +175,7 @@ body {
 
 .navbar::before {
   background-color: var(--bs-danger);
-  bottom: -2px;
+  bottom: 7px;
   content: " ";
   height: 2px;
   position: absolute;
@@ -164,7 +186,7 @@ body {
 
 .navbar::after {
   background-color: var(--bs-danger);
-  bottom: -7px;
+  bottom: 0;
   content: " ";
   height: 2px;
   position: absolute;
@@ -172,22 +194,21 @@ body {
   width: 28%;
 }
 
-.container--navbar {
-  background-color: white;
+.navbar > .container {
   padding-bottom: 0.5rem;
   padding-top: 0.5rem;
   position: relative;
 }
 
-.container--navbar::after {
+.navbar > .container::after {
   background-color: white;
-  bottom: -7px;
+  bottom: 0;
   content: "";
-  height: 10px;
-  left: 0;
+  height: 100%;
+  left: 14px;
   position: absolute;
-  width: 100%;
-  z-index: 0;
+  width: calc(100% - 28px);
+  z-index: -1;
 }
 
 .navbar-brand {
@@ -238,6 +259,10 @@ body {
   .navbar-brand {
     padding-bottom: 0;
   }
+}
+
+.navbar-toggler {
+  margin-bottom: 0.5rem;
 }
 
 /* Content */
